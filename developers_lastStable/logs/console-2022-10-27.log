@@ -1,0 +1,543 @@
+12:27:12.261 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setUpUser       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:27:12.265 [main] INFO  resources.Log - ****************************************************************************************
+12:27:12.265 [main] INFO  resources.Log - ****************************************************************************************
+12:27:12.271 [main] INFO  resources.Log - Reading the Property file
+12:27:12.271 [main] INFO  resources.Log - The Value of the firstname Fetched from the Properties: TestName
+12:27:22.300 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:27:22.406 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+12:27:22.406 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+12:27:22.407 [main] INFO  resources.Log - X
+12:27:22.407 [main] INFO  resources.Log - X
+12:27:22.407 [main] INFO  resources.Log - X
+12:27:22.407 [main] INFO  resources.Log - X
+12:27:22.511 [main] INFO  resources.Log - came to flush
+12:30:40.335 [main] INFO  resources.Log - Onstart
+12:30:40.364 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+12:30:40.364 [main] INFO  resources.Log - ****************************************************************************************
+12:30:40.364 [main] INFO  resources.Log - ****************************************************************************************
+12:30:40.364 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:30:40.364 [main] INFO  resources.Log - ****************************************************************************************
+12:30:40.364 [main] INFO  resources.Log - ****************************************************************************************
+12:30:40.366 [main] INFO  resources.Log - Reading the Property file
+12:30:40.366 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2
+12:30:40.367 [main] INFO  resources.Log - Reading the Property file
+12:30:40.367 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: ayadav
+12:30:40.367 [main] INFO  resources.Log - Reading the Property file
+12:30:40.367 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Q9Kh4xwH!
+12:30:40.371 [main] INFO  resources.Log - Instance created
+12:30:41.195 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:30:41.198 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:30:41.199 [main] INFO  resources.Log - came to flush
+12:32:52.641 [main] INFO  resources.Log - Onstart
+12:32:52.669 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+12:32:52.669 [main] INFO  resources.Log - ****************************************************************************************
+12:32:52.669 [main] INFO  resources.Log - ****************************************************************************************
+12:32:52.670 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:32:52.670 [main] INFO  resources.Log - ****************************************************************************************
+12:32:52.670 [main] INFO  resources.Log - ****************************************************************************************
+12:32:52.672 [main] INFO  resources.Log - Reading the Property file
+12:32:52.672 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2
+12:32:52.673 [main] INFO  resources.Log - Reading the Property file
+12:32:52.673 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: ayadav
+12:32:52.673 [main] INFO  resources.Log - Reading the Property file
+12:32:52.673 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Q9Kh4xwH!
+12:32:52.679 [main] INFO  resources.Log - Instance created
+12:32:53.547 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:32:53.549 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:32:53.549 [main] INFO  resources.Log - came to flush
+12:38:40.120 [main] INFO  resources.Log - Onstart
+12:38:40.158 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+12:38:40.159 [main] INFO  resources.Log - ****************************************************************************************
+12:38:40.159 [main] INFO  resources.Log - ****************************************************************************************
+12:38:40.159 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:38:40.159 [main] INFO  resources.Log - ****************************************************************************************
+12:38:40.159 [main] INFO  resources.Log - ****************************************************************************************
+12:38:40.163 [main] INFO  resources.Log - Reading the Property file
+12:38:40.164 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=true;
+12:38:40.164 [main] INFO  resources.Log - Reading the Property file
+12:38:40.164 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: ayadav
+12:38:40.165 [main] INFO  resources.Log - Reading the Property file
+12:38:40.165 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Q9Kh4xwH!
+12:38:40.169 [main] INFO  resources.Log - Instance created
+12:38:40.317 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:38:40.321 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:38:40.322 [main] INFO  resources.Log - came to flush
+12:39:38.280 [main] INFO  resources.Log - Onstart
+12:39:38.313 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+12:39:38.314 [main] INFO  resources.Log - ****************************************************************************************
+12:39:38.314 [main] INFO  resources.Log - ****************************************************************************************
+12:39:38.314 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:39:38.314 [main] INFO  resources.Log - ****************************************************************************************
+12:39:38.314 [main] INFO  resources.Log - ****************************************************************************************
+12:39:38.317 [main] INFO  resources.Log - Reading the Property file
+12:39:38.318 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE;
+12:39:38.318 [main] INFO  resources.Log - Reading the Property file
+12:39:38.318 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: ayadav
+12:39:38.319 [main] INFO  resources.Log - Reading the Property file
+12:39:38.319 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Q9Kh4xwH!
+12:39:38.324 [main] INFO  resources.Log - Instance created
+12:39:38.437 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:39:38.440 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:39:38.440 [main] INFO  resources.Log - came to flush
+12:40:21.324 [main] INFO  resources.Log - Onstart
+12:40:21.352 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+12:40:21.352 [main] INFO  resources.Log - ****************************************************************************************
+12:40:21.352 [main] INFO  resources.Log - ****************************************************************************************
+12:40:21.352 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:40:21.352 [main] INFO  resources.Log - ****************************************************************************************
+12:40:21.353 [main] INFO  resources.Log - ****************************************************************************************
+12:40:21.355 [main] INFO  resources.Log - Reading the Property file
+12:40:21.355 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE
+12:40:21.355 [main] INFO  resources.Log - Reading the Property file
+12:40:21.355 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: ayadav
+12:40:21.356 [main] INFO  resources.Log - Reading the Property file
+12:40:21.356 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Q9Kh4xwH!
+12:40:21.360 [main] INFO  resources.Log - Instance created
+12:40:27.451 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:40:27.453 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:40:27.453 [main] INFO  resources.Log - came to flush
+12:41:36.989 [main] INFO  resources.Log - Onstart
+12:41:37.020 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+12:41:37.021 [main] INFO  resources.Log - ****************************************************************************************
+12:41:37.021 [main] INFO  resources.Log - ****************************************************************************************
+12:41:37.021 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:41:37.021 [main] INFO  resources.Log - ****************************************************************************************
+12:41:37.021 [main] INFO  resources.Log - ****************************************************************************************
+12:41:37.024 [main] INFO  resources.Log - Reading the Property file
+12:41:37.024 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE
+12:41:37.024 [main] INFO  resources.Log - Reading the Property file
+12:41:37.024 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+12:41:37.025 [main] INFO  resources.Log - Reading the Property file
+12:41:37.025 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+12:41:37.030 [main] INFO  resources.Log - Instance created
+12:41:43.139 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:41:43.140 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:41:43.141 [main] INFO  resources.Log - came to flush
+12:50:51.482 [main] INFO  resources.Log - Onstart
+12:50:51.514 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+12:50:51.514 [main] INFO  resources.Log - ****************************************************************************************
+12:50:51.514 [main] INFO  resources.Log - ****************************************************************************************
+12:50:51.514 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:50:51.515 [main] INFO  resources.Log - ****************************************************************************************
+12:50:51.515 [main] INFO  resources.Log - ****************************************************************************************
+12:50:51.517 [main] INFO  resources.Log - Reading the Property file
+12:50:51.518 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE
+12:50:51.518 [main] INFO  resources.Log - Reading the Property file
+12:50:51.518 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+12:50:51.518 [main] INFO  resources.Log - Reading the Property file
+12:50:51.518 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+12:50:51.522 [main] INFO  resources.Log - Instance created
+12:50:57.612 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:50:57.613 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:50:57.613 [main] INFO  resources.Log - came to flush
+12:53:34.116 [main] INFO  resources.Log - Onstart
+12:53:34.125 [main] INFO  resources.Log - Reading the Property file
+12:53:34.126 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+12:53:34.126 [main] INFO  resources.Log - Fetching the Browser value as chrome
+12:53:34.126 [main] INFO  resources.Log - Invoking the chrome Browser
+12:53:36.082 [main] INFO  resources.Log - Maximized the Browser window
+12:53:36.088 [main] INFO  resources.Log - Reading the Property file
+12:53:36.088 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+12:53:40.784 [main] INFO  resources.Log - Listener OnTestStart method newSignUp
+12:53:40.784 [main] INFO  resources.Log - ****************************************************************************************
+12:53:40.784 [main] INFO  resources.Log - ****************************************************************************************
+12:53:40.784 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 newSignUp       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:53:40.784 [main] INFO  resources.Log - ****************************************************************************************
+12:53:40.784 [main] INFO  resources.Log - ****************************************************************************************
+12:53:40.794 [main] INFO  resources.Log - Reading the Property file
+12:53:40.794 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7nbhg@rtrydoh.comm
+12:53:41.902 [main] INFO  resources.Log - Reading the Property file
+12:53:41.902 [main] INFO  resources.Log - The Value of the emailverify Fetched from the Properties: https://stagingpartners.dotgo.com/email-verify
+12:53:41.906 [main] INFO  resources.Log - ------SUccessfully Redirected to Email Verify confirm Page---------
+12:53:46.906 [main] INFO  resources.Log - Clicked On OK BUtton
+12:53:46.907 [main] INFO  resources.Log - Reading the Property file
+12:53:46.907 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE
+12:53:46.907 [main] INFO  resources.Log - Reading the Property file
+12:53:46.907 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+12:53:46.907 [main] INFO  resources.Log - Reading the Property file
+12:53:46.907 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+12:53:46.910 [main] INFO  resources.Log - Instance created
+12:53:52.839 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:53:52.931 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+12:53:52.933 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+12:53:52.933 [main] INFO  resources.Log - X
+12:53:52.933 [main] INFO  resources.Log - X
+12:53:52.933 [main] INFO  resources.Log - X
+12:53:52.933 [main] INFO  resources.Log - X
+12:53:52.936 [main] INFO  resources.Log - Listener OnTestStart method setupPageRedirect
+12:53:52.936 [main] INFO  resources.Log - ****************************************************************************************
+12:53:52.936 [main] INFO  resources.Log - ****************************************************************************************
+12:53:52.936 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setupPageRedirect       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:53:52.936 [main] INFO  resources.Log - ****************************************************************************************
+12:53:52.936 [main] INFO  resources.Log - ****************************************************************************************
+12:53:52.937 [main] INFO  resources.Log - Reading the Property file
+12:53:52.937 [main] INFO  resources.Log - The Value of the LoginURL Fetched from the Properties: https://stagingrcsapi.kirusa.com/auth/login
+12:53:56.641 [main] INFO  resources.Log - Reading the Property file
+12:53:56.641 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7nbhg@rtrydoh.comm
+12:53:56.689 [main] INFO  resources.Log - Reading the Property file
+12:53:56.689 [main] INFO  resources.Log - The Value of the confirmpassword Fetched from the Properties: Abcd@1234
+12:53:57.806 [main] INFO  resources.Log - Entered EMAIL, PASSWORD and clicked on Submit
+12:53:57.814 [main] INFO  resources.Log - Reading the Property file
+12:53:57.815 [main] INFO  resources.Log - The Value of the SetupUserURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/setup-user
+12:53:57.817 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:53:58.025 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+12:53:58.025 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+12:53:58.025 [main] INFO  resources.Log - X
+12:53:58.025 [main] INFO  resources.Log - X
+12:53:58.026 [main] INFO  resources.Log - X
+12:53:58.026 [main] INFO  resources.Log - X
+12:53:58.027 [main] INFO  resources.Log - Listener OnTestStart method setUpUser
+12:53:58.027 [main] INFO  resources.Log - ****************************************************************************************
+12:53:58.027 [main] INFO  resources.Log - ****************************************************************************************
+12:53:58.027 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setUpUser       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:53:58.027 [main] INFO  resources.Log - ****************************************************************************************
+12:53:58.027 [main] INFO  resources.Log - ****************************************************************************************
+12:53:58.039 [main] INFO  resources.Log - Reading the Property file
+12:53:58.039 [main] INFO  resources.Log - The Value of the firstname Fetched from the Properties: TestName
+12:54:08.074 [main] INFO  resources.Log - Taking Screeshot of the webpage
+12:54:08.170 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+12:54:08.171 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+12:54:08.171 [main] INFO  resources.Log - X
+12:54:08.171 [main] INFO  resources.Log - X
+12:54:08.171 [main] INFO  resources.Log - X
+12:54:08.171 [main] INFO  resources.Log - X
+12:54:08.277 [main] INFO  resources.Log - came to flush
+14:01:02.763 [main] INFO  resources.Log - Onstart
+14:01:02.772 [main] INFO  resources.Log - Reading the Property file
+14:01:02.773 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+14:01:02.773 [main] INFO  resources.Log - Fetching the Browser value as chrome
+14:01:02.773 [main] INFO  resources.Log - Invoking the chrome Browser
+14:01:05.755 [main] INFO  resources.Log - Maximized the Browser window
+14:01:05.767 [main] INFO  resources.Log - Reading the Property file
+14:01:05.768 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+14:01:10.401 [main] INFO  resources.Log - Listener OnTestStart method newSignUp
+14:01:10.402 [main] INFO  resources.Log - ****************************************************************************************
+14:01:10.402 [main] INFO  resources.Log - ****************************************************************************************
+14:01:10.402 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 newSignUp       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:01:10.402 [main] INFO  resources.Log - ****************************************************************************************
+14:01:10.403 [main] INFO  resources.Log - ****************************************************************************************
+14:01:10.428 [main] INFO  resources.Log - Reading the Property file
+14:01:10.429 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7nbhg@rtrydoh.comm
+14:01:11.720 [main] INFO  resources.Log - Reading the Property file
+14:01:11.720 [main] INFO  resources.Log - The Value of the emailverify Fetched from the Properties: https://stagingpartners.dotgo.com/email-verify
+14:01:11.731 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:01:11.916 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+14:01:11.918 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:01:11.919 [main] INFO  resources.Log - X
+14:01:11.919 [main] INFO  resources.Log - X
+14:01:11.919 [main] INFO  resources.Log - X
+14:01:11.919 [main] INFO  resources.Log - X
+14:01:11.923 [main] INFO  resources.Log - Listener OnTestStart method setupPageRedirect
+14:01:11.923 [main] INFO  resources.Log - ****************************************************************************************
+14:01:11.923 [main] INFO  resources.Log - ****************************************************************************************
+14:01:11.923 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setupPageRedirect       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:01:11.923 [main] INFO  resources.Log - ****************************************************************************************
+14:01:11.923 [main] INFO  resources.Log - ****************************************************************************************
+14:01:11.923 [main] INFO  resources.Log - Reading the Property file
+14:01:11.924 [main] INFO  resources.Log - The Value of the LoginURL Fetched from the Properties: https://stagingrcsapi.kirusa.com/auth/login
+14:01:13.984 [main] INFO  resources.Log - Reading the Property file
+14:01:13.984 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7nbhg@rtrydoh.comm
+14:01:14.002 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:01:14.010 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:01:14.104 [main] INFO  resources.Log - came to flush
+14:01:36.781 [main] INFO  resources.Log - Onstart
+14:01:36.793 [main] INFO  resources.Log - Reading the Property file
+14:01:36.793 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+14:01:36.793 [main] INFO  resources.Log - Fetching the Browser value as chrome
+14:01:36.793 [main] INFO  resources.Log - Invoking the chrome Browser
+14:01:39.194 [main] INFO  resources.Log - Maximized the Browser window
+14:01:39.202 [main] INFO  resources.Log - Reading the Property file
+14:01:39.202 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+14:01:44.543 [main] INFO  resources.Log - Listener OnTestStart method newSignUp
+14:01:44.544 [main] INFO  resources.Log - ****************************************************************************************
+14:01:44.544 [main] INFO  resources.Log - ****************************************************************************************
+14:01:44.544 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 newSignUp       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:01:44.545 [main] INFO  resources.Log - ****************************************************************************************
+14:01:44.545 [main] INFO  resources.Log - ****************************************************************************************
+14:01:44.571 [main] INFO  resources.Log - Reading the Property file
+14:01:44.571 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7niytg@rtrydoh.comm
+14:01:45.744 [main] INFO  resources.Log - Reading the Property file
+14:01:45.745 [main] INFO  resources.Log - The Value of the emailverify Fetched from the Properties: https://stagingpartners.dotgo.com/email-verify
+14:01:45.750 [main] INFO  resources.Log - ------SUccessfully Redirected to Email Verify confirm Page---------
+14:01:50.752 [main] INFO  resources.Log - Clicked On OK BUtton
+14:01:50.752 [main] INFO  resources.Log - Reading the Property file
+14:01:50.753 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE
+14:01:50.753 [main] INFO  resources.Log - Reading the Property file
+14:01:50.753 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+14:01:50.753 [main] INFO  resources.Log - Reading the Property file
+14:01:50.754 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+14:01:50.766 [main] INFO  resources.Log - Instance created
+14:01:56.867 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:01:57.023 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+14:01:57.025 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:01:57.025 [main] INFO  resources.Log - X
+14:01:57.025 [main] INFO  resources.Log - X
+14:01:57.025 [main] INFO  resources.Log - X
+14:01:57.025 [main] INFO  resources.Log - X
+14:01:57.029 [main] INFO  resources.Log - Listener OnTestStart method setupPageRedirect
+14:01:57.029 [main] INFO  resources.Log - ****************************************************************************************
+14:01:57.029 [main] INFO  resources.Log - ****************************************************************************************
+14:01:57.030 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setupPageRedirect       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:01:57.030 [main] INFO  resources.Log - ****************************************************************************************
+14:01:57.030 [main] INFO  resources.Log - ****************************************************************************************
+14:01:57.030 [main] INFO  resources.Log - Reading the Property file
+14:01:57.030 [main] INFO  resources.Log - The Value of the LoginURL Fetched from the Properties: https://stagingrcsapi.kirusa.com/auth/login
+14:02:00.225 [main] INFO  resources.Log - Reading the Property file
+14:02:00.226 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7niytg@rtrydoh.comm
+14:02:00.326 [main] INFO  resources.Log - Reading the Property file
+14:02:00.326 [main] INFO  resources.Log - The Value of the confirmpassword Fetched from the Properties: Abcd@1234
+14:02:01.732 [main] INFO  resources.Log - Entered EMAIL, PASSWORD and clicked on Submit
+14:02:01.738 [main] INFO  resources.Log - Reading the Property file
+14:02:01.738 [main] INFO  resources.Log - The Value of the SetupUserURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/setup-user
+14:02:01.740 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:02:01.965 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+14:02:01.966 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:02:01.966 [main] INFO  resources.Log - X
+14:02:01.966 [main] INFO  resources.Log - X
+14:02:01.966 [main] INFO  resources.Log - X
+14:02:01.966 [main] INFO  resources.Log - X
+14:02:01.968 [main] INFO  resources.Log - Listener OnTestStart method setUpUser
+14:02:01.968 [main] INFO  resources.Log - ****************************************************************************************
+14:02:01.969 [main] INFO  resources.Log - ****************************************************************************************
+14:02:01.969 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setUpUser       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:02:01.969 [main] INFO  resources.Log - ****************************************************************************************
+14:02:01.969 [main] INFO  resources.Log - ****************************************************************************************
+14:02:01.984 [main] INFO  resources.Log - Reading the Property file
+14:02:01.985 [main] INFO  resources.Log - The Value of the firstname Fetched from the Properties: TestName
+14:02:12.021 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:02:12.261 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+14:02:12.262 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:02:12.262 [main] INFO  resources.Log - X
+14:02:12.262 [main] INFO  resources.Log - X
+14:02:12.262 [main] INFO  resources.Log - X
+14:02:12.263 [main] INFO  resources.Log - X
+14:02:12.370 [main] INFO  resources.Log - came to flush
+14:06:39.847 [main] INFO  resources.Log - Onstart
+14:06:39.874 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+14:06:39.874 [main] INFO  resources.Log - ****************************************************************************************
+14:06:39.875 [main] INFO  resources.Log - ****************************************************************************************
+14:06:39.875 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:06:39.875 [main] INFO  resources.Log - ****************************************************************************************
+14:06:39.875 [main] INFO  resources.Log - ****************************************************************************************
+14:06:39.878 [main] INFO  resources.Log - Reading the Property file
+14:06:39.878 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE
+14:06:39.879 [main] INFO  resources.Log - Reading the Property file
+14:06:39.879 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+14:06:39.879 [main] INFO  resources.Log - Reading the Property file
+14:06:39.879 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+14:06:39.884 [main] INFO  resources.Log - Instance created
+14:06:46.015 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:06:46.017 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:06:46.018 [main] INFO  resources.Log - came to flush
+14:28:54.520 [main] INFO  resources.Log - Onstart
+14:28:54.552 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+14:28:54.552 [main] INFO  resources.Log - ****************************************************************************************
+14:28:54.552 [main] INFO  resources.Log - ****************************************************************************************
+14:28:54.552 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:28:54.552 [main] INFO  resources.Log - ****************************************************************************************
+14:28:54.552 [main] INFO  resources.Log - ****************************************************************************************
+14:28:54.554 [main] INFO  resources.Log - Reading the Property file
+14:28:54.554 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE
+14:28:54.555 [main] INFO  resources.Log - Reading the Property file
+14:28:54.555 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+14:28:54.555 [main] INFO  resources.Log - Reading the Property file
+14:28:54.555 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+14:28:54.559 [main] INFO  resources.Log - Instance created
+14:29:00.747 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:29:00.753 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:29:00.754 [main] INFO  resources.Log - came to flush
+14:31:42.044 [main] INFO  resources.Log - Onstart
+14:31:42.078 [main] INFO  resources.Log - Listener OnTestStart method executeConnection
+14:31:42.078 [main] INFO  resources.Log - ****************************************************************************************
+14:31:42.078 [main] INFO  resources.Log - ****************************************************************************************
+14:31:42.078 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 executeConnection       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:31:42.078 [main] INFO  resources.Log - ****************************************************************************************
+14:31:42.078 [main] INFO  resources.Log - ****************************************************************************************
+14:31:42.081 [main] INFO  resources.Log - Reading the Property file
+14:31:42.081 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE&useSSL=false
+14:31:42.081 [main] INFO  resources.Log - Reading the Property file
+14:31:42.081 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+14:31:42.082 [main] INFO  resources.Log - Reading the Property file
+14:31:42.082 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+14:31:42.086 [main] INFO  resources.Log - Instance created
+14:31:45.031 [main] INFO  resources.Log - checking database connection
+14:31:45.032 [main] INFO  resources.Log - ----------Database conection successfull----------
+14:31:45.053 [main] INFO  resources.Log - Reading the Property file
+14:31:45.053 [main] INFO  resources.Log - The Value of the newEmail Fetched from the Properties: c82x2s2p39@maildax.me
+14:31:45.367 [main] INFO  resources.Log - ID is2027
+14:31:45.368 [main] INFO  resources.Log - --------Database connection closed successfully----------
+14:31:45.376 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:31:45.376 [main] INFO  resources.Log - X
+14:31:45.377 [main] INFO  resources.Log - X
+14:31:45.377 [main] INFO  resources.Log - X
+14:31:45.377 [main] INFO  resources.Log - X
+14:31:45.380 [main] INFO  resources.Log - came to flush
+14:32:49.793 [main] INFO  resources.Log - Onstart
+14:32:49.802 [main] INFO  resources.Log - Reading the Property file
+14:32:49.802 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+14:32:49.802 [main] INFO  resources.Log - Fetching the Browser value as chrome
+14:32:49.802 [main] INFO  resources.Log - Invoking the chrome Browser
+14:32:51.493 [main] INFO  resources.Log - Maximized the Browser window
+14:32:51.499 [main] INFO  resources.Log - Reading the Property file
+14:32:51.499 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+14:32:56.727 [main] INFO  resources.Log - Listener OnTestStart method newSignUp
+14:32:56.727 [main] INFO  resources.Log - ****************************************************************************************
+14:32:56.727 [main] INFO  resources.Log - ****************************************************************************************
+14:32:56.727 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 newSignUp       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:32:56.727 [main] INFO  resources.Log - ****************************************************************************************
+14:32:56.728 [main] INFO  resources.Log - ****************************************************************************************
+14:32:56.744 [main] INFO  resources.Log - Reading the Property file
+14:32:56.744 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7iouytg@rtrydoh.comm
+14:32:57.910 [main] INFO  resources.Log - Reading the Property file
+14:32:57.911 [main] INFO  resources.Log - The Value of the emailverify Fetched from the Properties: https://stagingpartners.dotgo.com/email-verify
+14:32:57.913 [main] INFO  resources.Log - ------SUccessfully Redirected to Email Verify confirm Page---------
+14:33:02.914 [main] INFO  resources.Log - Clicked On OK BUtton
+14:33:02.915 [main] INFO  resources.Log - Reading the Property file
+14:33:02.915 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE&useSSL=false
+14:33:02.915 [main] INFO  resources.Log - Reading the Property file
+14:33:02.915 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+14:33:02.915 [main] INFO  resources.Log - Reading the Property file
+14:33:02.915 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+14:33:02.920 [main] INFO  resources.Log - Instance created
+14:33:05.850 [main] INFO  resources.Log - checking database connection
+14:33:05.850 [main] INFO  resources.Log - ----------Database conection successfull----------
+14:33:05.864 [main] INFO  resources.Log - Reading the Property file
+14:33:05.864 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7iouytg@rtrydoh.comm
+14:33:06.182 [main] INFO  resources.Log - ID is2134
+14:33:06.184 [main] INFO  resources.Log - --------Database connection closed successfully----------
+14:33:06.184 [main] INFO  resources.Log - ID is 2134
+14:33:07.152 [main] INFO  resources.Log - Reading the Property file
+14:33:07.152 [main] INFO  resources.Log - The Value of the newpassword Fetched from the Properties: Abcd@1234
+14:33:07.232 [main] INFO  resources.Log - Reading the Property file
+14:33:07.233 [main] INFO  resources.Log - The Value of the confirmpassword Fetched from the Properties: Abcd@1234
+14:33:12.379 [main] INFO  resources.Log - Reading the Property file
+14:33:12.379 [main] INFO  resources.Log - The Value of the LoginURL Fetched from the Properties: https://stagingrcsapi.kirusa.com/auth/login
+14:33:12.379 [main] INFO  resources.Log - -------Successfully Password has been set and Redirected to the Login Page------------
+14:33:12.382 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:33:12.383 [main] INFO  resources.Log - X
+14:33:12.383 [main] INFO  resources.Log - X
+14:33:12.383 [main] INFO  resources.Log - X
+14:33:12.383 [main] INFO  resources.Log - X
+14:33:12.386 [main] INFO  resources.Log - Listener OnTestStart method setupPageRedirect
+14:33:12.387 [main] INFO  resources.Log - ****************************************************************************************
+14:33:12.387 [main] INFO  resources.Log - ****************************************************************************************
+14:33:12.387 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setupPageRedirect       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:33:12.387 [main] INFO  resources.Log - ****************************************************************************************
+14:33:12.387 [main] INFO  resources.Log - ****************************************************************************************
+14:33:12.388 [main] INFO  resources.Log - Reading the Property file
+14:33:12.388 [main] INFO  resources.Log - The Value of the LoginURL Fetched from the Properties: https://stagingrcsapi.kirusa.com/auth/login
+14:33:13.918 [main] INFO  resources.Log - Reading the Property file
+14:33:13.919 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7iouytg@rtrydoh.comm
+14:33:14.046 [main] INFO  resources.Log - Reading the Property file
+14:33:14.046 [main] INFO  resources.Log - The Value of the confirmpassword Fetched from the Properties: Abcd@1234
+14:33:18.078 [main] INFO  resources.Log - Entered EMAIL, PASSWORD and clicked on Submit
+14:33:18.114 [main] INFO  resources.Log - Reading the Property file
+14:33:18.115 [main] INFO  resources.Log - The Value of the SetupUserURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/setup-user
+14:33:18.115 [main] INFO  resources.Log - --------Successfully Redirected to the Setup USER page----------
+14:33:18.115 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:33:18.116 [main] INFO  resources.Log - X
+14:33:18.116 [main] INFO  resources.Log - X
+14:33:18.116 [main] INFO  resources.Log - X
+14:33:18.116 [main] INFO  resources.Log - X
+14:33:18.119 [main] INFO  resources.Log - Listener OnTestStart method setUpUser
+14:33:18.119 [main] INFO  resources.Log - ****************************************************************************************
+14:33:18.119 [main] INFO  resources.Log - ****************************************************************************************
+14:33:18.120 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setUpUser       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:33:18.120 [main] INFO  resources.Log - ****************************************************************************************
+14:33:18.120 [main] INFO  resources.Log - ****************************************************************************************
+14:33:18.133 [main] INFO  resources.Log - Reading the Property file
+14:33:18.134 [main] INFO  resources.Log - The Value of the firstname Fetched from the Properties: TestName
+14:33:18.257 [main] INFO  resources.Log - Reading the Property file
+14:33:18.257 [main] INFO  resources.Log - The Value of the lastname Fetched from the Properties: TestLastName
+14:33:18.611 [main] INFO  resources.Log - Reading the Property file
+14:33:18.611 [main] INFO  resources.Log - The Value of the phonenumber Fetched from the Properties: 8881000048
+14:33:20.865 [main] INFO  resources.Log - Reading the Property file
+14:33:20.865 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE&useSSL=false
+14:33:20.865 [main] INFO  resources.Log - Reading the Property file
+14:33:20.866 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+14:33:20.866 [main] INFO  resources.Log - Reading the Property file
+14:33:20.866 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+14:33:20.866 [main] INFO  resources.Log - Instance created
+14:33:23.590 [main] INFO  resources.Log - checking database connection
+14:33:23.591 [main] INFO  resources.Log - ----------Database conection successfull----------
+14:33:23.591 [main] INFO  resources.Log - Reading the Property file
+14:33:23.591 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7iouytg@rtrydoh.comm
+14:33:23.896 [main] INFO  resources.Log - otp is S786
+14:33:23.896 [main] INFO  resources.Log - --------Database connection closed successfully----------
+14:33:23.896 [main] INFO  resources.Log - otp is 786
+14:33:29.360 [main] INFO  resources.Log - Taking Screeshot of the webpage
+14:33:29.545 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+14:33:29.547 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:33:29.548 [main] INFO  resources.Log - X
+14:33:29.548 [main] INFO  resources.Log - X
+14:33:29.548 [main] INFO  resources.Log - X
+14:33:29.548 [main] INFO  resources.Log - X
+14:33:29.656 [main] INFO  resources.Log - came to flush
+14:35:21.001 [main] INFO  resources.Log - Onstart
+14:35:21.011 [main] INFO  resources.Log - Reading the Property file
+14:35:21.012 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+14:35:21.012 [main] INFO  resources.Log - Fetching the Browser value as chrome
+14:35:21.012 [main] INFO  resources.Log - Invoking the chrome Browser
+14:35:23.158 [main] INFO  resources.Log - Maximized the Browser window
+14:35:23.164 [main] INFO  resources.Log - Reading the Property file
+14:35:23.164 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+14:35:29.963 [main] INFO  resources.Log - Listener OnTestStart method newSignUp
+14:35:29.963 [main] INFO  resources.Log - ****************************************************************************************
+14:35:29.964 [main] INFO  resources.Log - ****************************************************************************************
+14:35:29.964 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 newSignUp       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:35:29.964 [main] INFO  resources.Log - ****************************************************************************************
+14:35:29.964 [main] INFO  resources.Log - ****************************************************************************************
+14:35:29.991 [main] INFO  resources.Log - Reading the Property file
+14:35:29.991 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7ioiyttg@rtrydoh.comm
+14:35:31.195 [main] INFO  resources.Log - Reading the Property file
+14:35:31.195 [main] INFO  resources.Log - The Value of the emailverify Fetched from the Properties: https://stagingpartners.dotgo.com/email-verify
+14:35:31.198 [main] INFO  resources.Log - ------SUccessfully Redirected to Email Verify confirm Page---------
+14:35:36.198 [main] INFO  resources.Log - Clicked On OK BUtton
+14:35:36.199 [main] INFO  resources.Log - Reading the Property file
+14:35:36.199 [main] INFO  resources.Log - The Value of the url Fetched from the Properties: jdbc:mysql://172.20.20.116:3306/rcsbotdirectoryv2?autoReconnect=TRUE&useSSL=false
+14:35:36.200 [main] INFO  resources.Log - Reading the Property file
+14:35:36.200 [main] INFO  resources.Log - The Value of the user Fetched from the Properties: testqa
+14:35:36.200 [main] INFO  resources.Log - Reading the Property file
+14:35:36.201 [main] INFO  resources.Log - The Value of the password Fetched from the Properties: Xpsr@350
+14:35:36.208 [main] INFO  resources.Log - Instance created
+14:35:39.146 [main] INFO  resources.Log - checking database connection
+14:35:39.147 [main] INFO  resources.Log - ----------Database conection successfull----------
+14:35:39.174 [main] INFO  resources.Log - Reading the Property file
+14:35:39.174 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7ioiyttg@rtrydoh.comm
+14:35:39.486 [main] INFO  resources.Log - ID is2135
+14:35:39.487 [main] INFO  resources.Log - --------Database connection closed successfully----------
+14:35:39.487 [main] INFO  resources.Log - ID is 2135
+14:35:40.460 [main] INFO  resources.Log - Reading the Property file
+14:35:40.461 [main] INFO  resources.Log - The Value of the newpassword Fetched from the Properties: Abcd@1234
+14:35:40.551 [main] INFO  resources.Log - Reading the Property file
+14:35:40.552 [main] INFO  resources.Log - The Value of the confirmpassword Fetched from the Properties: Abcd@1234
+14:35:45.698 [main] INFO  resources.Log - Reading the Property file
+14:35:45.698 [main] INFO  resources.Log - The Value of the LoginURL Fetched from the Properties: https://stagingrcsapi.kirusa.com/auth/login
+14:35:45.699 [main] INFO  resources.Log - -------Successfully Password has been set and Redirected to the Login Page------------
+14:35:45.705 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:35:45.705 [main] INFO  resources.Log - X
+14:35:45.706 [main] INFO  resources.Log - X
+14:35:45.706 [main] INFO  resources.Log - X
+14:35:45.706 [main] INFO  resources.Log - X
+14:35:45.709 [main] INFO  resources.Log - Listener OnTestStart method setupPageRedirect
+14:35:45.710 [main] INFO  resources.Log - ****************************************************************************************
+14:35:45.710 [main] INFO  resources.Log - ****************************************************************************************
+14:35:45.710 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 setupPageRedirect       $$$$$$$$$$$$$$$$$$$$$$$$$
+14:35:45.710 [main] INFO  resources.Log - ****************************************************************************************
+14:35:45.710 [main] INFO  resources.Log - ****************************************************************************************
+14:35:45.711 [main] INFO  resources.Log - Reading the Property file
+14:35:45.711 [main] INFO  resources.Log - The Value of the LoginURL Fetched from the Properties: https://stagingrcsapi.kirusa.com/auth/login
+14:35:47.231 [main] INFO  resources.Log - Reading the Property file
+14:35:47.231 [main] INFO  resources.Log - The Value of the signupemailid Fetched from the Properties: kj7ioiyttg@rtrydoh.comm
+14:35:47.359 [main] INFO  resources.Log - Reading the Property file
+14:35:47.359 [main] INFO  resources.Log - The Value of the confirmpassword Fetched from the Properties: Abcd@1234
+14:35:51.631 [main] INFO  resources.Log - Entered EMAIL, PASSWORD and clicked on Submit
+14:35:51.695 [main] INFO  resources.Log - Reading the Property file
+14:35:51.696 [main] INFO  resources.Log - The Value of the SetupUserURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/setup-user
+14:35:51.696 [main] INFO  resources.Log - --------Successfully Redirected to the Setup USER page----------
+14:35:51.696 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+14:35:51.697 [main] INFO  resources.Log - X
+14:35:51.697 [main] INFO  resources.Log - X
+14:35:51.697 [main] INFO  resources.Log - X
+14:35:51.697 [main] INFO  resources.Log - X
+14:35:51.701 [main] INFO  resources.Log - Listener OnTestStart method setUpUser

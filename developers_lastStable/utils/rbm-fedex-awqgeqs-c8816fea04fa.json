@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rbm-fedex-awqgeqs",
+  "private_key_id": "c8816fea04fa618dfcf53e4eea1e0a2cd9914093",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGbZWaSuEaOAJJ\ngaMkZKBIhkfIpgVxrGjow8YYbF9PxV4PrFsLrcV713bxOhsqhDHatF/y9PNTVvEb\n3y3eouGaI6sOadHYBynq2VwVMZvdPrcThAriejt0c5AEJW3DxAmcpFu/XzQzmJnu\nwVBzdI6TatJcB/X/WAUGu06lrKOr5FxnfTJyjvZtfhjAYBwqqH9aFacu1k6vsVEF\nMvnP+i2SJt+ozZ+gGfsmLiQGfTY8z7j4iaTVPpCAsQ53b77fipx7zzgT3wCr8KOL\n970P3hNvD3hxO9MzzgjDq5wfBzSpKL/IHI44BE/+oPZploE4w+vv7f5N0eijZwW5\nfxMBH7zvAgMBAAECggEACyFCbvEcRzg1CKJ44CW0x9ygUiTd0U52Y/f3OI97mSHc\n8MweHz2UAipHxagYtf3MPhQ3/Yy3yUjrJUETdZV1SgwOIDTXTGK6ey3N+HJb58EI\ny9NwONvaUeHZhiIDUiPA1kRx0P4qE2rP15CITrGO/b3UJs1bgwMQ5RvEgY55b766\nC1ZHtBCKvKv6lADqJOJk4Ix8s4JK1n7qNxGoDhzeQU+q7DoFOogv0yFpjRADL/3g\nkkJrUNIlBeeFiGDLnUHCTBNF+FQywtASHYL1lPeSHLbXFIWh/k+a/rBcqWJ3hx0h\nKgQt9M8Yr0u8+BpNhI+96gYoO8epczZBFBkDr0D+QQKBgQDvlHmxLkAyeMVTAgxi\nsU/bopuJbhVcXc0mSKH+Fgiz1eH5kesuVLIlbWfRk7BrD78QlGqRIO0hDUeq999b\nF9TTaicBL8VZyE1ox0+poaoi6nyNsS6AMQA65tuyeLVfmGMHd9NtAePr1Tx+imvF\nfUCAKNG3mNak3GbemsxDQjZzaQKBgQDUBxUfDJPuxS1Dp8x4uNI/yTXH9KL6EJXX\nTtI6a1LyevOKulXx89aKAAA3QWKku+TiUqRmNk4+JEL8b81lTv8UJ0aTH4/Thzxf\n/EtgmQV7x6Qzxz67wTrpAINaWKk83BP6HTcGZoX2hQKsiAb23fewLnPd1QYLB16Q\nz3DOnOEalwKBgQC3MRDcKkFsVmyLzEUsMeieSPglXcd3mUIExAUaBD8jQ6hG7Qyn\noJuXgtCfsA51ztSKGPJjhonLfBwQ3vgq704NWl34yk5dGIwYUk7XpoYxrJsQvSqR\nWuaSI3RaQ3JsZllSnI1ODOP6sFJRcAZ4PA3V8WBqwrNd3CnMjREjXL3GAQKBgGA/\njtD3brf2/iM2KtWqYJbgCe/pF4qYuMxyVXB7g73bHm8dQyKAZCVk9rQelF7fhHlQ\ntpxHjqEa6OWbAww4HgbSBXGH5ExLmZag+r6w+BJGgD2Y9ttYThuzRe1fTgP4i4EA\nfhgDtlA/9QTJAxBRlrx9ec97gjDDeaQW5siD4pOlAoGBAN5TXdmXwabVLrfFbt0l\nB5HPA1yB0E7l85KDYcEQ9+77EXPDrs/QyT1W+JFbfaLD9r2M0S4rwltjhVfM9QH5\nKY+V6rSe7n746I3S5LSYn+7ma1cyAxtjOJEvMPEvBRZ/a8RAkNAuCPdALGNXF9Nr\nsK/6nU7gdzu81WOy390M450N\n-----END PRIVATE KEY-----\n",
+  "client_email": "rbm-agent@rbm-fedex-awqgeqs.iam.gserviceaccount.com",
+  "client_id": "101169074917464404929",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rbm-agent%40rbm-fedex-awqgeqs.iam.gserviceaccount.com"
+}

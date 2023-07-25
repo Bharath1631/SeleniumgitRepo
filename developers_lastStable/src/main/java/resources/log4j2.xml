@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Configuration SYSTEM "log4j2.dtd">
+<Configuration status="WARN">
+       <Properties>
+		<Property name="basePath">./logs</Property>
+		
+	</Properties>
+ 
+  <Appenders>
+  	
+      <RollingFile name="File" fileName="${basePath}/console.log"  filePattern="${basePath}/console-%d{yyyy-MM-dd}.log">
+     <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      <SizeBasedTriggeringPolicy size="99999999999" />
+          </RollingFile>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console> 
+  </Appenders>
+  <Loggers>
+    <Root level="info">
+      <AppenderRef ref="Console"/>
+        <AppenderRef ref="File"/>
+    </Root>
+  </Loggers>
+</Configuration>

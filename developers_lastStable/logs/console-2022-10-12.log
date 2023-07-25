@@ -1,0 +1,579 @@
+20:35:14.310 [main] INFO  resources.Log - Reading the Property file
+20:35:14.315 [main] INFO  resources.Log - The Value of the CreateNewBotPrivacyPolicyURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+20:35:14.431 [main] INFO  resources.Log - Entered Privacy policy URL
+20:35:14.512 [main] INFO  resources.Log - clicked on RCSAPI Dropdown
+20:35:14.521 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:35:14.522 [main] INFO  resources.Log - X
+20:35:14.523 [main] INFO  resources.Log - X
+20:35:14.523 [main] INFO  resources.Log - X
+20:35:14.523 [main] INFO  resources.Log - X
+20:35:14.531 [main] INFO  resources.Log - came to flush
+20:37:32.743 [main] INFO  resources.Log - Onstart
+20:37:32.775 [main] INFO  resources.Log - Reading the Property file
+20:37:32.775 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:37:32.775 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:37:32.776 [main] INFO  resources.Log - Invoking the chrome Browser
+20:37:34.473 [main] INFO  resources.Log - Maximized the Browser window
+20:37:34.485 [main] INFO  resources.Log - Reading the Property file
+20:37:34.486 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:37:42.708 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+20:37:42.709 [main] INFO  resources.Log - ****************************************************************************************
+20:37:42.709 [main] INFO  resources.Log - ****************************************************************************************
+20:37:42.709 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:37:42.709 [main] INFO  resources.Log - ****************************************************************************************
+20:37:42.709 [main] INFO  resources.Log - ****************************************************************************************
+20:37:42.724 [main] INFO  resources.Log - Reading the Property file
+20:37:42.724 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:37:42.724 [main] INFO  resources.Log - Reading the Property file
+20:37:42.725 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:37:42.725 [main] INFO  resources.Log - Clicking on SingIn
+20:37:42.726 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:37:42.726 [main] INFO  resources.Log - Abcd@1234
+20:37:45.877 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:37:45.981 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:37:51.555 [main] INFO  resources.Log - Clicked on Login Button
+20:37:51.555 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+20:37:51.734 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+20:37:51.735 [main] INFO  resources.Log - Reading the Property file
+20:37:51.735 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:37:51.826 [main] INFO  resources.Log - Reading the Property file
+20:37:51.826 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:37:51.826 [main] INFO  resources.Log - Entered the BotName
+20:37:51.827 [main] INFO  resources.Log - Reading the Property file
+20:37:51.827 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+20:37:52.030 [main] INFO  resources.Log - Entered Brand Name
+20:37:52.113 [main] INFO  resources.Log - Clicked on upload BOT logo
+20:37:52.417 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+20:37:52.961 [main] INFO  resources.Log - Clicked on upload Banner Image
+20:37:53.190 [main] INFO  resources.Log - Uploaded Banner Image from local Utils
+20:37:54.190 [main] INFO  resources.Log - Reading the Property file
+20:37:54.190 [main] INFO  resources.Log - The Value of the CreateNewBotShortDescription Fetched from the Properties: The maintenance of a building, vehicle, road, or machine is the process of keeping it in good condition by regularly checking it and repairing it when necessary.
+20:37:54.360 [main] INFO  resources.Log - Entered Short Description
+20:37:54.361 [main] INFO  resources.Log - Reading the Property file
+20:37:54.361 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryPhone Fetched from the Properties: 8147539441
+20:37:54.549 [main] INFO  resources.Log - Entered Primary Phone Number
+20:37:54.550 [main] INFO  resources.Log - Reading the Property file
+20:37:54.550 [main] INFO  resources.Log - The Value of the CreateNewBotprimaryPhoneLabel Fetched from the Properties: Personal Number
+20:37:54.669 [main] INFO  resources.Log - Entered Primary phone Label
+20:37:54.669 [main] INFO  resources.Log - Reading the Property file
+20:37:54.670 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEMail Fetched from the Properties: Test@gmail.com
+20:37:54.815 [main] INFO  resources.Log - Entered Primary EMAIL ID
+20:37:54.815 [main] INFO  resources.Log - Reading the Property file
+20:37:54.815 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEmailLabel Fetched from the Properties: Personal Mail
+20:37:54.960 [main] INFO  resources.Log - Entered Primary Email Label
+20:37:54.960 [main] INFO  resources.Log - Reading the Property file
+20:37:54.960 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsite Fetched from the Properties: https://www.browserstack.com/
+20:37:55.141 [main] INFO  resources.Log - Entered Primary Website URL
+20:37:55.142 [main] INFO  resources.Log - Reading the Property file
+20:37:55.142 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsiteLabel Fetched from the Properties: BrowserStack
+20:37:55.257 [main] INFO  resources.Log - Entered Primary Website URL LABEL
+20:37:55.257 [main] INFO  resources.Log - Reading the Property file
+20:37:55.257 [main] INFO  resources.Log - The Value of the CreateNewBotTermsofUseURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+20:37:55.369 [main] INFO  resources.Log - Entered Terms of Use URL
+20:37:55.370 [main] INFO  resources.Log - Reading the Property file
+20:37:55.370 [main] INFO  resources.Log - The Value of the CreateNewBotPrivacyPolicyURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+20:37:55.471 [main] INFO  resources.Log - Entered Privacy policy URL
+20:37:55.542 [main] INFO  resources.Log - clicked on RCSAPI Dropdown
+20:37:55.650 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:37:55.835 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:37:55.838 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:37:55.838 [main] INFO  resources.Log - X
+20:37:55.838 [main] INFO  resources.Log - X
+20:37:55.838 [main] INFO  resources.Log - X
+20:37:55.838 [main] INFO  resources.Log - X
+20:37:55.902 [main] INFO  resources.Log - came to flush
+20:39:40.599 [main] INFO  resources.Log - Onstart
+20:39:40.630 [main] INFO  resources.Log - Reading the Property file
+20:39:40.630 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:39:40.630 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:39:40.631 [main] INFO  resources.Log - Invoking the chrome Browser
+20:39:42.514 [main] INFO  resources.Log - Maximized the Browser window
+20:39:42.523 [main] INFO  resources.Log - Reading the Property file
+20:39:42.524 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:39:59.867 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+20:39:59.867 [main] INFO  resources.Log - ****************************************************************************************
+20:39:59.867 [main] INFO  resources.Log - ****************************************************************************************
+20:39:59.867 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:39:59.867 [main] INFO  resources.Log - ****************************************************************************************
+20:39:59.868 [main] INFO  resources.Log - ****************************************************************************************
+20:39:59.887 [main] INFO  resources.Log - Reading the Property file
+20:39:59.887 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:39:59.887 [main] INFO  resources.Log - Reading the Property file
+20:39:59.888 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:39:59.888 [main] INFO  resources.Log - Clicking on SingIn
+20:39:59.888 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:39:59.888 [main] INFO  resources.Log - Abcd@1234
+20:40:03.505 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:40:03.600 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:40:13.133 [main] INFO  resources.Log - Clicked on Login Button
+20:40:13.133 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+20:40:13.286 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+20:40:13.287 [main] INFO  resources.Log - Reading the Property file
+20:40:13.287 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:40:13.406 [main] INFO  resources.Log - Reading the Property file
+20:40:13.406 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:40:13.406 [main] INFO  resources.Log - Entered the BotName
+20:40:13.406 [main] INFO  resources.Log - Reading the Property file
+20:40:13.406 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+20:40:13.571 [main] INFO  resources.Log - Entered Brand Name
+20:40:13.671 [main] INFO  resources.Log - Clicked on upload BOT logo
+20:40:13.979 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+20:40:14.478 [main] INFO  resources.Log - Clicked on upload Banner Image
+20:40:14.690 [main] INFO  resources.Log - Uploaded Banner Image from local Utils
+20:40:15.690 [main] INFO  resources.Log - Reading the Property file
+20:40:15.691 [main] INFO  resources.Log - The Value of the CreateNewBotShortDescription Fetched from the Properties: The maintenance of a building, vehicle, road, or machine is the process of keeping it in good condition by regularly checking it and repairing it when necessary.
+20:40:15.869 [main] INFO  resources.Log - Entered Short Description
+20:40:15.869 [main] INFO  resources.Log - Reading the Property file
+20:40:15.869 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryPhone Fetched from the Properties: 8147539441
+20:40:15.981 [main] INFO  resources.Log - Entered Primary Phone Number
+20:40:15.982 [main] INFO  resources.Log - Reading the Property file
+20:40:15.982 [main] INFO  resources.Log - The Value of the CreateNewBotprimaryPhoneLabel Fetched from the Properties: Personal Number
+20:40:16.062 [main] INFO  resources.Log - Entered Primary phone Label
+20:40:16.062 [main] INFO  resources.Log - Reading the Property file
+20:40:16.062 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEMail Fetched from the Properties: Test@gmail.com
+20:40:16.192 [main] INFO  resources.Log - Entered Primary EMAIL ID
+20:40:16.192 [main] INFO  resources.Log - Reading the Property file
+20:40:16.192 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEmailLabel Fetched from the Properties: Personal Mail
+20:40:16.316 [main] INFO  resources.Log - Entered Primary Email Label
+20:40:16.316 [main] INFO  resources.Log - Reading the Property file
+20:40:16.316 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsite Fetched from the Properties: https://www.browserstack.com/
+20:40:16.529 [main] INFO  resources.Log - Entered Primary Website URL
+20:40:16.530 [main] INFO  resources.Log - Reading the Property file
+20:40:16.530 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsiteLabel Fetched from the Properties: BrowserStack
+20:40:16.648 [main] INFO  resources.Log - Entered Primary Website URL LABEL
+20:40:16.648 [main] INFO  resources.Log - Reading the Property file
+20:40:16.649 [main] INFO  resources.Log - The Value of the CreateNewBotTermsofUseURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+20:40:16.798 [main] INFO  resources.Log - Entered Terms of Use URL
+20:40:16.799 [main] INFO  resources.Log - Reading the Property file
+20:40:16.799 [main] INFO  resources.Log - The Value of the CreateNewBotPrivacyPolicyURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+20:40:16.925 [main] INFO  resources.Log - Entered Privacy policy URL
+20:40:17.001 [main] INFO  resources.Log - clicked on RCSAPI Dropdown
+20:40:17.118 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:40:17.346 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:40:17.350 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:40:17.350 [main] INFO  resources.Log - X
+20:40:17.350 [main] INFO  resources.Log - X
+20:40:17.350 [main] INFO  resources.Log - X
+20:40:17.351 [main] INFO  resources.Log - X
+20:40:17.439 [main] INFO  resources.Log - came to flush
+20:41:03.872 [main] INFO  resources.Log - Onstart
+20:41:03.903 [main] INFO  resources.Log - Reading the Property file
+20:41:03.903 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:41:03.903 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:41:03.903 [main] INFO  resources.Log - Invoking the chrome Browser
+20:41:05.748 [main] INFO  resources.Log - Maximized the Browser window
+20:41:05.757 [main] INFO  resources.Log - Reading the Property file
+20:41:05.757 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:41:15.841 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+20:41:15.841 [main] INFO  resources.Log - ****************************************************************************************
+20:41:15.841 [main] INFO  resources.Log - ****************************************************************************************
+20:41:15.841 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:41:15.841 [main] INFO  resources.Log - ****************************************************************************************
+20:41:15.841 [main] INFO  resources.Log - ****************************************************************************************
+20:41:15.862 [main] INFO  resources.Log - Reading the Property file
+20:41:15.862 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:41:15.863 [main] INFO  resources.Log - Reading the Property file
+20:41:15.863 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:41:15.863 [main] INFO  resources.Log - Clicking on SingIn
+20:41:15.863 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:41:15.863 [main] INFO  resources.Log - Abcd@1234
+20:41:21.582 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:41:21.657 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:41:30.219 [main] INFO  resources.Log - Clicked on Login Button
+20:41:30.220 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+20:41:30.407 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+20:41:30.407 [main] INFO  resources.Log - Reading the Property file
+20:41:30.407 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:41:30.491 [main] INFO  resources.Log - Reading the Property file
+20:41:30.491 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:41:30.491 [main] INFO  resources.Log - Entered the BotName
+20:41:30.491 [main] INFO  resources.Log - Reading the Property file
+20:41:30.491 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+20:41:30.642 [main] INFO  resources.Log - Entered Brand Name
+20:41:30.741 [main] INFO  resources.Log - Clicked on upload BOT logo
+20:41:30.999 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+20:41:32.232 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:41:32.432 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:41:32.436 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:41:32.437 [main] INFO  resources.Log - X
+20:41:32.437 [main] INFO  resources.Log - X
+20:41:32.437 [main] INFO  resources.Log - X
+20:41:32.437 [main] INFO  resources.Log - X
+20:41:32.443 [main] INFO  resources.Log - came to flush
+20:42:50.405 [main] INFO  resources.Log - Onstart
+20:42:50.445 [main] INFO  resources.Log - Reading the Property file
+20:42:50.445 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:42:50.446 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:42:50.446 [main] INFO  resources.Log - Invoking the chrome Browser
+20:42:52.747 [main] INFO  resources.Log - Maximized the Browser window
+20:42:52.756 [main] INFO  resources.Log - Reading the Property file
+20:42:52.756 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:43:01.431 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+20:43:01.431 [main] INFO  resources.Log - ****************************************************************************************
+20:43:01.431 [main] INFO  resources.Log - ****************************************************************************************
+20:43:01.431 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:43:01.431 [main] INFO  resources.Log - ****************************************************************************************
+20:43:01.432 [main] INFO  resources.Log - ****************************************************************************************
+20:43:01.444 [main] INFO  resources.Log - Reading the Property file
+20:43:01.444 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:43:01.444 [main] INFO  resources.Log - Reading the Property file
+20:43:01.444 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:43:01.444 [main] INFO  resources.Log - Clicking on SingIn
+20:43:01.445 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:43:01.445 [main] INFO  resources.Log - Abcd@1234
+20:43:04.562 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:43:04.630 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:43:11.035 [main] INFO  resources.Log - Clicked on Login Button
+20:43:11.035 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+20:43:11.160 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+20:43:11.161 [main] INFO  resources.Log - Reading the Property file
+20:43:11.161 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:43:11.222 [main] INFO  resources.Log - Reading the Property file
+20:43:11.222 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:43:11.223 [main] INFO  resources.Log - Entered the BotName
+20:43:11.223 [main] INFO  resources.Log - Reading the Property file
+20:43:11.223 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+20:43:11.385 [main] INFO  resources.Log - Entered Brand Name
+20:43:11.385 [main] INFO  resources.Log - x and Y are:0350
+20:43:11.498 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:43:11.750 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:43:11.754 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:43:11.754 [main] INFO  resources.Log - X
+20:43:11.755 [main] INFO  resources.Log - X
+20:43:11.755 [main] INFO  resources.Log - X
+20:43:11.755 [main] INFO  resources.Log - X
+20:43:11.765 [main] INFO  resources.Log - came to flush
+20:55:57.456 [main] INFO  resources.Log - Onstart
+20:55:57.480 [main] INFO  resources.Log - Reading the Property file
+20:55:57.480 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:55:57.480 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:55:57.480 [main] INFO  resources.Log - Invoking the chrome Browser
+20:55:59.057 [main] INFO  resources.Log - Maximized the Browser window
+20:55:59.063 [main] INFO  resources.Log - Reading the Property file
+20:55:59.063 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:56:06.676 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+20:56:06.676 [main] INFO  resources.Log - ****************************************************************************************
+20:56:06.676 [main] INFO  resources.Log - ****************************************************************************************
+20:56:06.676 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:56:06.676 [main] INFO  resources.Log - ****************************************************************************************
+20:56:06.677 [main] INFO  resources.Log - ****************************************************************************************
+20:56:06.693 [main] INFO  resources.Log - Reading the Property file
+20:56:06.693 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:56:06.693 [main] INFO  resources.Log - Reading the Property file
+20:56:06.694 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:56:06.694 [main] INFO  resources.Log - Clicking on SingIn
+20:56:06.694 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:56:06.694 [main] INFO  resources.Log - Abcd@1234
+20:56:11.726 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:56:11.784 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:56:19.227 [main] INFO  resources.Log - Clicked on Login Button
+20:56:19.227 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+20:56:19.393 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+20:56:19.394 [main] INFO  resources.Log - Reading the Property file
+20:56:19.394 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:56:19.473 [main] INFO  resources.Log - Reading the Property file
+20:56:19.473 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:56:19.473 [main] INFO  resources.Log - Entered the BotName
+20:56:19.473 [main] INFO  resources.Log - Reading the Property file
+20:56:19.473 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+20:56:19.605 [main] INFO  resources.Log - Entered Brand Name
+20:56:19.606 [main] INFO  resources.Log - x and Y are:0350
+20:56:19.720 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:56:19.963 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:56:19.968 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:56:19.969 [main] INFO  resources.Log - X
+20:56:19.969 [main] INFO  resources.Log - X
+20:56:19.969 [main] INFO  resources.Log - X
+20:56:19.969 [main] INFO  resources.Log - X
+20:56:19.976 [main] INFO  resources.Log - came to flush
+20:57:05.835 [main] INFO  resources.Log - Onstart
+20:57:05.859 [main] INFO  resources.Log - Reading the Property file
+20:57:05.860 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:57:05.860 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:57:05.860 [main] INFO  resources.Log - Invoking the chrome Browser
+20:57:07.203 [main] INFO  resources.Log - Maximized the Browser window
+20:57:07.212 [main] INFO  resources.Log - Reading the Property file
+20:57:07.212 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:57:20.906 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+20:57:20.906 [main] INFO  resources.Log - ****************************************************************************************
+20:57:20.906 [main] INFO  resources.Log - ****************************************************************************************
+20:57:20.906 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:57:20.906 [main] INFO  resources.Log - ****************************************************************************************
+20:57:20.906 [main] INFO  resources.Log - ****************************************************************************************
+20:57:20.920 [main] INFO  resources.Log - Reading the Property file
+20:57:20.920 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:57:20.921 [main] INFO  resources.Log - Reading the Property file
+20:57:20.921 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:57:20.921 [main] INFO  resources.Log - Clicking on SingIn
+20:57:20.921 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:57:20.921 [main] INFO  resources.Log - Abcd@1234
+20:57:25.022 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:57:25.073 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:57:34.572 [main] INFO  resources.Log - Clicked on Login Button
+20:57:34.572 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+20:57:34.696 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+20:57:34.697 [main] INFO  resources.Log - Reading the Property file
+20:57:34.697 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:57:34.774 [main] INFO  resources.Log - Reading the Property file
+20:57:34.774 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:57:34.774 [main] INFO  resources.Log - Entered the BotName
+20:57:34.774 [main] INFO  resources.Log - Reading the Property file
+20:57:34.774 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+20:57:34.919 [main] INFO  resources.Log - Entered Brand Name
+20:57:34.920 [main] INFO  resources.Log - x and Y are:0350
+20:57:35.041 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:57:35.333 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:57:35.336 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:57:35.336 [main] INFO  resources.Log - X
+20:57:35.337 [main] INFO  resources.Log - X
+20:57:35.337 [main] INFO  resources.Log - X
+20:57:35.337 [main] INFO  resources.Log - X
+20:57:35.343 [main] INFO  resources.Log - came to flush
+20:58:34.783 [main] INFO  resources.Log - Onstart
+20:58:34.809 [main] INFO  resources.Log - Reading the Property file
+20:58:34.809 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:58:34.810 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:58:34.810 [main] INFO  resources.Log - Invoking the chrome Browser
+20:58:36.556 [main] INFO  resources.Log - Maximized the Browser window
+20:58:36.568 [main] INFO  resources.Log - Reading the Property file
+20:58:36.568 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:58:58.039 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+20:58:58.039 [main] INFO  resources.Log - ****************************************************************************************
+20:58:58.039 [main] INFO  resources.Log - ****************************************************************************************
+20:58:58.039 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:58:58.039 [main] INFO  resources.Log - ****************************************************************************************
+20:58:58.039 [main] INFO  resources.Log - ****************************************************************************************
+20:58:58.049 [main] INFO  resources.Log - Reading the Property file
+20:58:58.049 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:58:58.049 [main] INFO  resources.Log - Reading the Property file
+20:58:58.049 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:58:58.050 [main] INFO  resources.Log - Clicking on SingIn
+20:58:58.050 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:58:58.050 [main] INFO  resources.Log - Abcd@1234
+20:59:02.017 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:59:02.082 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:59:17.098 [main] INFO  resources.Log - Clicked on Login Button
+20:59:17.099 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+20:59:17.266 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+20:59:17.267 [main] INFO  resources.Log - Reading the Property file
+20:59:17.267 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:59:17.348 [main] INFO  resources.Log - Reading the Property file
+20:59:17.348 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+20:59:17.348 [main] INFO  resources.Log - Entered the BotName
+20:59:17.348 [main] INFO  resources.Log - Reading the Property file
+20:59:17.349 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+20:59:17.455 [main] INFO  resources.Log - Entered Brand Name
+20:59:17.456 [main] INFO  resources.Log - x and Y are:0350
+20:59:17.556 [main] INFO  resources.Log - Clicked on upload BOT logo
+20:59:17.944 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+20:59:19.146 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:59:19.572 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:59:19.577 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:59:19.577 [main] INFO  resources.Log - X
+20:59:19.577 [main] INFO  resources.Log - X
+20:59:19.577 [main] INFO  resources.Log - X
+20:59:19.577 [main] INFO  resources.Log - X
+20:59:19.585 [main] INFO  resources.Log - came to flush
+21:05:53.897 [main] INFO  resources.Log - Onstart
+21:05:53.927 [main] INFO  resources.Log - Reading the Property file
+21:05:53.927 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:05:53.927 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:05:53.927 [main] INFO  resources.Log - Invoking the chrome Browser
+21:05:55.942 [main] INFO  resources.Log - Maximized the Browser window
+21:05:55.951 [main] INFO  resources.Log - Reading the Property file
+21:05:55.952 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:06:11.993 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+21:06:11.993 [main] INFO  resources.Log - ****************************************************************************************
+21:06:11.993 [main] INFO  resources.Log - ****************************************************************************************
+21:06:11.993 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:06:11.994 [main] INFO  resources.Log - ****************************************************************************************
+21:06:11.994 [main] INFO  resources.Log - ****************************************************************************************
+21:06:12.010 [main] INFO  resources.Log - Reading the Property file
+21:06:12.010 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:06:12.010 [main] INFO  resources.Log - Reading the Property file
+21:06:12.010 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+21:06:12.010 [main] INFO  resources.Log - Clicking on SingIn
+21:06:12.010 [main] INFO  resources.Log - knjyothi@kirusa.com
+21:06:12.010 [main] INFO  resources.Log - Abcd@1234
+21:06:15.425 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+21:06:15.487 [main] INFO  resources.Log - Entered the password :Abcd@1234
+21:06:25.945 [main] INFO  resources.Log - Clicked on Login Button
+21:06:25.945 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+21:06:26.090 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+21:06:26.090 [main] INFO  resources.Log - Reading the Property file
+21:06:26.090 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+21:06:26.193 [main] INFO  resources.Log - Reading the Property file
+21:06:26.193 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+21:06:26.193 [main] INFO  resources.Log - Entered the BotName
+21:06:26.193 [main] INFO  resources.Log - Reading the Property file
+21:06:26.194 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+21:06:26.338 [main] INFO  resources.Log - Entered Brand Name
+21:06:26.346 [main] INFO  resources.Log - Taking Screeshot of the webpage
+21:06:26.609 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+21:06:26.613 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:06:26.613 [main] INFO  resources.Log - X
+21:06:26.613 [main] INFO  resources.Log - X
+21:06:26.613 [main] INFO  resources.Log - X
+21:06:26.613 [main] INFO  resources.Log - X
+21:06:26.619 [main] INFO  resources.Log - came to flush
+21:10:55.565 [main] INFO  resources.Log - Onstart
+21:10:55.602 [main] INFO  resources.Log - Reading the Property file
+21:10:55.602 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:10:55.602 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:10:55.602 [main] INFO  resources.Log - Invoking the chrome Browser
+21:10:57.489 [main] INFO  resources.Log - Maximized the Browser window
+21:10:57.507 [main] INFO  resources.Log - Reading the Property file
+21:10:57.508 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:11:05.784 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+21:11:05.785 [main] INFO  resources.Log - ****************************************************************************************
+21:11:05.785 [main] INFO  resources.Log - ****************************************************************************************
+21:11:05.785 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:11:05.785 [main] INFO  resources.Log - ****************************************************************************************
+21:11:05.785 [main] INFO  resources.Log - ****************************************************************************************
+21:11:05.800 [main] INFO  resources.Log - Reading the Property file
+21:11:05.800 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:11:05.800 [main] INFO  resources.Log - Reading the Property file
+21:11:05.800 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+21:11:05.800 [main] INFO  resources.Log - Clicking on SingIn
+21:11:05.800 [main] INFO  resources.Log - knjyothi@kirusa.com
+21:11:05.800 [main] INFO  resources.Log - Abcd@1234
+21:11:09.175 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+21:11:09.279 [main] INFO  resources.Log - Entered the password :Abcd@1234
+21:11:16.036 [main] INFO  resources.Log - Clicked on Login Button
+21:11:16.036 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+21:11:16.205 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+21:11:16.206 [main] INFO  resources.Log - Reading the Property file
+21:11:16.206 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+21:11:16.309 [main] INFO  resources.Log - Reading the Property file
+21:11:16.309 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+21:11:16.309 [main] INFO  resources.Log - Entered the BotName
+21:11:16.310 [main] INFO  resources.Log - Reading the Property file
+21:11:16.310 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+21:11:16.513 [main] INFO  resources.Log - Entered Brand Name
+21:11:16.614 [main] INFO  resources.Log - Clicked on upload BOT logo
+21:11:16.914 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+21:11:17.473 [main] INFO  resources.Log - Clicked on upload Banner Image
+21:11:17.656 [main] INFO  resources.Log - Uploaded Banner Image from local Utils
+21:11:18.656 [main] INFO  resources.Log - Reading the Property file
+21:11:18.657 [main] INFO  resources.Log - The Value of the CreateNewBotShortDescription Fetched from the Properties: The maintenance of a building, vehicle, road, or machine is the process of keeping it in good condition by regularly checking it and repairing it when necessary.
+21:11:18.821 [main] INFO  resources.Log - Entered Short Description
+21:11:18.822 [main] INFO  resources.Log - Reading the Property file
+21:11:18.822 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryPhone Fetched from the Properties: 8147539441
+21:11:18.947 [main] INFO  resources.Log - Entered Primary Phone Number
+21:11:18.948 [main] INFO  resources.Log - Reading the Property file
+21:11:18.948 [main] INFO  resources.Log - The Value of the CreateNewBotprimaryPhoneLabel Fetched from the Properties: Personal Number
+21:11:19.030 [main] INFO  resources.Log - Entered Primary phone Label
+21:11:19.030 [main] INFO  resources.Log - Reading the Property file
+21:11:19.030 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEMail Fetched from the Properties: Test@gmail.com
+21:11:19.158 [main] INFO  resources.Log - Entered Primary EMAIL ID
+21:11:19.158 [main] INFO  resources.Log - Reading the Property file
+21:11:19.159 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEmailLabel Fetched from the Properties: Personal Mail
+21:11:19.282 [main] INFO  resources.Log - Entered Primary Email Label
+21:11:19.283 [main] INFO  resources.Log - Reading the Property file
+21:11:19.283 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsite Fetched from the Properties: https://www.browserstack.com/
+21:11:19.454 [main] INFO  resources.Log - Entered Primary Website URL
+21:11:19.454 [main] INFO  resources.Log - Reading the Property file
+21:11:19.454 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsiteLabel Fetched from the Properties: BrowserStack
+21:11:19.568 [main] INFO  resources.Log - Entered Primary Website URL LABEL
+21:11:19.568 [main] INFO  resources.Log - Reading the Property file
+21:11:19.568 [main] INFO  resources.Log - The Value of the CreateNewBotTermsofUseURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+21:11:19.659 [main] INFO  resources.Log - Entered Terms of Use URL
+21:11:19.659 [main] INFO  resources.Log - Reading the Property file
+21:11:19.659 [main] INFO  resources.Log - The Value of the CreateNewBotPrivacyPolicyURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+21:11:19.750 [main] INFO  resources.Log - Entered Privacy policy URL
+21:11:19.812 [main] INFO  resources.Log - clicked on RCSAPI Dropdown
+21:11:19.819 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:11:19.819 [main] INFO  resources.Log - X
+21:11:19.819 [main] INFO  resources.Log - X
+21:11:19.819 [main] INFO  resources.Log - X
+21:11:19.819 [main] INFO  resources.Log - X
+21:11:19.822 [main] INFO  resources.Log - came to flush
+21:15:15.573 [main] INFO  resources.Log - Onstart
+21:15:15.602 [main] INFO  resources.Log - Reading the Property file
+21:15:15.602 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:15:15.602 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:15:15.602 [main] INFO  resources.Log - Invoking the chrome Browser
+21:15:17.448 [main] INFO  resources.Log - Maximized the Browser window
+21:15:17.455 [main] INFO  resources.Log - Reading the Property file
+21:15:17.456 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:15:32.175 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+21:15:32.175 [main] INFO  resources.Log - ****************************************************************************************
+21:15:32.175 [main] INFO  resources.Log - ****************************************************************************************
+21:15:32.175 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:15:32.175 [main] INFO  resources.Log - ****************************************************************************************
+21:15:32.176 [main] INFO  resources.Log - ****************************************************************************************
+21:15:32.187 [main] INFO  resources.Log - Reading the Property file
+21:15:32.188 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:15:32.188 [main] INFO  resources.Log - Reading the Property file
+21:15:32.188 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+21:15:32.188 [main] INFO  resources.Log - Clicking on SingIn
+21:15:32.188 [main] INFO  resources.Log - knjyothi@kirusa.com
+21:15:32.188 [main] INFO  resources.Log - Abcd@1234
+21:15:35.897 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+21:15:35.989 [main] INFO  resources.Log - Entered the password :Abcd@1234
+21:15:48.181 [main] INFO  resources.Log - Clicked on Login Button
+21:15:48.182 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+21:15:48.315 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+21:15:48.315 [main] INFO  resources.Log - Reading the Property file
+21:15:48.315 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+21:15:48.393 [main] INFO  resources.Log - Reading the Property file
+21:15:48.393 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+21:15:48.394 [main] INFO  resources.Log - Entered the BotName
+21:15:48.394 [main] INFO  resources.Log - Reading the Property file
+21:15:48.394 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+21:15:48.569 [main] INFO  resources.Log - Entered Brand Name
+21:15:48.704 [main] INFO  resources.Log - Clicked on upload BOT logo
+21:15:48.920 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+21:15:49.651 [main] INFO  resources.Log - Clicked on upload Banner Image
+21:15:49.859 [main] INFO  resources.Log - Uploaded Banner Image from local Utils
+21:15:50.859 [main] INFO  resources.Log - Reading the Property file
+21:15:50.859 [main] INFO  resources.Log - The Value of the CreateNewBotShortDescription Fetched from the Properties: The maintenance of a building, vehicle, road, or machine is the process of keeping it in good condition by regularly checking it and repairing it when necessary.
+21:15:51.010 [main] INFO  resources.Log - Entered Short Description
+21:15:51.010 [main] INFO  resources.Log - Reading the Property file
+21:15:51.011 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryPhone Fetched from the Properties: 8147539441
+21:15:51.126 [main] INFO  resources.Log - Entered Primary Phone Number
+21:15:51.126 [main] INFO  resources.Log - Reading the Property file
+21:15:51.126 [main] INFO  resources.Log - The Value of the CreateNewBotprimaryPhoneLabel Fetched from the Properties: Personal Number
+21:15:51.194 [main] INFO  resources.Log - Entered Primary phone Label
+21:15:51.195 [main] INFO  resources.Log - Reading the Property file
+21:15:51.195 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEMail Fetched from the Properties: Test@gmail.com
+21:15:51.324 [main] INFO  resources.Log - Entered Primary EMAIL ID
+21:15:51.326 [main] INFO  resources.Log - Reading the Property file
+21:15:51.326 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEmailLabel Fetched from the Properties: Personal Mail
+21:15:51.446 [main] INFO  resources.Log - Entered Primary Email Label
+21:15:51.446 [main] INFO  resources.Log - Reading the Property file
+21:15:51.447 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsite Fetched from the Properties: https://www.browserstack.com/
+21:15:51.645 [main] INFO  resources.Log - Entered Primary Website URL
+21:15:51.645 [main] INFO  resources.Log - Reading the Property file
+21:15:51.645 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsiteLabel Fetched from the Properties: BrowserStack
+21:15:51.789 [main] INFO  resources.Log - Entered Primary Website URL LABEL
+21:15:51.789 [main] INFO  resources.Log - Reading the Property file
+21:15:51.789 [main] INFO  resources.Log - The Value of the CreateNewBotTermsofUseURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+21:15:51.896 [main] INFO  resources.Log - Entered Terms of Use URL
+21:15:51.896 [main] INFO  resources.Log - Reading the Property file
+21:15:51.896 [main] INFO  resources.Log - The Value of the CreateNewBotPrivacyPolicyURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+21:15:52.004 [main] INFO  resources.Log - Entered Privacy policy URL
+21:15:52.054 [main] INFO  resources.Log - clicked on RCSAPI Dropdown
+21:15:52.163 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:15:52.163 [main] INFO  resources.Log - X
+21:15:52.163 [main] INFO  resources.Log - X
+21:15:52.163 [main] INFO  resources.Log - X
+21:15:52.163 [main] INFO  resources.Log - X
+21:15:52.165 [main] INFO  resources.Log - came to flush
+21:20:58.993 [main] INFO  resources.Log - Onstart
+21:20:59.022 [main] INFO  resources.Log - Reading the Property file
+21:20:59.023 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:20:59.023 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:20:59.023 [main] INFO  resources.Log - Invoking the chrome Browser
+21:21:00.552 [main] INFO  resources.Log - Maximized the Browser window
+21:21:00.559 [main] INFO  resources.Log - Reading the Property file
+21:21:00.559 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:21:11.278 [main] INFO  resources.Log - Listener OnTestStart method CreateNewBot
+21:21:11.279 [main] INFO  resources.Log - ****************************************************************************************
+21:21:11.279 [main] INFO  resources.Log - ****************************************************************************************
+21:21:11.279 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 CreateNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:21:11.279 [main] INFO  resources.Log - ****************************************************************************************
+21:21:11.279 [main] INFO  resources.Log - ****************************************************************************************
+21:21:11.305 [main] INFO  resources.Log - Reading the Property file
+21:21:11.306 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:21:11.306 [main] INFO  resources.Log - Reading the Property file

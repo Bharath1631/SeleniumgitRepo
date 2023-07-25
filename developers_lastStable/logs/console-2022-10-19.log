@@ -1,0 +1,538 @@
+20:52:44.827 [main] INFO  resources.Log - Reading the Property file
+20:52:44.832 [main] INFO  resources.Log - The Value of the WhatsappBotTermsofURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+20:52:44.924 [main] INFO  resources.Log - Reading the Property file
+20:52:44.924 [main] INFO  resources.Log - The Value of the WhatsappBotPrivacypolicy Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+20:52:45.325 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:52:45.529 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:52:45.530 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:52:45.530 [main] INFO  resources.Log - X
+20:52:45.530 [main] INFO  resources.Log - X
+20:52:45.530 [main] INFO  resources.Log - X
+20:52:45.530 [main] INFO  resources.Log - X
+20:52:45.531 [main] INFO  resources.Log - Reading the Property file
+20:52:45.532 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:52:45.532 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:52:45.532 [main] INFO  resources.Log - Invoking the chrome Browser
+20:52:46.095 [main] INFO  resources.Log - Maximized the Browser window
+20:52:46.098 [main] INFO  resources.Log - Reading the Property file
+20:52:46.098 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:52:54.573 [main] INFO  resources.Log - Reading the Property file
+20:52:54.573 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:52:54.574 [main] INFO  resources.Log - Reading the Property file
+20:52:54.574 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:52:54.574 [main] INFO  resources.Log - Clicking on SingIn
+20:52:54.574 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:52:54.574 [main] INFO  resources.Log - Abcd@1234
+20:52:58.064 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:52:58.121 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:53:04.843 [main] INFO  resources.Log - Clicked on Login Button
+20:53:04.843 [main] INFO  resources.Log - Listener OnTestStart method createWhatsAppBotButton
+20:53:04.844 [main] INFO  resources.Log - ****************************************************************************************
+20:53:04.844 [main] INFO  resources.Log - ****************************************************************************************
+20:53:04.844 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 createWhatsAppBotButton       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:53:04.844 [main] INFO  resources.Log - ****************************************************************************************
+20:53:04.844 [main] INFO  resources.Log - ****************************************************************************************
+20:53:04.864 [main] INFO  resources.Log - scrolled Down
+20:53:04.978 [main] INFO  resources.Log - clicked on Click Here Button
+20:53:04.982 [main] INFO  resources.Log - Reading the Property file
+20:53:04.982 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+20:53:04.982 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:53:04.982 [main] INFO  resources.Log - X
+20:53:04.982 [main] INFO  resources.Log - X
+20:53:04.982 [main] INFO  resources.Log - X
+20:53:04.982 [main] INFO  resources.Log - X
+20:53:04.983 [main] INFO  resources.Log - Reading the Property file
+20:53:04.983 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:53:04.983 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:53:04.983 [main] INFO  resources.Log - Invoking the chrome Browser
+20:53:05.520 [main] INFO  resources.Log - Maximized the Browser window
+20:53:05.522 [main] INFO  resources.Log - Reading the Property file
+20:53:05.522 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:53:15.240 [main] INFO  resources.Log - Reading the Property file
+20:53:15.240 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:53:15.240 [main] INFO  resources.Log - Reading the Property file
+20:53:15.240 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:53:15.240 [main] INFO  resources.Log - Clicking on SingIn
+20:53:15.240 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:53:15.240 [main] INFO  resources.Log - Abcd@1234
+20:53:18.211 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:53:18.271 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:53:24.911 [main] INFO  resources.Log - Clicked on Login Button
+20:53:24.912 [main] INFO  resources.Log - Listener OnTestStart method whatsappPreviewPage
+20:53:24.912 [main] INFO  resources.Log - ****************************************************************************************
+20:53:24.912 [main] INFO  resources.Log - ****************************************************************************************
+20:53:24.912 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 whatsappPreviewPage       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:53:24.912 [main] INFO  resources.Log - ****************************************************************************************
+20:53:24.912 [main] INFO  resources.Log - ****************************************************************************************
+20:53:24.946 [main] INFO  resources.Log - scrolled Down
+20:53:25.083 [main] INFO  resources.Log - clicked on Click Here Button
+20:53:25.088 [main] INFO  resources.Log - Reading the Property file
+20:53:25.089 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+20:53:25.090 [main] INFO  resources.Log - Reading the Property file
+20:53:25.090 [main] INFO  resources.Log - The Value of the WhatsappBotName Fetched from the Properties: TestWhatsappBOT
+20:53:25.191 [main] INFO  resources.Log - Reading the Property file
+20:53:25.191 [main] INFO  resources.Log - The Value of the WhatsappBotBrandName Fetched from the Properties: TestWhatsappBrand
+20:53:25.376 [main] INFO  resources.Log - Reading the Property file
+20:53:25.376 [main] INFO  resources.Log - The Value of the WhatsappBotBrandWebsite Fetched from the Properties: https://stagingpartners2.dotgo.com/
+20:53:27.879 [main] INFO  resources.Log - Reading the Property file
+20:53:27.880 [main] INFO  resources.Log - The Value of the WhatsappBotShortDesc Fetched from the Properties: navigates to the specified website URL.
+20:53:27.952 [main] INFO  resources.Log - Reading the Property file
+20:53:27.952 [main] INFO  resources.Log - The Value of the WhatsappBotLongDesc Fetched from the Properties: navigates to the specified website URL. Once the website loads, the browser window is vertically scrolled down by 350 pixels.
+20:53:28.077 [main] INFO  resources.Log - Reading the Property file
+20:53:28.077 [main] INFO  resources.Log - The Value of the WhatsappBotWebsiteURL Fetched from the Properties: https://www.browserstack.com
+20:53:28.143 [main] INFO  resources.Log - Reading the Property file
+20:53:28.143 [main] INFO  resources.Log - The Value of the WhatsappBotDevelopedBy Fetched from the Properties: Automation
+20:53:28.218 [main] INFO  resources.Log - Reading the Property file
+20:53:28.219 [main] INFO  resources.Log - The Value of the WhatsappBotSupportEmail Fetched from the Properties: Test@gamil.com
+20:53:28.327 [main] INFO  resources.Log - Reading the Property file
+20:53:28.328 [main] INFO  resources.Log - The Value of the WhatsappBotPhNumber Fetched from the Properties: 8147573441
+20:53:28.427 [main] INFO  resources.Log - Reading the Property file
+20:53:28.428 [main] INFO  resources.Log - The Value of the WhatsappBotlaunchDate Fetched from the Properties: 19/10/2022
+20:53:28.489 [main] INFO  resources.Log - Reading the Property file
+20:53:28.489 [main] INFO  resources.Log - The Value of the WhatsappBotTermsofURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+20:53:28.565 [main] INFO  resources.Log - Reading the Property file
+20:53:28.565 [main] INFO  resources.Log - The Value of the WhatsappBotPrivacypolicy Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+20:53:28.787 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:53:28.788 [main] INFO  resources.Log - X
+20:53:28.788 [main] INFO  resources.Log - X
+20:53:28.788 [main] INFO  resources.Log - X
+20:53:28.788 [main] INFO  resources.Log - X
+20:53:28.790 [main] INFO  resources.Log - came to flush
+20:57:48.668 [main] INFO  resources.Log - Onstart
+20:57:48.700 [main] INFO  resources.Log - Reading the Property file
+20:57:48.700 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:57:48.700 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:57:48.701 [main] INFO  resources.Log - Invoking the chrome Browser
+20:57:50.221 [main] INFO  resources.Log - Maximized the Browser window
+20:57:50.226 [main] INFO  resources.Log - Reading the Property file
+20:57:50.227 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:58:00.079 [main] INFO  resources.Log - Reading the Property file
+20:58:00.079 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:58:00.079 [main] INFO  resources.Log - Reading the Property file
+20:58:00.079 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:58:00.079 [main] INFO  resources.Log - Clicking on SingIn
+20:58:00.079 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:58:00.079 [main] INFO  resources.Log - Abcd@1234
+20:58:03.286 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:58:03.365 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:58:09.884 [main] INFO  resources.Log - Clicked on Login Button
+20:58:09.891 [main] INFO  resources.Log - Listener OnTestStart method clickOnSubmitforListing
+20:58:09.891 [main] INFO  resources.Log - ****************************************************************************************
+20:58:09.891 [main] INFO  resources.Log - ****************************************************************************************
+20:58:09.891 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 clickOnSubmitforListing       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:58:09.891 [main] INFO  resources.Log - ****************************************************************************************
+20:58:09.891 [main] INFO  resources.Log - ****************************************************************************************
+20:58:09.914 [main] INFO  resources.Log - scrolled Down
+20:58:10.040 [main] INFO  resources.Log - clicked on Click Here Button
+20:58:10.047 [main] INFO  resources.Log - Reading the Property file
+20:58:10.047 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+20:58:10.051 [main] INFO  resources.Log - Reading the Property file
+20:58:10.051 [main] INFO  resources.Log - The Value of the WhatsappBotName Fetched from the Properties: TestWhatsappBOT
+20:58:10.142 [main] INFO  resources.Log - Reading the Property file
+20:58:10.142 [main] INFO  resources.Log - The Value of the WhatsappBotBrandName Fetched from the Properties: TestWhatsappBrand
+20:58:10.336 [main] INFO  resources.Log - Reading the Property file
+20:58:10.336 [main] INFO  resources.Log - The Value of the WhatsappBotBrandWebsite Fetched from the Properties: https://stagingpartners2.dotgo.com/
+20:58:12.810 [main] INFO  resources.Log - Reading the Property file
+20:58:12.811 [main] INFO  resources.Log - The Value of the WhatsappBotShortDesc Fetched from the Properties: navigates to the specified website URL.
+20:58:12.884 [main] INFO  resources.Log - Reading the Property file
+20:58:12.885 [main] INFO  resources.Log - The Value of the WhatsappBotLongDesc Fetched from the Properties: navigates to the specified website URL. Once the website loads, the browser window is vertically scrolled down by 350 pixels.
+20:58:13.004 [main] INFO  resources.Log - Reading the Property file
+20:58:13.005 [main] INFO  resources.Log - The Value of the WhatsappBotWebsiteURL Fetched from the Properties: https://www.browserstack.com
+20:58:13.050 [main] INFO  resources.Log - Reading the Property file
+20:58:13.050 [main] INFO  resources.Log - The Value of the WhatsappBotDevelopedBy Fetched from the Properties: Automation
+20:58:13.115 [main] INFO  resources.Log - Reading the Property file
+20:58:13.115 [main] INFO  resources.Log - The Value of the WhatsappBotSupportEmail Fetched from the Properties: Test@gamil.com
+20:58:13.278 [main] INFO  resources.Log - Reading the Property file
+20:58:13.279 [main] INFO  resources.Log - The Value of the WhatsappBotPhNumber Fetched from the Properties: 8147573441
+20:58:13.379 [main] INFO  resources.Log - Reading the Property file
+20:58:13.379 [main] INFO  resources.Log - The Value of the WhatsappBotlaunchDate Fetched from the Properties: 19/10/2022
+20:58:13.444 [main] INFO  resources.Log - Reading the Property file
+20:58:13.444 [main] INFO  resources.Log - The Value of the WhatsappBotTermsofURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+20:58:13.567 [main] INFO  resources.Log - Reading the Property file
+20:58:13.568 [main] INFO  resources.Log - The Value of the WhatsappBotPrivacypolicy Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+20:58:14.027 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:58:14.028 [main] INFO  resources.Log - X
+20:58:14.028 [main] INFO  resources.Log - X
+20:58:14.028 [main] INFO  resources.Log - X
+20:58:14.028 [main] INFO  resources.Log - X
+20:58:14.031 [main] INFO  resources.Log - Reading the Property file
+20:58:14.031 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:58:14.031 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:58:14.031 [main] INFO  resources.Log - Invoking the chrome Browser
+20:58:14.595 [main] INFO  resources.Log - Maximized the Browser window
+20:58:14.597 [main] INFO  resources.Log - Reading the Property file
+20:58:14.597 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:58:22.599 [main] INFO  resources.Log - Reading the Property file
+20:58:22.599 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:58:22.599 [main] INFO  resources.Log - Reading the Property file
+20:58:22.599 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:58:22.599 [main] INFO  resources.Log - Clicking on SingIn
+20:58:22.599 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:58:22.599 [main] INFO  resources.Log - Abcd@1234
+20:58:25.779 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:58:25.831 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:58:31.080 [main] INFO  resources.Log - Clicked on Login Button
+20:58:31.080 [main] INFO  resources.Log - Listener OnTestStart method clickonConfirmButton
+20:58:31.081 [main] INFO  resources.Log - ****************************************************************************************
+20:58:31.081 [main] INFO  resources.Log - ****************************************************************************************
+20:58:31.081 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 clickonConfirmButton       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:58:31.081 [main] INFO  resources.Log - ****************************************************************************************
+20:58:31.081 [main] INFO  resources.Log - ****************************************************************************************
+20:58:31.105 [main] INFO  resources.Log - scrolled Down
+20:58:31.210 [main] INFO  resources.Log - clicked on Click Here Button
+20:58:31.214 [main] INFO  resources.Log - Reading the Property file
+20:58:31.214 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+20:58:31.215 [main] INFO  resources.Log - Reading the Property file
+20:58:31.215 [main] INFO  resources.Log - The Value of the WhatsappBotName Fetched from the Properties: TestWhatsappBOT
+20:58:31.298 [main] INFO  resources.Log - Reading the Property file
+20:58:31.298 [main] INFO  resources.Log - The Value of the WhatsappBotBrandName Fetched from the Properties: TestWhatsappBrand
+20:58:31.430 [main] INFO  resources.Log - Reading the Property file
+20:58:31.430 [main] INFO  resources.Log - The Value of the WhatsappBotBrandWebsite Fetched from the Properties: https://stagingpartners2.dotgo.com/
+20:58:33.811 [main] INFO  resources.Log - Reading the Property file
+20:58:33.812 [main] INFO  resources.Log - The Value of the WhatsappBotShortDesc Fetched from the Properties: navigates to the specified website URL.
+20:58:33.873 [main] INFO  resources.Log - Reading the Property file
+20:58:33.873 [main] INFO  resources.Log - The Value of the WhatsappBotLongDesc Fetched from the Properties: navigates to the specified website URL. Once the website loads, the browser window is vertically scrolled down by 350 pixels.
+20:58:33.978 [main] INFO  resources.Log - Reading the Property file
+20:58:33.978 [main] INFO  resources.Log - The Value of the WhatsappBotWebsiteURL Fetched from the Properties: https://www.browserstack.com
+20:58:34.027 [main] INFO  resources.Log - Reading the Property file
+20:58:34.027 [main] INFO  resources.Log - The Value of the WhatsappBotDevelopedBy Fetched from the Properties: Automation
+20:58:34.075 [main] INFO  resources.Log - Reading the Property file
+20:58:34.075 [main] INFO  resources.Log - The Value of the WhatsappBotSupportEmail Fetched from the Properties: Test@gamil.com
+20:58:34.196 [main] INFO  resources.Log - Reading the Property file
+20:58:34.196 [main] INFO  resources.Log - The Value of the WhatsappBotPhNumber Fetched from the Properties: 8147573441
+20:58:34.289 [main] INFO  resources.Log - Reading the Property file
+20:58:34.289 [main] INFO  resources.Log - The Value of the WhatsappBotlaunchDate Fetched from the Properties: 19/10/2022
+20:58:34.354 [main] INFO  resources.Log - Reading the Property file
+20:58:34.355 [main] INFO  resources.Log - The Value of the WhatsappBotTermsofURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+20:58:34.463 [main] INFO  resources.Log - Reading the Property file
+20:58:34.463 [main] INFO  resources.Log - The Value of the WhatsappBotPrivacypolicy Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+20:58:34.966 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:58:35.180 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:58:35.186 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:58:35.186 [main] INFO  resources.Log - X
+20:58:35.186 [main] INFO  resources.Log - X
+20:58:35.186 [main] INFO  resources.Log - X
+20:58:35.186 [main] INFO  resources.Log - X
+20:58:35.190 [main] INFO  resources.Log - Reading the Property file
+20:58:35.190 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:58:35.190 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:58:35.190 [main] INFO  resources.Log - Invoking the chrome Browser
+20:58:35.706 [main] INFO  resources.Log - Maximized the Browser window
+20:58:35.709 [main] INFO  resources.Log - Reading the Property file
+20:58:35.709 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:58:42.690 [main] INFO  resources.Log - Reading the Property file
+20:58:42.690 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:58:42.690 [main] INFO  resources.Log - Reading the Property file
+20:58:42.690 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:58:42.690 [main] INFO  resources.Log - Clicking on SingIn
+20:58:42.690 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:58:42.691 [main] INFO  resources.Log - Abcd@1234
+20:58:46.445 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:58:46.496 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:58:52.379 [main] INFO  resources.Log - Clicked on Login Button
+20:58:52.380 [main] INFO  resources.Log - Listener OnTestStart method createWhatsAppBotButton
+20:58:52.380 [main] INFO  resources.Log - ****************************************************************************************
+20:58:52.380 [main] INFO  resources.Log - ****************************************************************************************
+20:58:52.380 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 createWhatsAppBotButton       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:58:52.380 [main] INFO  resources.Log - ****************************************************************************************
+20:58:52.380 [main] INFO  resources.Log - ****************************************************************************************
+20:58:52.411 [main] INFO  resources.Log - scrolled Down
+20:58:52.548 [main] INFO  resources.Log - clicked on Click Here Button
+20:58:52.560 [main] INFO  resources.Log - Reading the Property file
+20:58:52.560 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+20:58:52.560 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:58:52.560 [main] INFO  resources.Log - X
+20:58:52.561 [main] INFO  resources.Log - X
+20:58:52.561 [main] INFO  resources.Log - X
+20:58:52.561 [main] INFO  resources.Log - X
+20:58:52.563 [main] INFO  resources.Log - Reading the Property file
+20:58:52.564 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:58:52.564 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:58:52.564 [main] INFO  resources.Log - Invoking the chrome Browser
+20:58:53.052 [main] INFO  resources.Log - Maximized the Browser window
+20:58:53.054 [main] INFO  resources.Log - Reading the Property file
+20:58:53.055 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:59:00.459 [main] INFO  resources.Log - Reading the Property file
+20:59:00.459 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+20:59:00.459 [main] INFO  resources.Log - Reading the Property file
+20:59:00.459 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+20:59:00.459 [main] INFO  resources.Log - Clicking on SingIn
+20:59:00.459 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:59:00.459 [main] INFO  resources.Log - Abcd@1234
+20:59:03.674 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:59:03.727 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:59:09.346 [main] INFO  resources.Log - Clicked on Login Button
+20:59:09.347 [main] INFO  resources.Log - Listener OnTestStart method whatsappPreviewPage
+20:59:09.347 [main] INFO  resources.Log - ****************************************************************************************
+20:59:09.347 [main] INFO  resources.Log - ****************************************************************************************
+20:59:09.347 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 whatsappPreviewPage       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:59:09.347 [main] INFO  resources.Log - ****************************************************************************************
+20:59:09.347 [main] INFO  resources.Log - ****************************************************************************************
+20:59:09.373 [main] INFO  resources.Log - scrolled Down
+20:59:09.500 [main] INFO  resources.Log - clicked on Click Here Button
+20:59:09.510 [main] INFO  resources.Log - Reading the Property file
+20:59:09.511 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+20:59:09.511 [main] INFO  resources.Log - Reading the Property file
+20:59:09.512 [main] INFO  resources.Log - The Value of the WhatsappBotName Fetched from the Properties: TestWhatsappBOT
+20:59:09.608 [main] INFO  resources.Log - Reading the Property file
+20:59:09.609 [main] INFO  resources.Log - The Value of the WhatsappBotBrandName Fetched from the Properties: TestWhatsappBrand
+20:59:09.755 [main] INFO  resources.Log - Reading the Property file
+20:59:09.756 [main] INFO  resources.Log - The Value of the WhatsappBotBrandWebsite Fetched from the Properties: https://stagingpartners2.dotgo.com/
+20:59:12.134 [main] INFO  resources.Log - Reading the Property file
+20:59:12.134 [main] INFO  resources.Log - The Value of the WhatsappBotShortDesc Fetched from the Properties: navigates to the specified website URL.
+20:59:12.190 [main] INFO  resources.Log - Reading the Property file
+20:59:12.190 [main] INFO  resources.Log - The Value of the WhatsappBotLongDesc Fetched from the Properties: navigates to the specified website URL. Once the website loads, the browser window is vertically scrolled down by 350 pixels.
+20:59:12.292 [main] INFO  resources.Log - Reading the Property file
+20:59:12.293 [main] INFO  resources.Log - The Value of the WhatsappBotWebsiteURL Fetched from the Properties: https://www.browserstack.com
+20:59:12.343 [main] INFO  resources.Log - Reading the Property file
+20:59:12.343 [main] INFO  resources.Log - The Value of the WhatsappBotDevelopedBy Fetched from the Properties: Automation
+20:59:12.415 [main] INFO  resources.Log - Reading the Property file
+20:59:12.415 [main] INFO  resources.Log - The Value of the WhatsappBotSupportEmail Fetched from the Properties: Test@gamil.com
+20:59:12.519 [main] INFO  resources.Log - Reading the Property file
+20:59:12.519 [main] INFO  resources.Log - The Value of the WhatsappBotPhNumber Fetched from the Properties: 8147573441
+20:59:12.632 [main] INFO  resources.Log - Reading the Property file
+20:59:12.632 [main] INFO  resources.Log - The Value of the WhatsappBotlaunchDate Fetched from the Properties: 19/10/2022
+20:59:12.694 [main] INFO  resources.Log - Reading the Property file
+20:59:12.694 [main] INFO  resources.Log - The Value of the WhatsappBotTermsofURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+20:59:12.791 [main] INFO  resources.Log - Reading the Property file
+20:59:12.791 [main] INFO  resources.Log - The Value of the WhatsappBotPrivacypolicy Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+20:59:13.080 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:59:13.080 [main] INFO  resources.Log - X
+20:59:13.080 [main] INFO  resources.Log - X
+20:59:13.080 [main] INFO  resources.Log - X
+20:59:13.080 [main] INFO  resources.Log - X
+20:59:13.082 [main] INFO  resources.Log - came to flush
+21:03:51.545 [main] INFO  resources.Log - Onstart
+21:03:51.568 [main] INFO  resources.Log - Reading the Property file
+21:03:51.568 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:03:51.568 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:03:51.569 [main] INFO  resources.Log - Invoking the chrome Browser
+21:03:52.970 [main] INFO  resources.Log - Maximized the Browser window
+21:03:52.979 [main] INFO  resources.Log - Reading the Property file
+21:03:52.980 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:04:01.000 [main] INFO  resources.Log - Reading the Property file
+21:04:01.000 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:04:01.000 [main] INFO  resources.Log - Reading the Property file
+21:04:01.000 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+21:04:01.001 [main] INFO  resources.Log - Clicking on SingIn
+21:04:01.001 [main] INFO  resources.Log - knjyothi@kirusa.com
+21:04:01.001 [main] INFO  resources.Log - Abcd@1234
+21:04:04.216 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+21:04:04.283 [main] INFO  resources.Log - Entered the password :Abcd@1234
+21:04:08.916 [main] INFO  resources.Log - Clicked on Login Button
+21:04:08.921 [main] INFO  resources.Log - Listener OnTestStart method clickOnSubmitforListing
+21:04:08.921 [main] INFO  resources.Log - ****************************************************************************************
+21:04:08.921 [main] INFO  resources.Log - ****************************************************************************************
+21:04:08.921 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 clickOnSubmitforListing       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:04:08.922 [main] INFO  resources.Log - ****************************************************************************************
+21:04:08.922 [main] INFO  resources.Log - ****************************************************************************************
+21:04:08.966 [main] INFO  resources.Log - scrolled Down
+21:04:09.077 [main] INFO  resources.Log - clicked on Click Here Button
+21:04:09.082 [main] INFO  resources.Log - Reading the Property file
+21:04:09.082 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+21:04:09.086 [main] INFO  resources.Log - Reading the Property file
+21:04:09.086 [main] INFO  resources.Log - The Value of the WhatsappBotName Fetched from the Properties: TestWhatsappBOT
+21:04:09.199 [main] INFO  resources.Log - Reading the Property file
+21:04:09.200 [main] INFO  resources.Log - The Value of the WhatsappBotBrandName Fetched from the Properties: TestWhatsappBrand
+21:04:09.406 [main] INFO  resources.Log - Reading the Property file
+21:04:09.406 [main] INFO  resources.Log - The Value of the WhatsappBotBrandWebsite Fetched from the Properties: https://stagingpartners2.dotgo.com/
+21:04:11.829 [main] INFO  resources.Log - Reading the Property file
+21:04:11.829 [main] INFO  resources.Log - The Value of the WhatsappBotShortDesc Fetched from the Properties: navigates to the specified website URL.
+21:04:11.899 [main] INFO  resources.Log - Reading the Property file
+21:04:11.900 [main] INFO  resources.Log - The Value of the WhatsappBotLongDesc Fetched from the Properties: navigates to the specified website URL. Once the website loads, the browser window is vertically scrolled down by 350 pixels.
+21:04:12.018 [main] INFO  resources.Log - Reading the Property file
+21:04:12.018 [main] INFO  resources.Log - The Value of the WhatsappBotWebsiteURL Fetched from the Properties: https://www.browserstack.com
+21:04:12.063 [main] INFO  resources.Log - Reading the Property file
+21:04:12.063 [main] INFO  resources.Log - The Value of the WhatsappBotDevelopedBy Fetched from the Properties: Automation
+21:04:12.118 [main] INFO  resources.Log - Reading the Property file
+21:04:12.118 [main] INFO  resources.Log - The Value of the WhatsappBotSupportEmail Fetched from the Properties: Test@gamil.com
+21:04:12.257 [main] INFO  resources.Log - Reading the Property file
+21:04:12.258 [main] INFO  resources.Log - The Value of the WhatsappBotPhNumber Fetched from the Properties: 8147573441
+21:04:12.359 [main] INFO  resources.Log - Reading the Property file
+21:04:12.359 [main] INFO  resources.Log - The Value of the WhatsappBotlaunchDate Fetched from the Properties: 19/10/2022
+21:04:12.426 [main] INFO  resources.Log - Reading the Property file
+21:04:12.426 [main] INFO  resources.Log - The Value of the WhatsappBotTermsofURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+21:04:12.539 [main] INFO  resources.Log - Reading the Property file
+21:04:12.540 [main] INFO  resources.Log - The Value of the WhatsappBotPrivacypolicy Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+21:04:12.947 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:04:12.947 [main] INFO  resources.Log - X
+21:04:12.947 [main] INFO  resources.Log - X
+21:04:12.947 [main] INFO  resources.Log - X
+21:04:12.947 [main] INFO  resources.Log - X
+21:04:12.949 [main] INFO  resources.Log - Reading the Property file
+21:04:12.949 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:04:12.950 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:04:12.950 [main] INFO  resources.Log - Invoking the chrome Browser
+21:04:13.484 [main] INFO  resources.Log - Maximized the Browser window
+21:04:13.486 [main] INFO  resources.Log - Reading the Property file
+21:04:13.487 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:04:25.757 [main] INFO  resources.Log - Reading the Property file
+21:04:25.757 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:04:25.758 [main] INFO  resources.Log - Reading the Property file
+21:04:25.758 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+21:04:25.758 [main] INFO  resources.Log - Clicking on SingIn
+21:04:25.758 [main] INFO  resources.Log - knjyothi@kirusa.com
+21:04:25.758 [main] INFO  resources.Log - Abcd@1234
+21:04:29.957 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+21:04:30.003 [main] INFO  resources.Log - Entered the password :Abcd@1234
+21:04:36.669 [main] INFO  resources.Log - Clicked on Login Button
+21:04:36.670 [main] INFO  resources.Log - Listener OnTestStart method clickonConfirmButton
+21:04:36.670 [main] INFO  resources.Log - ****************************************************************************************
+21:04:36.670 [main] INFO  resources.Log - ****************************************************************************************
+21:04:36.670 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 clickonConfirmButton       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:04:36.671 [main] INFO  resources.Log - ****************************************************************************************
+21:04:36.671 [main] INFO  resources.Log - ****************************************************************************************
+21:04:36.697 [main] INFO  resources.Log - scrolled Down
+21:04:36.818 [main] INFO  resources.Log - clicked on Click Here Button
+21:04:36.824 [main] INFO  resources.Log - Reading the Property file
+21:04:36.824 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+21:04:36.825 [main] INFO  resources.Log - Reading the Property file
+21:04:36.825 [main] INFO  resources.Log - The Value of the WhatsappBotName Fetched from the Properties: TestWhatsappBOT
+21:04:36.914 [main] INFO  resources.Log - Reading the Property file
+21:04:36.914 [main] INFO  resources.Log - The Value of the WhatsappBotBrandName Fetched from the Properties: TestWhatsappBrand
+21:04:37.050 [main] INFO  resources.Log - Reading the Property file
+21:04:37.050 [main] INFO  resources.Log - The Value of the WhatsappBotBrandWebsite Fetched from the Properties: https://stagingpartners2.dotgo.com/
+21:04:39.448 [main] INFO  resources.Log - Reading the Property file
+21:04:39.448 [main] INFO  resources.Log - The Value of the WhatsappBotShortDesc Fetched from the Properties: navigates to the specified website URL.
+21:04:39.508 [main] INFO  resources.Log - Reading the Property file
+21:04:39.508 [main] INFO  resources.Log - The Value of the WhatsappBotLongDesc Fetched from the Properties: navigates to the specified website URL. Once the website loads, the browser window is vertically scrolled down by 350 pixels.
+21:04:39.613 [main] INFO  resources.Log - Reading the Property file
+21:04:39.613 [main] INFO  resources.Log - The Value of the WhatsappBotWebsiteURL Fetched from the Properties: https://www.browserstack.com
+21:04:39.663 [main] INFO  resources.Log - Reading the Property file
+21:04:39.663 [main] INFO  resources.Log - The Value of the WhatsappBotDevelopedBy Fetched from the Properties: Automation
+21:04:39.732 [main] INFO  resources.Log - Reading the Property file
+21:04:39.732 [main] INFO  resources.Log - The Value of the WhatsappBotSupportEmail Fetched from the Properties: Test@gamil.com
+21:04:39.833 [main] INFO  resources.Log - Reading the Property file
+21:04:39.833 [main] INFO  resources.Log - The Value of the WhatsappBotPhNumber Fetched from the Properties: 8147573441
+21:04:39.930 [main] INFO  resources.Log - Reading the Property file
+21:04:39.930 [main] INFO  resources.Log - The Value of the WhatsappBotlaunchDate Fetched from the Properties: 19/10/2022
+21:04:39.988 [main] INFO  resources.Log - Reading the Property file
+21:04:39.989 [main] INFO  resources.Log - The Value of the WhatsappBotTermsofURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+21:04:40.066 [main] INFO  resources.Log - Reading the Property file
+21:04:40.066 [main] INFO  resources.Log - The Value of the WhatsappBotPrivacypolicy Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+21:04:40.550 [main] INFO  resources.Log - Taking Screeshot of the webpage
+21:04:40.758 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+21:04:40.762 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:04:40.762 [main] INFO  resources.Log - X
+21:04:40.762 [main] INFO  resources.Log - X
+21:04:40.762 [main] INFO  resources.Log - X
+21:04:40.762 [main] INFO  resources.Log - X
+21:04:40.765 [main] INFO  resources.Log - Reading the Property file
+21:04:40.765 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:04:40.765 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:04:40.765 [main] INFO  resources.Log - Invoking the chrome Browser
+21:04:41.287 [main] INFO  resources.Log - Maximized the Browser window
+21:04:41.290 [main] INFO  resources.Log - Reading the Property file
+21:04:41.290 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:04:47.892 [main] INFO  resources.Log - Reading the Property file
+21:04:47.892 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:04:47.893 [main] INFO  resources.Log - Reading the Property file
+21:04:47.893 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+21:04:47.893 [main] INFO  resources.Log - Clicking on SingIn
+21:04:47.893 [main] INFO  resources.Log - knjyothi@kirusa.com
+21:04:47.893 [main] INFO  resources.Log - Abcd@1234
+21:04:52.050 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+21:04:52.093 [main] INFO  resources.Log - Entered the password :Abcd@1234
+21:04:57.252 [main] INFO  resources.Log - Clicked on Login Button
+21:04:57.253 [main] INFO  resources.Log - Listener OnTestStart method createWhatsAppBotButton
+21:04:57.254 [main] INFO  resources.Log - ****************************************************************************************
+21:04:57.254 [main] INFO  resources.Log - ****************************************************************************************
+21:04:57.254 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 createWhatsAppBotButton       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:04:57.254 [main] INFO  resources.Log - ****************************************************************************************
+21:04:57.254 [main] INFO  resources.Log - ****************************************************************************************
+21:04:57.285 [main] INFO  resources.Log - scrolled Down
+21:04:57.435 [main] INFO  resources.Log - clicked on Click Here Button
+21:04:57.449 [main] INFO  resources.Log - Reading the Property file
+21:04:57.449 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+21:04:57.449 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:04:57.449 [main] INFO  resources.Log - X
+21:04:57.449 [main] INFO  resources.Log - X
+21:04:57.449 [main] INFO  resources.Log - X
+21:04:57.449 [main] INFO  resources.Log - X
+21:04:57.450 [main] INFO  resources.Log - Reading the Property file
+21:04:57.450 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:04:57.450 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:04:57.450 [main] INFO  resources.Log - Invoking the chrome Browser
+21:04:58.042 [main] INFO  resources.Log - Maximized the Browser window
+21:04:58.048 [main] INFO  resources.Log - Reading the Property file
+21:04:58.048 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:05:04.161 [main] INFO  resources.Log - Reading the Property file
+21:05:04.161 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:05:04.161 [main] INFO  resources.Log - Reading the Property file
+21:05:04.162 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+21:05:04.162 [main] INFO  resources.Log - Clicking on SingIn
+21:05:04.162 [main] INFO  resources.Log - knjyothi@kirusa.com
+21:05:04.162 [main] INFO  resources.Log - Abcd@1234
+21:05:08.058 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+21:05:08.113 [main] INFO  resources.Log - Entered the password :Abcd@1234
+21:05:13.011 [main] INFO  resources.Log - Clicked on Login Button
+21:05:13.013 [main] INFO  resources.Log - Listener OnTestStart method whatsappPreviewPage
+21:05:13.013 [main] INFO  resources.Log - ****************************************************************************************
+21:05:13.013 [main] INFO  resources.Log - ****************************************************************************************
+21:05:13.013 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 whatsappPreviewPage       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:05:13.013 [main] INFO  resources.Log - ****************************************************************************************
+21:05:13.013 [main] INFO  resources.Log - ****************************************************************************************
+21:05:13.042 [main] INFO  resources.Log - scrolled Down
+21:05:13.150 [main] INFO  resources.Log - clicked on Click Here Button
+21:05:13.157 [main] INFO  resources.Log - Reading the Property file
+21:05:13.157 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+21:05:13.158 [main] INFO  resources.Log - Reading the Property file
+21:05:13.158 [main] INFO  resources.Log - The Value of the WhatsappBotName Fetched from the Properties: TestWhatsappBOT
+21:05:13.244 [main] INFO  resources.Log - Reading the Property file
+21:05:13.244 [main] INFO  resources.Log - The Value of the WhatsappBotBrandName Fetched from the Properties: TestWhatsappBrand
+21:05:13.394 [main] INFO  resources.Log - Reading the Property file
+21:05:13.394 [main] INFO  resources.Log - The Value of the WhatsappBotBrandWebsite Fetched from the Properties: https://stagingpartners2.dotgo.com/
+21:05:15.761 [main] INFO  resources.Log - Reading the Property file
+21:05:15.761 [main] INFO  resources.Log - The Value of the WhatsappBotShortDesc Fetched from the Properties: navigates to the specified website URL.
+21:05:15.822 [main] INFO  resources.Log - Reading the Property file
+21:05:15.822 [main] INFO  resources.Log - The Value of the WhatsappBotLongDesc Fetched from the Properties: navigates to the specified website URL. Once the website loads, the browser window is vertically scrolled down by 350 pixels.
+21:05:15.937 [main] INFO  resources.Log - Reading the Property file
+21:05:15.937 [main] INFO  resources.Log - The Value of the WhatsappBotWebsiteURL Fetched from the Properties: https://www.browserstack.com
+21:05:15.987 [main] INFO  resources.Log - Reading the Property file
+21:05:15.987 [main] INFO  resources.Log - The Value of the WhatsappBotDevelopedBy Fetched from the Properties: Automation
+21:05:16.042 [main] INFO  resources.Log - Reading the Property file
+21:05:16.043 [main] INFO  resources.Log - The Value of the WhatsappBotSupportEmail Fetched from the Properties: Test@gamil.com
+21:05:16.150 [main] INFO  resources.Log - Reading the Property file
+21:05:16.150 [main] INFO  resources.Log - The Value of the WhatsappBotPhNumber Fetched from the Properties: 8147573441
+21:05:16.244 [main] INFO  resources.Log - Reading the Property file
+21:05:16.244 [main] INFO  resources.Log - The Value of the WhatsappBotlaunchDate Fetched from the Properties: 19/10/2022
+21:05:16.309 [main] INFO  resources.Log - Reading the Property file
+21:05:16.309 [main] INFO  resources.Log - The Value of the WhatsappBotTermsofURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+21:05:16.400 [main] INFO  resources.Log - Reading the Property file
+21:05:16.401 [main] INFO  resources.Log - The Value of the WhatsappBotPrivacypolicy Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+21:05:16.650 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+21:05:16.650 [main] INFO  resources.Log - X
+21:05:16.651 [main] INFO  resources.Log - X
+21:05:16.651 [main] INFO  resources.Log - X
+21:05:16.651 [main] INFO  resources.Log - X
+21:05:16.653 [main] INFO  resources.Log - came to flush
+21:11:22.735 [main] INFO  resources.Log - Onstart
+21:11:22.761 [main] INFO  resources.Log - Reading the Property file
+21:11:22.761 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+21:11:22.761 [main] INFO  resources.Log - Fetching the Browser value as chrome
+21:11:22.761 [main] INFO  resources.Log - Invoking the chrome Browser
+21:11:24.118 [main] INFO  resources.Log - Maximized the Browser window
+21:11:24.122 [main] INFO  resources.Log - Reading the Property file
+21:11:24.123 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+21:11:33.013 [main] INFO  resources.Log - Reading the Property file
+21:11:33.013 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+21:11:33.013 [main] INFO  resources.Log - Reading the Property file
+21:11:33.013 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+21:11:33.014 [main] INFO  resources.Log - Clicking on SingIn
+21:11:33.014 [main] INFO  resources.Log - knjyothi@kirusa.com
+21:11:33.014 [main] INFO  resources.Log - Abcd@1234
+21:11:37.671 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+21:11:37.725 [main] INFO  resources.Log - Entered the password :Abcd@1234
+21:11:42.848 [main] INFO  resources.Log - Clicked on Login Button
+21:11:42.855 [main] INFO  resources.Log - Listener OnTestStart method clickOnSubmitforListing
+21:11:42.855 [main] INFO  resources.Log - ****************************************************************************************
+21:11:42.855 [main] INFO  resources.Log - ****************************************************************************************
+21:11:42.855 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 clickOnSubmitforListing       $$$$$$$$$$$$$$$$$$$$$$$$$
+21:11:42.855 [main] INFO  resources.Log - ****************************************************************************************
+21:11:42.855 [main] INFO  resources.Log - ****************************************************************************************
+21:11:42.883 [main] INFO  resources.Log - scrolled Down
+21:11:42.978 [main] INFO  resources.Log - clicked on Click Here Button
+21:11:42.982 [main] INFO  resources.Log - Reading the Property file
+21:11:42.982 [main] INFO  resources.Log - The Value of the WhatsappBotDetailsPage Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/whatsapp-bot-details
+21:11:42.986 [main] INFO  resources.Log - Reading the Property file
+21:11:42.987 [main] INFO  resources.Log - The Value of the WhatsappBotName Fetched from the Properties: TestWhatsappBOT

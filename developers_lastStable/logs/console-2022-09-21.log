@@ -1,0 +1,573 @@
+20:30:35.564 [main] INFO  resources.Log - ****************************************************************************************
+20:30:35.570 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:30:35.570 [main] INFO  resources.Log - ****************************************************************************************
+20:30:35.570 [main] INFO  resources.Log - ****************************************************************************************
+20:30:35.586 [main] INFO  resources.Log - Clicking on SingIn
+20:30:41.494 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:30:41.554 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:31:20.935 [main] INFO  resources.Log - Clicked on Login Button
+20:31:20.936 [main] INFO  resources.Log - Reading the Property file
+20:31:20.936 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:31:20.939 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+20:31:20.942 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:31:20.942 [main] INFO  resources.Log - X
+20:31:20.942 [main] INFO  resources.Log - X
+20:31:20.942 [main] INFO  resources.Log - X
+20:31:20.942 [main] INFO  resources.Log - X
+20:31:21.012 [main] INFO  resources.Log - Reading the Property file
+20:31:21.012 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:31:21.012 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:31:21.012 [main] INFO  resources.Log - Invoking the chrome Browser
+20:31:21.411 [main] INFO  resources.Log - Maximized the Browser window
+20:31:21.413 [main] INFO  resources.Log - Reading the Property file
+20:31:21.413 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:32:06.199 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:32:06.199 [main] INFO  resources.Log - ****************************************************************************************
+20:32:06.199 [main] INFO  resources.Log - ****************************************************************************************
+20:32:06.199 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:32:06.199 [main] INFO  resources.Log - ****************************************************************************************
+20:32:06.199 [main] INFO  resources.Log - ****************************************************************************************
+20:32:06.200 [main] INFO  resources.Log - Clicking on SingIn
+20:32:12.003 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+20:32:12.041 [main] INFO  resources.Log - Entered the password :pass
+20:32:17.254 [main] INFO  resources.Log - Clicked on Login Button
+20:32:17.254 [main] INFO  resources.Log - Reading the Property file
+20:32:17.254 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:32:17.297 [main] INFO  resources.Log - Error message: 
+20:32:17.297 [main] INFO  resources.Log - Error Message: Invalid Email ID or Password.
+20:32:17.312 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:32:17.474 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:32:17.476 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:32:17.476 [main] INFO  resources.Log - X
+20:32:17.476 [main] INFO  resources.Log - X
+20:32:17.476 [main] INFO  resources.Log - X
+20:32:17.476 [main] INFO  resources.Log - X
+20:32:17.548 [main] INFO  resources.Log - Reading the Property file
+20:32:17.548 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:32:17.548 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:32:17.548 [main] INFO  resources.Log - Invoking the chrome Browser
+20:32:17.946 [main] INFO  resources.Log - Maximized the Browser window
+20:32:17.951 [main] INFO  resources.Log - Reading the Property file
+20:32:17.951 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:32:44.190 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:32:44.190 [main] INFO  resources.Log - ****************************************************************************************
+20:32:44.190 [main] INFO  resources.Log - ****************************************************************************************
+20:32:44.190 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:32:44.190 [main] INFO  resources.Log - ****************************************************************************************
+20:32:44.190 [main] INFO  resources.Log - ****************************************************************************************
+20:32:44.192 [main] INFO  resources.Log - Clicking on SingIn
+20:32:50.111 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+20:32:50.144 [main] INFO  resources.Log - Entered the password :
+20:32:50.185 [main] INFO  resources.Log - Clicked on Login Button
+20:32:50.185 [main] INFO  resources.Log - Reading the Property file
+20:32:50.185 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:32:50.221 [main] INFO  resources.Log - Error message: Password must be provided.
+20:32:50.221 [main] INFO  resources.Log - Error Message: 
+20:32:50.239 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:32:50.239 [main] INFO  resources.Log - X
+20:32:50.239 [main] INFO  resources.Log - X
+20:32:50.239 [main] INFO  resources.Log - X
+20:32:50.239 [main] INFO  resources.Log - X
+20:32:50.314 [main] INFO  resources.Log - came to flush
+20:36:01.637 [main] INFO  resources.Log - Onstart
+20:36:01.654 [main] INFO  resources.Log - Reading JSON to String
+20:36:01.809 [main] INFO  resources.Log - Converting String to HashMap
+20:36:01.819 [main] INFO  resources.Log - Reading the Property file
+20:36:01.819 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:36:01.819 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:36:01.819 [main] INFO  resources.Log - Invoking the chrome Browser
+20:36:03.105 [main] INFO  resources.Log - Maximized the Browser window
+20:36:03.109 [main] INFO  resources.Log - Reading the Property file
+20:36:03.110 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:36:51.791 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:36:51.792 [main] INFO  resources.Log - ****************************************************************************************
+20:36:51.792 [main] INFO  resources.Log - ****************************************************************************************
+20:36:51.792 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:36:51.792 [main] INFO  resources.Log - ****************************************************************************************
+20:36:51.792 [main] INFO  resources.Log - ****************************************************************************************
+20:36:51.804 [main] INFO  resources.Log - Clicking on SingIn
+20:37:09.124 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:37:09.164 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:38:04.676 [main] INFO  resources.Log - Clicked on Login Button
+20:38:04.676 [main] INFO  resources.Log - Reading the Property file
+20:38:04.676 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:38:04.684 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+20:38:04.687 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:38:04.688 [main] INFO  resources.Log - X
+20:38:04.688 [main] INFO  resources.Log - X
+20:38:04.688 [main] INFO  resources.Log - X
+20:38:04.688 [main] INFO  resources.Log - X
+20:38:04.754 [main] INFO  resources.Log - Reading the Property file
+20:38:04.754 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:38:04.754 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:38:04.754 [main] INFO  resources.Log - Invoking the chrome Browser
+20:38:05.195 [main] INFO  resources.Log - Maximized the Browser window
+20:38:05.200 [main] INFO  resources.Log - Reading the Property file
+20:38:05.200 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:38:42.432 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:38:42.433 [main] INFO  resources.Log - ****************************************************************************************
+20:38:42.433 [main] INFO  resources.Log - ****************************************************************************************
+20:38:42.433 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:38:42.433 [main] INFO  resources.Log - ****************************************************************************************
+20:38:42.433 [main] INFO  resources.Log - ****************************************************************************************
+20:38:42.435 [main] INFO  resources.Log - Clicking on SingIn
+20:38:48.250 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+20:38:48.291 [main] INFO  resources.Log - Entered the password :pass
+20:38:52.612 [main] INFO  resources.Log - Clicked on Login Button
+20:38:52.613 [main] INFO  resources.Log - Reading the Property file
+20:38:52.613 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:38:52.656 [main] INFO  resources.Log - Error message: 
+20:38:52.656 [main] INFO  resources.Log - Error Message: Invalid Email ID or Password.
+20:38:52.669 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:38:52.796 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+20:38:52.798 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:38:52.798 [main] INFO  resources.Log - X
+20:38:52.798 [main] INFO  resources.Log - X
+20:38:52.798 [main] INFO  resources.Log - X
+20:38:52.798 [main] INFO  resources.Log - X
+20:38:52.866 [main] INFO  resources.Log - Reading the Property file
+20:38:52.866 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:38:52.866 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:38:52.866 [main] INFO  resources.Log - Invoking the chrome Browser
+20:38:53.260 [main] INFO  resources.Log - Maximized the Browser window
+20:38:53.263 [main] INFO  resources.Log - Reading the Property file
+20:38:53.263 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:39:08.808 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:39:08.808 [main] INFO  resources.Log - ****************************************************************************************
+20:39:08.808 [main] INFO  resources.Log - ****************************************************************************************
+20:39:08.808 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:39:08.808 [main] INFO  resources.Log - ****************************************************************************************
+20:39:08.808 [main] INFO  resources.Log - ****************************************************************************************
+20:39:08.809 [main] INFO  resources.Log - Clicking on SingIn
+20:39:08.822 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:39:08.828 [main] INFO  resources.Log - Taking Screeshot of the webpage
+20:39:08.839 [main] INFO  resources.Log - came to flush
+20:39:19.234 [main] INFO  resources.Log - Onstart
+20:39:19.250 [main] INFO  resources.Log - Reading JSON to String
+20:39:19.366 [main] INFO  resources.Log - Converting String to HashMap
+20:39:19.373 [main] INFO  resources.Log - Reading the Property file
+20:39:19.373 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:39:19.373 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:39:19.373 [main] INFO  resources.Log - Invoking the chrome Browser
+20:39:20.420 [main] INFO  resources.Log - Maximized the Browser window
+20:39:20.427 [main] INFO  resources.Log - Reading the Property file
+20:39:20.427 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:40:36.886 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:40:36.886 [main] INFO  resources.Log - ****************************************************************************************
+20:40:36.886 [main] INFO  resources.Log - ****************************************************************************************
+20:40:36.886 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:40:36.886 [main] INFO  resources.Log - ****************************************************************************************
+20:40:36.886 [main] INFO  resources.Log - ****************************************************************************************
+20:40:36.906 [main] INFO  resources.Log - Clicking on SingIn
+20:40:44.717 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:40:44.763 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:41:57.020 [main] INFO  resources.Log - Clicked on Login Button
+20:41:57.021 [main] INFO  resources.Log - Reading the Property file
+20:41:57.021 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:41:57.040 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+20:41:57.048 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:41:57.048 [main] INFO  resources.Log - X
+20:41:57.048 [main] INFO  resources.Log - X
+20:41:57.048 [main] INFO  resources.Log - X
+20:41:57.048 [main] INFO  resources.Log - X
+20:41:57.118 [main] INFO  resources.Log - Reading the Property file
+20:41:57.119 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:41:57.119 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:41:57.119 [main] INFO  resources.Log - Invoking the chrome Browser
+20:41:57.521 [main] INFO  resources.Log - Maximized the Browser window
+20:41:57.526 [main] INFO  resources.Log - Reading the Property file
+20:41:57.526 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:42:42.205 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:42:42.205 [main] INFO  resources.Log - ****************************************************************************************
+20:42:42.205 [main] INFO  resources.Log - ****************************************************************************************
+20:42:42.206 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:42:42.206 [main] INFO  resources.Log - ****************************************************************************************
+20:42:42.206 [main] INFO  resources.Log - ****************************************************************************************
+20:42:42.207 [main] INFO  resources.Log - Clicking on SingIn
+20:42:47.831 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+20:42:47.871 [main] INFO  resources.Log - Entered the password :pass
+20:42:56.717 [main] INFO  resources.Log - Clicked on Login Button
+20:42:56.717 [main] INFO  resources.Log - Reading the Property file
+20:42:56.717 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:42:56.750 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:42:56.750 [main] INFO  resources.Log - X
+20:42:56.750 [main] INFO  resources.Log - X
+20:42:56.750 [main] INFO  resources.Log - X
+20:42:56.750 [main] INFO  resources.Log - X
+20:42:56.816 [main] INFO  resources.Log - Reading the Property file
+20:42:56.816 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:42:56.816 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:42:56.816 [main] INFO  resources.Log - Invoking the chrome Browser
+20:42:57.216 [main] INFO  resources.Log - Maximized the Browser window
+20:42:57.218 [main] INFO  resources.Log - Reading the Property file
+20:42:57.218 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:43:30.763 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:43:30.763 [main] INFO  resources.Log - ****************************************************************************************
+20:43:30.763 [main] INFO  resources.Log - ****************************************************************************************
+20:43:30.763 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:43:30.763 [main] INFO  resources.Log - ****************************************************************************************
+20:43:30.763 [main] INFO  resources.Log - ****************************************************************************************
+20:43:30.763 [main] INFO  resources.Log - Clicking on SingIn
+20:43:35.606 [main] INFO  resources.Log - Entered the Email ID: amar@gmail.com
+20:43:35.647 [main] INFO  resources.Log - Entered the password :new
+20:43:39.380 [main] INFO  resources.Log - Clicked on Login Button
+20:43:39.380 [main] INFO  resources.Log - Reading the Property file
+20:43:39.380 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:43:39.406 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:43:39.406 [main] INFO  resources.Log - X
+20:43:39.406 [main] INFO  resources.Log - X
+20:43:39.406 [main] INFO  resources.Log - X
+20:43:39.406 [main] INFO  resources.Log - X
+20:43:39.476 [main] INFO  resources.Log - came to flush
+12:36:33.197 [main] INFO  resources.Log - Onstart
+12:36:33.228 [main] INFO  resources.Log - Reading JSON to String
+12:36:33.409 [main] INFO  resources.Log - Converting String to HashMap
+12:36:33.427 [main] INFO  resources.Log - Reading the Property file
+12:36:33.428 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+12:36:33.428 [main] INFO  resources.Log - Fetching the Browser value as chrome
+12:36:33.428 [main] INFO  resources.Log - Invoking the chrome Browser
+12:36:36.000 [main] INFO  resources.Log - Maximized the Browser window
+12:36:36.007 [main] INFO  resources.Log - Reading the Property file
+12:36:36.008 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+12:36:40.446 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+12:36:40.446 [main] INFO  resources.Log - ****************************************************************************************
+12:36:40.446 [main] INFO  resources.Log - ****************************************************************************************
+12:36:40.446 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:36:40.447 [main] INFO  resources.Log - ****************************************************************************************
+12:36:40.447 [main] INFO  resources.Log - ****************************************************************************************
+12:36:40.462 [main] INFO  resources.Log - Clicking on SingIn
+12:36:43.588 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+12:36:43.657 [main] INFO  resources.Log - Entered the password :Abcd@1234
+12:36:48.571 [main] INFO  resources.Log - Clicked on Login Button
+12:36:48.571 [main] INFO  resources.Log - Reading the Property file
+12:36:48.571 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+12:36:48.589 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+12:36:48.596 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+12:36:48.597 [main] INFO  resources.Log - X
+12:36:48.597 [main] INFO  resources.Log - X
+12:36:48.597 [main] INFO  resources.Log - X
+12:36:48.597 [main] INFO  resources.Log - X
+12:36:48.677 [main] INFO  resources.Log - Reading the Property file
+12:36:48.678 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+12:36:48.678 [main] INFO  resources.Log - Fetching the Browser value as chrome
+12:36:48.678 [main] INFO  resources.Log - Invoking the chrome Browser
+12:36:49.371 [main] INFO  resources.Log - Maximized the Browser window
+12:36:49.377 [main] INFO  resources.Log - Reading the Property file
+12:36:49.377 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+12:36:53.847 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+12:36:53.848 [main] INFO  resources.Log - ****************************************************************************************
+12:36:53.848 [main] INFO  resources.Log - ****************************************************************************************
+12:36:53.848 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:36:53.848 [main] INFO  resources.Log - ****************************************************************************************
+12:36:53.848 [main] INFO  resources.Log - ****************************************************************************************
+12:36:53.850 [main] INFO  resources.Log - Clicking on SingIn
+12:36:56.922 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+12:36:57.008 [main] INFO  resources.Log - Entered the password :pass
+12:36:58.836 [main] INFO  resources.Log - Clicked on Login Button
+12:36:58.836 [main] INFO  resources.Log - Reading the Property file
+12:36:58.836 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+12:36:58.891 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+12:36:58.891 [main] INFO  resources.Log - X
+12:36:58.891 [main] INFO  resources.Log - X
+12:36:58.891 [main] INFO  resources.Log - X
+12:36:58.891 [main] INFO  resources.Log - X
+12:36:58.958 [main] INFO  resources.Log - Reading the Property file
+12:36:58.958 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+12:36:58.958 [main] INFO  resources.Log - Fetching the Browser value as chrome
+12:36:58.958 [main] INFO  resources.Log - Invoking the chrome Browser
+12:36:59.511 [main] INFO  resources.Log - Maximized the Browser window
+12:36:59.517 [main] INFO  resources.Log - Reading the Property file
+12:36:59.517 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+12:37:03.754 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+12:37:03.754 [main] INFO  resources.Log - ****************************************************************************************
+12:37:03.755 [main] INFO  resources.Log - ****************************************************************************************
+12:37:03.755 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+12:37:03.755 [main] INFO  resources.Log - ****************************************************************************************
+12:37:03.755 [main] INFO  resources.Log - ****************************************************************************************
+12:37:03.756 [main] INFO  resources.Log - Clicking on SingIn
+12:37:06.849 [main] INFO  resources.Log - Entered the Email ID: amar@gmail.com
+12:37:06.914 [main] INFO  resources.Log - Entered the password :new
+12:37:08.770 [main] INFO  resources.Log - Clicked on Login Button
+12:37:08.771 [main] INFO  resources.Log - Reading the Property file
+12:37:08.771 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+12:37:08.814 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+12:37:08.814 [main] INFO  resources.Log - X
+12:37:08.814 [main] INFO  resources.Log - X
+12:37:08.814 [main] INFO  resources.Log - X
+12:37:08.814 [main] INFO  resources.Log - X
+12:37:08.888 [main] INFO  resources.Log - came to flush
+15:53:27.199 [main] INFO  resources.Log - Onstart
+15:53:27.224 [main] INFO  resources.Log - Reading JSON to String
+15:53:27.393 [main] INFO  resources.Log - Converting String to HashMap
+15:53:27.404 [main] INFO  resources.Log - Reading the Property file
+15:53:27.404 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+15:53:27.404 [main] INFO  resources.Log - Fetching the Browser value as chrome
+15:53:27.405 [main] INFO  resources.Log - Invoking the chrome Browser
+15:53:29.546 [main] INFO  resources.Log - Maximized the Browser window
+15:53:29.554 [main] INFO  resources.Log - Reading the Property file
+15:53:29.554 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+15:53:34.169 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+15:53:34.170 [main] INFO  resources.Log - ****************************************************************************************
+15:53:34.170 [main] INFO  resources.Log - ****************************************************************************************
+15:53:34.170 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+15:53:34.170 [main] INFO  resources.Log - ****************************************************************************************
+15:53:34.170 [main] INFO  resources.Log - ****************************************************************************************
+15:53:34.190 [main] INFO  resources.Log - Clicking on SingIn
+15:53:37.284 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+15:53:37.336 [main] INFO  resources.Log - Entered the password :Abcd@1234
+15:53:41.216 [main] INFO  resources.Log - Clicked on Login Button
+15:53:41.216 [main] INFO  resources.Log - Reading the Property file
+15:53:41.216 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+15:53:41.223 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+15:53:41.229 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:53:41.229 [main] INFO  resources.Log - X
+15:53:41.229 [main] INFO  resources.Log - X
+15:53:41.229 [main] INFO  resources.Log - X
+15:53:41.229 [main] INFO  resources.Log - X
+15:53:41.345 [main] INFO  resources.Log - Reading the Property file
+15:53:41.345 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+15:53:41.345 [main] INFO  resources.Log - Fetching the Browser value as chrome
+15:53:41.345 [main] INFO  resources.Log - Invoking the chrome Browser
+15:53:41.880 [main] INFO  resources.Log - Maximized the Browser window
+15:53:41.883 [main] INFO  resources.Log - Reading the Property file
+15:53:41.883 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+15:53:46.862 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+15:53:46.862 [main] INFO  resources.Log - ****************************************************************************************
+15:53:46.862 [main] INFO  resources.Log - ****************************************************************************************
+15:53:46.862 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+15:53:46.862 [main] INFO  resources.Log - ****************************************************************************************
+15:53:46.862 [main] INFO  resources.Log - ****************************************************************************************
+15:53:46.863 [main] INFO  resources.Log - Clicking on SingIn
+15:53:49.834 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+15:53:49.889 [main] INFO  resources.Log - Entered the password :pass
+15:53:51.750 [main] INFO  resources.Log - Clicked on Login Button
+15:53:51.750 [main] INFO  resources.Log - Reading the Property file
+15:53:51.751 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+15:53:51.784 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:53:51.784 [main] INFO  resources.Log - X
+15:53:51.784 [main] INFO  resources.Log - X
+15:53:51.784 [main] INFO  resources.Log - X
+15:53:51.784 [main] INFO  resources.Log - X
+15:53:51.853 [main] INFO  resources.Log - Reading the Property file
+15:53:51.853 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+15:53:51.853 [main] INFO  resources.Log - Fetching the Browser value as chrome
+15:53:51.853 [main] INFO  resources.Log - Invoking the chrome Browser
+15:53:52.370 [main] INFO  resources.Log - Maximized the Browser window
+15:53:52.373 [main] INFO  resources.Log - Reading the Property file
+15:53:52.373 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+15:53:57.112 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+15:53:57.112 [main] INFO  resources.Log - ****************************************************************************************
+15:53:57.112 [main] INFO  resources.Log - ****************************************************************************************
+15:53:57.112 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+15:53:57.112 [main] INFO  resources.Log - ****************************************************************************************
+15:53:57.112 [main] INFO  resources.Log - ****************************************************************************************
+15:53:57.113 [main] INFO  resources.Log - Clicking on SingIn
+15:54:00.236 [main] INFO  resources.Log - Entered the Email ID: amar@gmail.com
+15:54:00.290 [main] INFO  resources.Log - Entered the password :new
+15:54:02.101 [main] INFO  resources.Log - Clicked on Login Button
+15:54:02.101 [main] INFO  resources.Log - Reading the Property file
+15:54:02.101 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+15:54:02.147 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:54:02.147 [main] INFO  resources.Log - X
+15:54:02.147 [main] INFO  resources.Log - X
+15:54:02.147 [main] INFO  resources.Log - X
+15:54:02.147 [main] INFO  resources.Log - X
+15:54:02.229 [main] INFO  resources.Log - came to flush
+15:56:22.719 [main] INFO  resources.Log - Onstart
+15:56:22.740 [main] INFO  resources.Log - Reading JSON to String
+15:56:22.867 [main] INFO  resources.Log - Converting String to HashMap
+15:56:22.876 [main] INFO  resources.Log - Reading the Property file
+15:56:22.876 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+15:56:22.876 [main] INFO  resources.Log - Fetching the Browser value as chrome
+15:56:22.876 [main] INFO  resources.Log - Invoking the chrome Browser
+15:56:24.405 [main] INFO  resources.Log - Maximized the Browser window
+15:56:24.412 [main] INFO  resources.Log - Reading the Property file
+15:56:24.412 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+15:56:29.148 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+15:56:29.148 [main] INFO  resources.Log - ****************************************************************************************
+15:56:29.148 [main] INFO  resources.Log - ****************************************************************************************
+15:56:29.148 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+15:56:29.148 [main] INFO  resources.Log - ****************************************************************************************
+15:56:29.149 [main] INFO  resources.Log - ****************************************************************************************
+15:56:29.166 [main] INFO  resources.Log - Clicking on SingIn
+15:56:32.288 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+15:56:32.360 [main] INFO  resources.Log - Entered the password :Abcd@1234
+15:56:36.364 [main] INFO  resources.Log - Clicked on Login Button
+15:56:36.364 [main] INFO  resources.Log - Reading the Property file
+15:56:36.364 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+15:56:36.370 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+15:56:36.376 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:56:36.376 [main] INFO  resources.Log - X
+15:56:36.376 [main] INFO  resources.Log - X
+15:56:36.376 [main] INFO  resources.Log - X
+15:56:36.376 [main] INFO  resources.Log - X
+15:56:36.495 [main] INFO  resources.Log - Reading the Property file
+15:56:36.495 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+15:56:36.497 [main] INFO  resources.Log - Fetching the Browser value as chrome
+15:56:36.497 [main] INFO  resources.Log - Invoking the chrome Browser
+15:56:37.211 [main] INFO  resources.Log - Maximized the Browser window
+15:56:37.219 [main] INFO  resources.Log - Reading the Property file
+15:56:37.219 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+15:56:41.759 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+15:56:41.759 [main] INFO  resources.Log - ****************************************************************************************
+15:56:41.759 [main] INFO  resources.Log - ****************************************************************************************
+15:56:41.759 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+15:56:41.759 [main] INFO  resources.Log - ****************************************************************************************
+15:56:41.759 [main] INFO  resources.Log - ****************************************************************************************
+15:56:41.760 [main] INFO  resources.Log - Clicking on SingIn
+15:56:44.955 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+15:56:45.027 [main] INFO  resources.Log - Entered the password :pass
+15:56:47.112 [main] INFO  resources.Log - Clicked on Login Button
+15:56:47.113 [main] INFO  resources.Log - Reading the Property file
+15:56:47.113 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+15:56:47.161 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:56:47.161 [main] INFO  resources.Log - X
+15:56:47.161 [main] INFO  resources.Log - X
+15:56:47.161 [main] INFO  resources.Log - X
+15:56:47.161 [main] INFO  resources.Log - X
+15:56:47.242 [main] INFO  resources.Log - Reading the Property file
+15:56:47.242 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+15:56:47.242 [main] INFO  resources.Log - Fetching the Browser value as chrome
+15:56:47.242 [main] INFO  resources.Log - Invoking the chrome Browser
+15:56:47.864 [main] INFO  resources.Log - Maximized the Browser window
+15:56:47.871 [main] INFO  resources.Log - Reading the Property file
+15:56:47.871 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+15:56:52.334 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+15:56:52.335 [main] INFO  resources.Log - ****************************************************************************************
+15:56:52.335 [main] INFO  resources.Log - ****************************************************************************************
+15:56:52.335 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+15:56:52.335 [main] INFO  resources.Log - ****************************************************************************************
+15:56:52.335 [main] INFO  resources.Log - ****************************************************************************************
+15:56:52.335 [main] INFO  resources.Log - Clicking on SingIn
+15:56:55.298 [main] INFO  resources.Log - Entered the Email ID: amar@gmail.com
+15:56:55.369 [main] INFO  resources.Log - Entered the password :new
+15:56:57.242 [main] INFO  resources.Log - Clicked on Login Button
+15:56:57.242 [main] INFO  resources.Log - Reading the Property file
+15:56:57.242 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+15:56:57.282 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:56:57.282 [main] INFO  resources.Log - X
+15:56:57.282 [main] INFO  resources.Log - X
+15:56:57.282 [main] INFO  resources.Log - X
+15:56:57.282 [main] INFO  resources.Log - X
+15:56:57.350 [main] INFO  resources.Log - came to flush
+16:03:11.791 [main] INFO  resources.Log - Onstart
+16:03:11.821 [main] INFO  resources.Log - Reading JSON to String
+16:03:12.005 [main] INFO  resources.Log - Converting String to HashMap
+16:03:12.016 [main] INFO  resources.Log - Reading the Property file
+16:03:12.016 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:03:12.016 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:03:12.016 [main] INFO  resources.Log - Invoking the chrome Browser
+16:03:13.779 [main] INFO  resources.Log - Maximized the Browser window
+16:03:13.785 [main] INFO  resources.Log - Reading the Property file
+16:03:13.785 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+16:03:18.162 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:03:18.162 [main] INFO  resources.Log - ****************************************************************************************
+16:03:18.162 [main] INFO  resources.Log - ****************************************************************************************
+16:03:18.162 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:03:18.162 [main] INFO  resources.Log - ****************************************************************************************
+16:03:18.162 [main] INFO  resources.Log - ****************************************************************************************
+16:03:18.173 [main] INFO  resources.Log - Clicking on SingIn
+16:03:21.412 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+16:03:21.473 [main] INFO  resources.Log - Entered the password :Abcd@1234
+16:03:25.639 [main] INFO  resources.Log - Clicked on Login Button
+16:03:25.640 [main] INFO  resources.Log - Reading the Property file
+16:03:25.640 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+16:03:25.655 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+16:03:25.663 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:03:25.663 [main] INFO  resources.Log - X
+16:03:25.664 [main] INFO  resources.Log - X
+16:03:25.664 [main] INFO  resources.Log - X
+16:03:25.664 [main] INFO  resources.Log - X
+16:03:25.802 [main] INFO  resources.Log - Reading the Property file
+16:03:25.802 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:03:25.803 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:03:25.803 [main] INFO  resources.Log - Invoking the chrome Browser
+16:03:26.396 [main] INFO  resources.Log - Maximized the Browser window
+16:03:26.401 [main] INFO  resources.Log - Reading the Property file
+16:03:26.401 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+16:03:30.606 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:03:30.606 [main] INFO  resources.Log - ****************************************************************************************
+16:03:30.607 [main] INFO  resources.Log - ****************************************************************************************
+16:03:30.607 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:03:30.607 [main] INFO  resources.Log - ****************************************************************************************
+16:03:30.607 [main] INFO  resources.Log - ****************************************************************************************
+16:03:30.608 [main] INFO  resources.Log - Clicking on SingIn
+16:03:33.725 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+16:03:33.794 [main] INFO  resources.Log - Entered the password :pass
+16:03:35.632 [main] INFO  resources.Log - Clicked on Login Button
+16:03:35.632 [main] INFO  resources.Log - Reading the Property file
+16:03:35.632 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+16:03:35.674 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:03:35.675 [main] INFO  resources.Log - X
+16:03:35.675 [main] INFO  resources.Log - X
+16:03:35.675 [main] INFO  resources.Log - X
+16:03:35.675 [main] INFO  resources.Log - X
+16:03:35.755 [main] INFO  resources.Log - Reading the Property file
+16:03:35.755 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:03:35.755 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:03:35.755 [main] INFO  resources.Log - Invoking the chrome Browser
+16:03:36.359 [main] INFO  resources.Log - Maximized the Browser window
+16:03:36.363 [main] INFO  resources.Log - Reading the Property file
+16:03:36.364 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+16:03:40.403 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:03:40.403 [main] INFO  resources.Log - ****************************************************************************************
+16:03:40.403 [main] INFO  resources.Log - ****************************************************************************************
+16:03:40.404 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:03:40.404 [main] INFO  resources.Log - ****************************************************************************************
+16:03:40.404 [main] INFO  resources.Log - ****************************************************************************************
+16:03:40.404 [main] INFO  resources.Log - Clicking on SingIn
+16:03:43.232 [main] INFO  resources.Log - Entered the Email ID: amar@gmail.com
+16:03:43.288 [main] INFO  resources.Log - Entered the password :new
+16:03:45.112 [main] INFO  resources.Log - Clicked on Login Button
+16:03:45.112 [main] INFO  resources.Log - Reading the Property file
+16:03:45.112 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+16:03:45.167 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:03:45.167 [main] INFO  resources.Log - X
+16:03:45.167 [main] INFO  resources.Log - X
+16:03:45.167 [main] INFO  resources.Log - X
+16:03:45.167 [main] INFO  resources.Log - X
+16:03:45.251 [main] INFO  resources.Log - came to flush
+16:08:16.482 [main] INFO  resources.Log - Onstart
+16:08:16.512 [main] INFO  resources.Log - Reading JSON to String
+16:08:16.668 [main] INFO  resources.Log - Converting String to HashMap
+16:08:16.680 [main] INFO  resources.Log - Reading the Property file
+16:08:16.680 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:08:16.681 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:08:16.681 [main] INFO  resources.Log - Invoking the chrome Browser
+16:08:18.368 [main] INFO  resources.Log - Maximized the Browser window
+16:08:18.374 [main] INFO  resources.Log - Reading the Property file
+16:08:18.374 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+16:08:22.750 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:08:22.750 [main] INFO  resources.Log - ****************************************************************************************
+16:08:22.750 [main] INFO  resources.Log - ****************************************************************************************
+16:08:22.750 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:08:22.750 [main] INFO  resources.Log - ****************************************************************************************
+16:08:22.750 [main] INFO  resources.Log - ****************************************************************************************
+16:08:22.759 [main] INFO  resources.Log - Clicking on SingIn
+16:08:25.906 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+16:08:25.969 [main] INFO  resources.Log - Entered the password :Abcd@1234
+16:08:29.958 [main] INFO  resources.Log - Clicked on Login Button
+16:08:29.959 [main] INFO  resources.Log - Reading the Property file
+16:08:29.959 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+16:08:29.963 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+16:08:29.966 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:08:29.967 [main] INFO  resources.Log - X
+16:08:29.967 [main] INFO  resources.Log - X
+16:08:29.967 [main] INFO  resources.Log - X
+16:08:29.967 [main] INFO  resources.Log - X
+16:08:30.039 [main] INFO  resources.Log - Reading the Property file
+16:08:30.039 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:08:30.039 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:08:30.040 [main] INFO  resources.Log - Invoking the chrome Browser
+16:08:30.664 [main] INFO  resources.Log - Maximized the Browser window
+16:08:30.668 [main] INFO  resources.Log - Reading the Property file
+16:08:30.669 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+16:08:35.238 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:08:35.238 [main] INFO  resources.Log - ****************************************************************************************
+16:08:35.238 [main] INFO  resources.Log - ****************************************************************************************
+16:08:35.238 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:08:35.238 [main] INFO  resources.Log - ****************************************************************************************
+16:08:35.239 [main] INFO  resources.Log - ****************************************************************************************
+16:08:35.239 [main] INFO  resources.Log - Clicking on SingIn
+16:08:38.344 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+16:08:38.400 [main] INFO  resources.Log - Entered the password :pass

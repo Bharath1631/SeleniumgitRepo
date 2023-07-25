@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" verbose="5" thread-count="5" preserve-order="true">
+
+	<listeners>
+        <listener class-name="testCases.Listeners"/>
+        <listener class-name="testCases.customReport"/>
+    </listeners>
+
+ <!-- <test thread-count="1" name="Testchrome" group-by-instances="true"> -->
+ <test thread-count="5" name="Sanity Use Cases"> 
+  <parameter name="value" value="firefox"></parameter>
+    <classes>
+		
+		<!-- AdminCases, Ewallet, CarrierAdmin, OnBoarding These classes are dependent on eachother  -->
+ 		   <!--CreateTemplate and  RichMessageTemplatesTestCases  are dependent classes -->
+ 		   
+      	 
+   		 	<class name="testCases.LoginTest"/> 
+       		      		 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+

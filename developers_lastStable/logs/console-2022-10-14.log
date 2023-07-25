@@ -1,0 +1,496 @@
+19:54:05.500 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+19:54:05.503 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+19:54:05.503 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+19:54:05.726 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 2033374 (auto-detected)
+19:54:05.728 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+19:54:05.728 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+19:54:05.729 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (lo, 127.0.0.1)
+19:54:05.730 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - /proc/sys/net/core/somaxconn: 4096
+19:54:05.731 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 60:a5:e2:ff:fe:a2:21:32 (auto-detected)
+19:54:05.765 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+19:54:05.765 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+19:54:05.765 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3f66fb72
+19:54:05.780 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+19:54:05.780 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+19:54:05.780 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+19:54:05.780 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+19:54:06.073 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+19:54:06.209 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xb0cf30d6293d3964
+19:54:06.363 [main] INFO  resources.Log - Maximized the Browser window
+19:54:06.368 [main] INFO  resources.Log - Reading the Property file
+19:54:06.368 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+19:54:11.474 [main] INFO  resources.Log - Listener OnTestStart method createNewBot
+19:54:11.474 [main] INFO  resources.Log - ****************************************************************************************
+19:54:11.475 [main] INFO  resources.Log - ****************************************************************************************
+19:54:11.475 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 createNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+19:54:11.475 [main] INFO  resources.Log - ****************************************************************************************
+19:54:11.475 [main] INFO  resources.Log - ****************************************************************************************
+19:54:11.483 [main] INFO  resources.Log - Reading the Property file
+19:54:11.483 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+19:54:11.483 [main] INFO  resources.Log - Reading the Property file
+19:54:11.483 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+19:54:11.483 [main] INFO  resources.Log - Clicking on SingIn
+19:54:11.483 [main] INFO  resources.Log - knjyothi@kirusa.com
+19:54:11.483 [main] INFO  resources.Log - Abcd@1234
+19:54:15.950 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+19:54:16.024 [main] INFO  resources.Log - Entered the password :Abcd@1234
+19:54:20.633 [main] INFO  resources.Log - Clicked on Login Button
+19:54:20.634 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+19:54:20.744 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+19:54:20.748 [main] DEBUG resources.Log - https://stagingpartners.dotgo.com/developer/create-bot/rcs-bot-details
+19:54:20.752 [main] INFO  resources.Log - Reading the Property file
+19:54:20.752 [main] INFO  resources.Log - The Value of the RcsBotDetailsURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/rcs-bot-details
+19:54:20.754 [main] INFO  resources.Log - -----------Sucessfully Entered RCS BOT DETAILs page--------
+19:54:20.754 [main] INFO  resources.Log - Reading the Property file
+19:54:20.754 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+19:54:20.811 [main] INFO  resources.Log - Reading the Property file
+19:54:20.811 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+19:54:20.811 [main] DEBUG resources.Log - Bot Name is: AutomationBot
+19:54:20.811 [main] INFO  resources.Log - Entered the BotName
+19:54:20.811 [main] INFO  resources.Log - Reading the Property file
+19:54:20.811 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+19:54:20.938 [main] INFO  resources.Log - Entered Brand Name
+19:54:21.038 [main] INFO  resources.Log - Clicked on upload BOT logo
+19:54:21.481 [main] INFO  resources.Log - Cropped Image to the 224 pixels Wide x 224 pixels Tall
+19:54:21.585 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+19:54:22.123 [main] INFO  resources.Log - Clicked on upload Banner Image
+19:54:32.266 [main] INFO  resources.Log - Taking Screeshot of the webpage
+19:54:32.442 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+19:54:32.444 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+19:54:32.444 [main] INFO  resources.Log - X
+19:54:32.445 [main] INFO  resources.Log - X
+19:54:32.445 [main] INFO  resources.Log - X
+19:54:32.445 [main] INFO  resources.Log - X
+19:54:32.449 [main] INFO  resources.Log - came to flush
+19:57:27.136 [main] INFO  resources.Log - Onstart
+19:57:27.167 [main] INFO  resources.Log - Reading the Property file
+19:57:27.167 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+19:57:27.167 [main] INFO  resources.Log - Fetching the Browser value as chrome
+19:57:27.167 [main] INFO  resources.Log - Invoking the chrome Browser
+19:57:27.533 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+19:57:27.538 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+19:57:27.538 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+19:57:27.541 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@61861a29
+19:57:27.555 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+19:57:27.555 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 8
+19:57:27.556 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+19:57:27.556 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+19:57:27.557 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+19:57:27.557 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+19:57:27.557 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: available
+19:57:27.558 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+19:57:27.558 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+19:57:27.558 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+19:57:27.558 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+19:57:27.559 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+19:57:27.559 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+19:57:27.560 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 3588751360 bytes
+19:57:27.560 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+19:57:27.561 [main] DEBUG io.netty.util.internal.CleanerJava6 - java.nio.ByteBuffer.cleaner(): available
+19:57:27.561 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+19:57:27.567 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+19:57:27.579 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+19:57:27.579 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+19:57:27.599 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+19:57:27.600 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+19:57:27.617 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+19:57:27.623 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+19:57:27.623 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+19:57:27.641 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+19:57:27.642 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+19:57:27.642 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+19:57:27.642 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+19:57:27.651 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+19:57:27.651 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+19:57:27.651 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+19:57:27.869 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 2059537 (auto-detected)
+19:57:27.872 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+19:57:27.873 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+19:57:27.874 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (lo, 127.0.0.1)
+19:57:27.875 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - /proc/sys/net/core/somaxconn: 4096
+19:57:27.876 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 60:a5:e2:ff:fe:a2:21:32 (auto-detected)
+19:57:27.927 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+19:57:27.928 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+19:57:27.928 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3c43459f
+19:57:27.946 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+19:57:27.947 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+19:57:27.947 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+19:57:27.947 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+19:57:28.389 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+19:57:28.517 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x83e97e25f5c82a38
+19:57:28.692 [main] INFO  resources.Log - Maximized the Browser window
+19:57:28.701 [main] INFO  resources.Log - Reading the Property file
+19:57:28.702 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+19:57:41.541 [main] INFO  resources.Log - Listener OnTestStart method createNewBot
+19:57:41.541 [main] INFO  resources.Log - ****************************************************************************************
+19:57:41.541 [main] INFO  resources.Log - ****************************************************************************************
+19:57:41.541 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 createNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+19:57:41.541 [main] INFO  resources.Log - ****************************************************************************************
+19:57:41.541 [main] INFO  resources.Log - ****************************************************************************************
+19:57:41.553 [main] INFO  resources.Log - Reading the Property file
+19:57:41.553 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+19:57:41.553 [main] INFO  resources.Log - Reading the Property file
+19:57:41.553 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+19:57:41.553 [main] INFO  resources.Log - Clicking on SingIn
+19:57:41.553 [main] INFO  resources.Log - knjyothi@kirusa.com
+19:57:41.553 [main] INFO  resources.Log - Abcd@1234
+19:57:46.252 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+19:57:46.299 [main] INFO  resources.Log - Entered the password :Abcd@1234
+19:57:52.040 [main] INFO  resources.Log - Clicked on Login Button
+19:57:52.041 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+19:57:52.185 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+19:57:52.189 [main] DEBUG resources.Log - https://stagingpartners.dotgo.com/developer/create-bot/rcs-bot-details
+19:57:52.193 [main] INFO  resources.Log - Reading the Property file
+19:57:52.194 [main] INFO  resources.Log - The Value of the RcsBotDetailsURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/rcs-bot-details
+19:57:52.196 [main] INFO  resources.Log - -----------Sucessfully Entered RCS BOT DETAILs page--------
+19:57:52.197 [main] INFO  resources.Log - Reading the Property file
+19:57:52.197 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+19:57:52.290 [main] INFO  resources.Log - Reading the Property file
+19:57:52.290 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+19:57:52.290 [main] DEBUG resources.Log - Bot Name is: AutomationBot
+19:57:52.290 [main] INFO  resources.Log - Entered the BotName
+19:57:52.291 [main] INFO  resources.Log - Reading the Property file
+19:57:52.291 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+19:57:52.413 [main] INFO  resources.Log - Entered Brand Name
+19:57:52.503 [main] INFO  resources.Log - Clicked on upload BOT logo
+19:57:52.938 [main] INFO  resources.Log - Cropped Image to the 224 pixels Wide x 224 pixels Tall
+19:57:52.985 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+19:57:53.478 [main] INFO  resources.Log - Clicked on upload Banner Image
+19:57:53.516 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+19:57:53.517 [main] INFO  resources.Log - X
+19:57:53.517 [main] INFO  resources.Log - X
+19:57:53.517 [main] INFO  resources.Log - X
+19:57:53.517 [main] INFO  resources.Log - X
+19:57:53.519 [main] INFO  resources.Log - came to flush
+19:59:05.750 [main] INFO  resources.Log - Onstart
+19:59:05.777 [main] INFO  resources.Log - Reading the Property file
+19:59:05.777 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+19:59:05.777 [main] INFO  resources.Log - Fetching the Browser value as chrome
+19:59:05.777 [main] INFO  resources.Log - Invoking the chrome Browser
+19:59:06.128 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+19:59:06.132 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+19:59:06.133 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+19:59:06.136 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@61861a29
+19:59:06.148 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+19:59:06.148 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 8
+19:59:06.148 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+19:59:06.149 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+19:59:06.149 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+19:59:06.150 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+19:59:06.150 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: available
+19:59:06.151 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+19:59:06.151 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+19:59:06.151 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+19:59:06.151 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+19:59:06.151 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+19:59:06.151 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+19:59:06.152 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 3588751360 bytes
+19:59:06.152 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+19:59:06.153 [main] DEBUG io.netty.util.internal.CleanerJava6 - java.nio.ByteBuffer.cleaner(): available
+19:59:06.153 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+19:59:06.159 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+19:59:06.172 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+19:59:06.172 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+19:59:06.191 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+19:59:06.192 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+19:59:06.208 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+19:59:06.214 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+19:59:06.215 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+19:59:06.232 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+19:59:06.232 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+19:59:06.232 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+19:59:06.232 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+19:59:06.232 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+19:59:06.232 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+19:59:06.232 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+19:59:06.232 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+19:59:06.233 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+19:59:06.233 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+19:59:06.233 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+19:59:06.233 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+19:59:06.240 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+19:59:06.241 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+19:59:06.241 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+19:59:06.523 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 2072855 (auto-detected)
+19:59:06.526 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+19:59:06.526 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+19:59:06.528 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (lo, 127.0.0.1)
+19:59:06.529 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - /proc/sys/net/core/somaxconn: 4096
+19:59:06.530 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 60:a5:e2:ff:fe:a2:21:32 (auto-detected)
+19:59:06.579 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+19:59:06.579 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+19:59:06.579 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5e98b447
+19:59:06.596 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+19:59:06.596 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+19:59:06.597 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+19:59:06.597 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+19:59:06.961 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+19:59:07.078 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x5cf4e5a13c980fde
+19:59:07.262 [main] INFO  resources.Log - Maximized the Browser window
+19:59:07.268 [main] INFO  resources.Log - Reading the Property file
+19:59:07.269 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+19:59:12.650 [main] INFO  resources.Log - Listener OnTestStart method createNewBot
+19:59:12.650 [main] INFO  resources.Log - ****************************************************************************************
+19:59:12.650 [main] INFO  resources.Log - ****************************************************************************************
+19:59:12.651 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 createNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+19:59:12.651 [main] INFO  resources.Log - ****************************************************************************************
+19:59:12.651 [main] INFO  resources.Log - ****************************************************************************************
+19:59:12.661 [main] INFO  resources.Log - Reading the Property file
+19:59:12.661 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com
+19:59:12.661 [main] INFO  resources.Log - Reading the Property file
+19:59:12.661 [main] INFO  resources.Log - The Value of the CreateNewBotPassword Fetched from the Properties: Abcd@1234
+19:59:12.661 [main] INFO  resources.Log - Clicking on SingIn
+19:59:12.661 [main] INFO  resources.Log - knjyothi@kirusa.com
+19:59:12.661 [main] INFO  resources.Log - Abcd@1234
+19:59:17.244 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+19:59:17.295 [main] INFO  resources.Log - Entered the password :Abcd@1234
+19:59:21.948 [main] INFO  resources.Log - Clicked on Login Button
+19:59:21.948 [main] INFO  resources.Log - +++++++++++++++++++++CREATING NEW BOT++++++++++++++++++++++++
+19:59:22.060 [main] INFO  resources.Log - Clicked on CreateNewBot Button in Dashboard page
+19:59:22.065 [main] DEBUG resources.Log - https://stagingpartners.dotgo.com/developer/create-bot/rcs-bot-details
+19:59:22.069 [main] INFO  resources.Log - Reading the Property file
+19:59:22.069 [main] INFO  resources.Log - The Value of the RcsBotDetailsURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/rcs-bot-details
+19:59:22.072 [main] INFO  resources.Log - -----------Sucessfully Entered RCS BOT DETAILs page--------
+19:59:22.072 [main] INFO  resources.Log - Reading the Property file
+19:59:22.072 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+19:59:22.126 [main] INFO  resources.Log - Reading the Property file
+19:59:22.127 [main] INFO  resources.Log - The Value of the CreateNewBotName Fetched from the Properties: AutomationBot
+19:59:22.127 [main] DEBUG resources.Log - Bot Name is: AutomationBot
+19:59:22.127 [main] INFO  resources.Log - Entered the BotName
+19:59:22.127 [main] INFO  resources.Log - Reading the Property file
+19:59:22.127 [main] INFO  resources.Log - The Value of the CreateNewBotBrandName Fetched from the Properties: Automate
+19:59:22.221 [main] INFO  resources.Log - Entered Brand Name
+19:59:22.297 [main] INFO  resources.Log - Clicked on upload BOT logo
+19:59:22.746 [main] INFO  resources.Log - Cropped Image to the 224 pixels Wide x 224 pixels Tall
+19:59:22.788 [main] INFO  resources.Log - Uploaded Bot Logo from local Utils
+19:59:23.293 [main] INFO  resources.Log - Clicked on upload Banner Image
+19:59:23.751 [main] INFO  resources.Log - Cropped Image to the 550 pixels Wide x 170 pixels Tall
+19:59:23.792 [main] INFO  resources.Log - Uploaded Banner Image from local Utils
+19:59:24.793 [main] INFO  resources.Log - Reading the Property file
+19:59:24.793 [main] INFO  resources.Log - The Value of the CreateNewBotShortDescription Fetched from the Properties: The maintenance of a building, vehicle, road, or machine is the process of keeping it in good condition by regularly checking it and repairing it when necessary.
+19:59:24.948 [main] INFO  resources.Log - Entered Short Description
+19:59:24.948 [main] INFO  resources.Log - Reading the Property file
+19:59:24.948 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryPhone Fetched from the Properties: 8147539441
+19:59:25.046 [main] INFO  resources.Log - Entered Primary Phone Number
+19:59:25.046 [main] INFO  resources.Log - Reading the Property file
+19:59:25.046 [main] INFO  resources.Log - The Value of the CreateNewBotprimaryPhoneLabel Fetched from the Properties: Personal Number
+19:59:25.114 [main] INFO  resources.Log - Entered Primary phone Label
+19:59:25.114 [main] INFO  resources.Log - Reading the Property file
+19:59:25.114 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEMail Fetched from the Properties: Test@gmail.com
+19:59:25.249 [main] INFO  resources.Log - Entered Primary EMAIL ID
+19:59:25.249 [main] INFO  resources.Log - Reading the Property file
+19:59:25.250 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryEmailLabel Fetched from the Properties: Personal Mail
+19:59:25.359 [main] INFO  resources.Log - Entered Primary Email Label
+19:59:25.360 [main] INFO  resources.Log - Reading the Property file
+19:59:25.360 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsite Fetched from the Properties: https://www.browserstack.com/
+19:59:25.568 [main] INFO  resources.Log - Entered Primary Website URL
+19:59:25.568 [main] INFO  resources.Log - Reading the Property file
+19:59:25.568 [main] INFO  resources.Log - The Value of the CreateNewBotPrimaryWebsiteLabel Fetched from the Properties: BrowserStack
+19:59:25.666 [main] INFO  resources.Log - Entered Primary Website URL LABEL
+19:59:25.666 [main] INFO  resources.Log - Reading the Property file
+19:59:25.666 [main] INFO  resources.Log - The Value of the CreateNewBotTermsofUseURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-tos
+19:59:25.761 [main] INFO  resources.Log - Entered Terms of Use URL
+19:59:25.761 [main] INFO  resources.Log - Reading the Property file
+19:59:25.761 [main] INFO  resources.Log - The Value of the CreateNewBotPrivacyPolicyURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer-pp
+19:59:25.886 [main] INFO  resources.Log - Entered Privacy policy URL
+19:59:25.918 [main] INFO  resources.Log - clicked on RCSAPI Dropdown
+19:59:25.919 [main] INFO  resources.Log - Reading the Property file
+19:59:25.919 [main] INFO  resources.Log - The Value of the CreateNewBotRCSAPI Fetched from the Properties: GSMA API
+19:59:25.981 [main] INFO  resources.Log - Reading the Property file
+19:59:25.981 [main] INFO  resources.Log - The Value of the CreateNewBotRCSAPI Fetched from the Properties: GSMA API
+19:59:25.981 [main] INFO  resources.Log - Selected RCSAPI Platform as: GSMA API
+19:59:25.981 [main] INFO  resources.Log - Reading the Property file
+19:59:25.981 [main] INFO  resources.Log - The Value of the CreateNewBotChatbotWebhook Fetched from the Properties: https://stagingpartners.dotgo.com/rbm-terms
+19:59:26.084 [main] INFO  resources.Log - Entered Webhook URL
+19:59:26.085 [main] INFO  resources.Log - Reading the Property file
+19:59:26.085 [main] INFO  resources.Log - The Value of the CreateNewBotLanguagesSupported Fetched from the Properties: English
+19:59:26.183 [main] INFO  resources.Log - Entered Supported Languages
+19:59:26.305 [main] INFO  resources.Log - Clicked on Next button
+19:59:26.320 [main] INFO  resources.Log - Reading the Property file
+19:59:26.320 [main] INFO  resources.Log - The Value of the SelectCarrierURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/create-bot/select-carriers
+19:59:26.646 [main] INFO  resources.Log - Selected First carrier which is: 9mobile Nigeria
+Nigeriais the country
+19:59:26.681 [main] INFO  resources.Log - Submitted the New RCS BOT
+19:59:27.700 [main] INFO  resources.Log - Reading the Property file
+19:59:27.701 [main] INFO  resources.Log - The Value of the CreateNewBotSucessPopup1 Fetched from the Properties: Bot has been submitted successfully.
+19:59:27.709 [main] INFO  resources.Log - Bot has been submitted successfully.
+19:59:27.727 [main] INFO  resources.Log - Reading the Property file
+19:59:27.727 [main] INFO  resources.Log - The Value of the CreateNewBotSucessPopup2 Fetched from the Properties: Visit dashboard to see the progress.
+19:59:27.736 [main] INFO  resources.Log - Visit dashboard to see the progress.
+19:59:27.825 [main] INFO  resources.Log - Reading the Property file
+19:59:27.825 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+19:59:28.586 [main] INFO  resources.Log - AutomationBot
+The maintenance of a
+19:59:28.635 [main] INFO  resources.Log - Reading the Property file
+19:59:28.635 [main] INFO  resources.Log - The Value of the CreateNewBotStatus Fetched from the Properties: Submitted
+19:59:28.647 [main] INFO  resources.Log - Submitted
+19:59:28.692 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+19:59:28.692 [main] INFO  resources.Log - X
+19:59:28.692 [main] INFO  resources.Log - X
+19:59:28.692 [main] INFO  resources.Log - X
+19:59:28.692 [main] INFO  resources.Log - X
+19:59:28.694 [main] INFO  resources.Log - came to flush
+20:00:38.058 [main] INFO  resources.Log - Onstart
+20:00:38.093 [main] INFO  resources.Log - Reading JSON to String
+20:00:38.315 [main] INFO  resources.Log - Converting String to HashMap
+20:00:38.324 [main] INFO  resources.Log - Reading the Property file
+20:00:38.324 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:00:38.325 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:00:38.325 [main] INFO  resources.Log - Invoking the chrome Browser
+20:00:38.682 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+20:00:38.686 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+20:00:38.686 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+20:00:38.689 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@1968a49c
+20:00:38.703 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+20:00:38.703 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 8
+20:00:38.704 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+20:00:38.705 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+20:00:38.705 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+20:00:38.705 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+20:00:38.706 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: available
+20:00:38.706 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+20:00:38.707 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+20:00:38.707 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): available
+20:00:38.707 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+20:00:38.707 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: /tmp (java.io.tmpdir)
+20:00:38.707 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+20:00:38.708 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: 3588751360 bytes
+20:00:38.708 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+20:00:38.709 [main] DEBUG io.netty.util.internal.CleanerJava6 - java.nio.ByteBuffer.cleaner(): available
+20:00:38.709 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+20:00:38.715 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+20:00:38.729 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+20:00:38.729 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+20:00:38.755 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+20:00:38.756 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+20:00:38.777 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+20:00:38.785 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+20:00:38.786 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+20:00:38.803 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+20:00:38.803 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+20:00:38.803 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+20:00:38.803 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+20:00:38.803 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+20:00:38.803 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+20:00:38.803 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+20:00:38.804 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+20:00:38.804 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+20:00:38.804 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+20:00:38.804 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+20:00:38.804 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+20:00:38.813 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+20:00:38.813 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+20:00:38.813 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+20:00:39.171 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 2085180 (auto-detected)
+20:00:39.173 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+20:00:39.173 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+20:00:39.175 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (lo, 127.0.0.1)
+20:00:39.176 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - /proc/sys/net/core/somaxconn: 4096
+20:00:39.177 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 60:a5:e2:ff:fe:a2:21:32 (auto-detected)
+20:00:39.218 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+20:00:39.312 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+20:00:39.313 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@89d9f38
+20:00:39.340 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+20:00:39.340 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+20:00:39.340 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+20:00:39.341 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+20:00:39.647 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+20:00:39.738 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xf1a717c9393a7955
+20:00:39.898 [main] INFO  resources.Log - Maximized the Browser window
+20:00:39.904 [main] INFO  resources.Log - Reading the Property file
+20:00:39.904 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:00:45.604 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:00:45.604 [main] INFO  resources.Log - ****************************************************************************************
+20:00:45.604 [main] INFO  resources.Log - ****************************************************************************************
+20:00:45.604 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:00:45.604 [main] INFO  resources.Log - ****************************************************************************************
+20:00:45.605 [main] INFO  resources.Log - ****************************************************************************************
+20:00:45.614 [main] INFO  resources.Log - Clicking on SingIn
+20:00:45.614 [main] INFO  resources.Log - knjyothi@kirusa.com
+20:00:45.614 [main] INFO  resources.Log - Abcd@1234
+20:00:50.299 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+20:00:50.343 [main] INFO  resources.Log - Entered the password :Abcd@1234
+20:00:55.176 [main] INFO  resources.Log - Clicked on Login Button
+20:00:55.177 [main] INFO  resources.Log - Reading the Property file
+20:00:55.177 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:00:55.185 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+20:00:55.188 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:00:55.189 [main] INFO  resources.Log - X
+20:00:55.189 [main] INFO  resources.Log - X
+20:00:55.189 [main] INFO  resources.Log - X
+20:00:55.189 [main] INFO  resources.Log - X
+20:00:55.249 [main] INFO  resources.Log - Reading the Property file
+20:00:55.249 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:00:55.249 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:00:55.249 [main] INFO  resources.Log - Invoking the chrome Browser
+20:00:55.753 [main] INFO  resources.Log - Maximized the Browser window
+20:00:55.759 [main] INFO  resources.Log - Reading the Property file
+20:00:55.759 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:01:01.086 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:01:01.087 [main] INFO  resources.Log - ****************************************************************************************
+20:01:01.087 [main] INFO  resources.Log - ****************************************************************************************
+20:01:01.087 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:01:01.087 [main] INFO  resources.Log - ****************************************************************************************
+20:01:01.087 [main] INFO  resources.Log - ****************************************************************************************
+20:01:01.088 [main] INFO  resources.Log - Clicking on SingIn
+20:01:01.088 [main] INFO  resources.Log - kumar@gmail.com
+20:01:01.088 [main] INFO  resources.Log - pass
+20:01:05.637 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+20:01:05.677 [main] INFO  resources.Log - Entered the password :pass
+20:01:09.008 [main] INFO  resources.Log - Clicked on Login Button
+20:01:09.008 [main] INFO  resources.Log - Reading the Property file
+20:01:09.008 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:01:09.043 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:01:09.043 [main] INFO  resources.Log - X
+20:01:09.043 [main] INFO  resources.Log - X
+20:01:09.043 [main] INFO  resources.Log - X
+20:01:09.043 [main] INFO  resources.Log - X
+20:01:09.148 [main] INFO  resources.Log - Reading the Property file
+20:01:09.148 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:01:09.149 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:01:09.149 [main] INFO  resources.Log - Invoking the chrome Browser
+20:01:09.596 [main] INFO  resources.Log - Maximized the Browser window
+20:01:09.600 [main] INFO  resources.Log - Reading the Property file
+20:01:09.600 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:01:19.797 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+20:01:19.797 [main] INFO  resources.Log - ****************************************************************************************
+20:01:19.797 [main] INFO  resources.Log - ****************************************************************************************
+20:01:19.797 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:01:19.797 [main] INFO  resources.Log - ****************************************************************************************
+20:01:19.797 [main] INFO  resources.Log - ****************************************************************************************
+20:01:19.798 [main] INFO  resources.Log - Clicking on SingIn
+20:01:19.798 [main] INFO  resources.Log - amar@gmail.com
+20:01:19.798 [main] INFO  resources.Log - new
+20:01:24.473 [main] INFO  resources.Log - Entered the Email ID: amar@gmail.com
+20:01:24.522 [main] INFO  resources.Log - Entered the password :new
+20:01:27.837 [main] INFO  resources.Log - Clicked on Login Button
+20:01:27.838 [main] INFO  resources.Log - Reading the Property file
+20:01:27.838 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+20:01:27.864 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+20:01:27.864 [main] INFO  resources.Log - X
+20:01:27.864 [main] INFO  resources.Log - X
+20:01:27.864 [main] INFO  resources.Log - X
+20:01:27.864 [main] INFO  resources.Log - X
+20:01:27.923 [main] INFO  resources.Log - Reading the Property file
+20:01:27.923 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+20:01:27.923 [main] INFO  resources.Log - Fetching the Browser value as chrome
+20:01:27.923 [main] INFO  resources.Log - Invoking the chrome Browser
+20:01:28.284 [main] INFO  resources.Log - Maximized the Browser window
+20:01:28.290 [main] INFO  resources.Log - Reading the Property file
+20:01:28.291 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+20:01:34.544 [main] INFO  resources.Log - Listener OnTestStart method createNewBot
+20:01:34.545 [main] INFO  resources.Log - ****************************************************************************************
+20:01:34.545 [main] INFO  resources.Log - ****************************************************************************************
+20:01:34.545 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 createNewBot       $$$$$$$$$$$$$$$$$$$$$$$$$
+20:01:34.545 [main] INFO  resources.Log - ****************************************************************************************
+20:01:34.545 [main] INFO  resources.Log - ****************************************************************************************
+20:01:34.546 [main] INFO  resources.Log - Reading the Property file
+20:01:34.546 [main] INFO  resources.Log - The Value of the CreateNewBotEmail Fetched from the Properties: knjyothi@kirusa.com

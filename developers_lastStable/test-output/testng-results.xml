@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-19T14:27:45 IST" name="Suite" finished-at="2023-06-19T14:27:45 IST" duration-ms="196">
+    <groups>
+    </groups>
+    <test started-at="2023-06-19T14:27:45 IST" name="Basic" finished-at="2023-06-19T14:27:45 IST" duration-ms="85">
+      <class name="Test.Class1">
+        <test-method signature="Demo()[pri:0, instance:Test.Class1@40a4337a]" started-at="2023-06-19T14:27:45 IST" name="Demo" finished-at="2023-06-19T14:27:45 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="sec()[pri:0, instance:Test.Class1@40a4337a]" started-at="2023-06-19T14:27:45 IST" name="sec" finished-at="2023-06-19T14:27:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sec -->
+      </class> <!-- Test.Class1 -->
+      <class name="Test.class2">
+        <test-method signature="second()[pri:0, instance:Test.class2@815b41f]" started-at="2023-06-19T14:27:45 IST" name="second" finished-at="2023-06-19T14:27:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+      </class> <!-- Test.class2 -->
+    </test> <!-- Basic -->
+    <test started-at="2023-06-19T14:27:45 IST" name="loan" finished-at="2023-06-19T14:27:45 IST" duration-ms="14">
+      <class name="Test.class3">
+        <test-method signature="Homeloanlogin()[pri:0, instance:Test.class3@6c40365c]" started-at="2023-06-19T14:27:45 IST" name="Homeloanlogin" finished-at="2023-06-19T14:27:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homeloanlogin -->
+        <test-method signature="carloanlogin()[pri:0, instance:Test.class3@6c40365c]" started-at="2023-06-19T14:27:45 IST" name="carloanlogin" finished-at="2023-06-19T14:27:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carloanlogin -->
+      </class> <!-- Test.class3 -->
+    </test> <!-- loan -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,575 @@
+15:45:25.898 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.904 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.905 [main] ERROR resources.Log - onTestSKipped
+15:45:25.905 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:45:25.905 [main] INFO  resources.Log - X
+15:45:25.905 [main] INFO  resources.Log - X
+15:45:25.905 [main] INFO  resources.Log - X
+15:45:25.905 [main] INFO  resources.Log - X
+15:45:25.907 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+15:45:25.907 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.908 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.908 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+15:45:25.908 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.908 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.908 [main] ERROR resources.Log - onTestSKipped
+15:45:25.908 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:45:25.908 [main] INFO  resources.Log - X
+15:45:25.908 [main] INFO  resources.Log - X
+15:45:25.908 [main] INFO  resources.Log - X
+15:45:25.909 [main] INFO  resources.Log - X
+15:45:25.912 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+15:45:25.912 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.912 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.912 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+15:45:25.912 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.912 [main] INFO  resources.Log - ****************************************************************************************
+15:45:25.912 [main] ERROR resources.Log - onTestSKipped
+15:45:25.912 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+15:45:25.912 [main] INFO  resources.Log - X
+15:45:25.912 [main] INFO  resources.Log - X
+15:45:25.912 [main] INFO  resources.Log - X
+15:45:25.912 [main] INFO  resources.Log - X
+15:45:25.917 [main] INFO  resources.Log - came to flush
+16:10:45.982 [main] INFO  resources.Log - Onstart
+16:10:46.005 [main] INFO  resources.Log - Reading JSON to String
+16:10:46.167 [main] INFO  resources.Log - Converting String to HashMap
+16:10:46.180 [main] INFO  resources.Log - Reading the Property file
+16:10:46.181 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:10:46.181 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:10:46.181 [main] INFO  resources.Log - Invoking the chrome Browser
+16:10:51.238 [main] INFO  resources.Log - Maximized the Browser window
+16:10:51.243 [main] INFO  resources.Log - Reading the Property file
+16:10:51.243 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+16:10:58.525 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:10:58.525 [main] INFO  resources.Log - ****************************************************************************************
+16:10:58.525 [main] INFO  resources.Log - ****************************************************************************************
+16:10:58.525 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:10:58.525 [main] INFO  resources.Log - ****************************************************************************************
+16:10:58.525 [main] INFO  resources.Log - ****************************************************************************************
+16:10:58.545 [main] INFO  resources.Log - Clicking on SingIn
+16:11:01.859 [main] INFO  resources.Log - Entered the Email ID: knjyothi@kirusa.com
+16:11:01.922 [main] INFO  resources.Log - Entered the password :Abcd@1234
+16:11:06.702 [main] INFO  resources.Log - Clicked on Login Button
+16:11:06.702 [main] INFO  resources.Log - Reading the Property file
+16:11:06.702 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+16:11:06.708 [main] INFO  resources.Log - Successfully Logged in to the Dashboard
+16:11:06.712 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:11:06.712 [main] INFO  resources.Log - X
+16:11:06.712 [main] INFO  resources.Log - X
+16:11:06.712 [main] INFO  resources.Log - X
+16:11:06.712 [main] INFO  resources.Log - X
+16:11:06.822 [main] INFO  resources.Log - Reading the Property file
+16:11:06.822 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:11:06.822 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:11:06.822 [main] INFO  resources.Log - Invoking the chrome Browser
+16:11:07.339 [main] INFO  resources.Log - Maximized the Browser window
+16:11:07.347 [main] INFO  resources.Log - Reading the Property file
+16:11:07.347 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+16:11:14.156 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:11:14.156 [main] INFO  resources.Log - ****************************************************************************************
+16:11:14.156 [main] INFO  resources.Log - ****************************************************************************************
+16:11:14.156 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:11:14.156 [main] INFO  resources.Log - ****************************************************************************************
+16:11:14.156 [main] INFO  resources.Log - ****************************************************************************************
+16:11:14.159 [main] INFO  resources.Log - Clicking on SingIn
+16:11:19.202 [main] INFO  resources.Log - Entered the Email ID: kumar@gmail.com
+16:11:19.263 [main] INFO  resources.Log - Entered the password :pass
+16:11:21.228 [main] INFO  resources.Log - Clicked on Login Button
+16:11:21.228 [main] INFO  resources.Log - Reading the Property file
+16:11:21.228 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+16:11:21.263 [main] INFO  resources.Log - Taking Screeshot of the webpage
+16:11:21.466 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+16:11:21.468 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:11:21.468 [main] INFO  resources.Log - X
+16:11:21.468 [main] INFO  resources.Log - X
+16:11:21.468 [main] INFO  resources.Log - X
+16:11:21.468 [main] INFO  resources.Log - X
+16:11:21.581 [main] INFO  resources.Log - Reading the Property file
+16:11:21.581 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:11:21.581 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:11:21.581 [main] INFO  resources.Log - Invoking the chrome Browser
+16:11:22.121 [main] INFO  resources.Log - Maximized the Browser window
+16:11:22.124 [main] INFO  resources.Log - Reading the Property file
+16:11:22.124 [main] INFO  resources.Log - The Value of the BaseURL Fetched from the Properties: https://stagingpartners.dotgo.com/
+16:11:26.750 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:11:26.750 [main] INFO  resources.Log - ****************************************************************************************
+16:11:26.750 [main] INFO  resources.Log - ****************************************************************************************
+16:11:26.750 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:11:26.750 [main] INFO  resources.Log - ****************************************************************************************
+16:11:26.750 [main] INFO  resources.Log - ****************************************************************************************
+16:11:26.751 [main] INFO  resources.Log - Clicking on SingIn
+16:11:29.902 [main] INFO  resources.Log - Entered the Email ID: amar@gmail.com
+16:11:29.996 [main] INFO  resources.Log - Entered the password :new
+16:11:31.883 [main] INFO  resources.Log - Clicked on Login Button
+16:11:31.884 [main] INFO  resources.Log - Reading the Property file
+16:11:31.884 [main] INFO  resources.Log - The Value of the DashboardURL Fetched from the Properties: https://stagingpartners.dotgo.com/developer/dashboard
+16:11:31.925 [main] INFO  resources.Log - Taking Screeshot of the webpage
+16:11:32.098 [main] INFO  resources.Log - Adding the Screenshot to the Reports
+16:11:32.099 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:11:32.100 [main] INFO  resources.Log - X
+16:11:32.100 [main] INFO  resources.Log - X
+16:11:32.100 [main] INFO  resources.Log - X
+16:11:32.100 [main] INFO  resources.Log - X
+16:11:32.224 [main] INFO  resources.Log - came to flush
+16:12:12.284 [main] INFO  resources.Log - Onstart
+16:12:12.319 [main] INFO  resources.Log - Reading JSON to String
+16:12:12.569 [main] INFO  resources.Log - Converting String to HashMap
+16:12:12.586 [main] INFO  resources.Log - Reading the Property file
+16:12:12.586 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:12:12.586 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:12:12.586 [main] INFO  resources.Log - Invoking the chrome Browser
+16:12:14.213 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:12:14.213 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.213 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.214 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:12:14.214 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.214 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.214 [main] ERROR resources.Log - onTestSKipped
+16:12:14.214 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:12:14.214 [main] INFO  resources.Log - X
+16:12:14.214 [main] INFO  resources.Log - X
+16:12:14.214 [main] INFO  resources.Log - X
+16:12:14.214 [main] INFO  resources.Log - X
+16:12:14.218 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:12:14.218 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.218 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.218 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:12:14.218 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.218 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.218 [main] ERROR resources.Log - onTestSKipped
+16:12:14.219 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:12:14.219 [main] INFO  resources.Log - X
+16:12:14.219 [main] INFO  resources.Log - X
+16:12:14.219 [main] INFO  resources.Log - X
+16:12:14.219 [main] INFO  resources.Log - X
+16:12:14.222 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:12:14.222 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.223 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.223 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:12:14.223 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.223 [main] INFO  resources.Log - ****************************************************************************************
+16:12:14.223 [main] ERROR resources.Log - onTestSKipped
+16:12:14.223 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:12:14.223 [main] INFO  resources.Log - X
+16:12:14.223 [main] INFO  resources.Log - X
+16:12:14.223 [main] INFO  resources.Log - X
+16:12:14.223 [main] INFO  resources.Log - X
+16:12:14.230 [main] INFO  resources.Log - came to flush
+16:45:06.829 [main] INFO  resources.Log - Onstart
+16:45:06.851 [main] INFO  resources.Log - Reading JSON to String
+16:45:07.013 [main] INFO  resources.Log - Converting String to HashMap
+16:45:07.022 [main] INFO  resources.Log - Reading the Property file
+16:45:07.022 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+16:45:07.023 [main] INFO  resources.Log - Fetching the Browser value as chrome
+16:45:07.023 [main] INFO  resources.Log - Invoking the chrome Browser
+16:45:12.375 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:45:12.375 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.376 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.376 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:45:12.376 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.376 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.376 [main] ERROR resources.Log - onTestSKipped
+16:45:12.376 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:45:12.376 [main] INFO  resources.Log - X
+16:45:12.376 [main] INFO  resources.Log - X
+16:45:12.376 [main] INFO  resources.Log - X
+16:45:12.376 [main] INFO  resources.Log - X
+16:45:12.379 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:45:12.379 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.379 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.379 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:45:12.379 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.379 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.380 [main] ERROR resources.Log - onTestSKipped
+16:45:12.380 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:45:12.380 [main] INFO  resources.Log - X
+16:45:12.380 [main] INFO  resources.Log - X
+16:45:12.380 [main] INFO  resources.Log - X
+16:45:12.380 [main] INFO  resources.Log - X
+16:45:12.382 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+16:45:12.382 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.382 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.382 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+16:45:12.382 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.382 [main] INFO  resources.Log - ****************************************************************************************
+16:45:12.382 [main] ERROR resources.Log - onTestSKipped
+16:45:12.382 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+16:45:12.382 [main] INFO  resources.Log - X
+16:45:12.382 [main] INFO  resources.Log - X
+16:45:12.382 [main] INFO  resources.Log - X
+16:45:12.382 [main] INFO  resources.Log - X
+16:45:12.385 [main] INFO  resources.Log - came to flush
+17:44:11.767 [main] INFO  resources.Log - Onstart
+17:44:11.829 [main] INFO  resources.Log - Reading JSON to String
+17:44:12.070 [main] INFO  resources.Log - Converting String to HashMap
+17:44:12.087 [main] INFO  resources.Log - Reading the Property file
+17:44:12.087 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: firefox
+17:44:12.087 [main] INFO  resources.Log - Fetching the Browser value as firefox
+17:44:12.087 [main] INFO  resources.Log - Invoking the firefox Browser
+17:44:14.318 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:44:14.319 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.319 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.319 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:44:14.319 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.319 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.319 [main] ERROR resources.Log - onTestSKipped
+17:44:14.319 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:44:14.319 [main] INFO  resources.Log - X
+17:44:14.319 [main] INFO  resources.Log - X
+17:44:14.319 [main] INFO  resources.Log - X
+17:44:14.319 [main] INFO  resources.Log - X
+17:44:14.321 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:44:14.321 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.321 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.321 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:44:14.321 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.322 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.322 [main] ERROR resources.Log - onTestSKipped
+17:44:14.322 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:44:14.322 [main] INFO  resources.Log - X
+17:44:14.322 [main] INFO  resources.Log - X
+17:44:14.322 [main] INFO  resources.Log - X
+17:44:14.322 [main] INFO  resources.Log - X
+17:44:14.323 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:44:14.324 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.324 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.324 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:44:14.324 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.324 [main] INFO  resources.Log - ****************************************************************************************
+17:44:14.324 [main] ERROR resources.Log - onTestSKipped
+17:44:14.324 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:44:14.324 [main] INFO  resources.Log - X
+17:44:14.324 [main] INFO  resources.Log - X
+17:44:14.324 [main] INFO  resources.Log - X
+17:44:14.324 [main] INFO  resources.Log - X
+17:44:14.327 [main] INFO  resources.Log - came to flush
+17:45:04.535 [main] INFO  resources.Log - Onstart
+17:45:04.564 [main] INFO  resources.Log - Reading JSON to String
+17:45:04.772 [main] INFO  resources.Log - Converting String to HashMap
+17:45:04.787 [main] INFO  resources.Log - Reading the Property file
+17:45:04.788 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: firefox
+17:45:04.788 [main] INFO  resources.Log - Fetching the Browser value as firefox
+17:45:04.788 [main] INFO  resources.Log - Invoking the firefox Browser
+17:45:06.333 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:45:06.333 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.333 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.333 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:45:06.333 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.333 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.334 [main] ERROR resources.Log - onTestSKipped
+17:45:06.334 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:45:06.334 [main] INFO  resources.Log - X
+17:45:06.338 [main] INFO  resources.Log - X
+17:45:06.338 [main] INFO  resources.Log - X
+17:45:06.338 [main] INFO  resources.Log - X
+17:45:06.341 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:45:06.341 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.342 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.342 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:45:06.342 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.342 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.342 [main] ERROR resources.Log - onTestSKipped
+17:45:06.342 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:45:06.342 [main] INFO  resources.Log - X
+17:45:06.342 [main] INFO  resources.Log - X
+17:45:06.342 [main] INFO  resources.Log - X
+17:45:06.342 [main] INFO  resources.Log - X
+17:45:06.344 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:45:06.344 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.344 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.344 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:45:06.344 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.345 [main] INFO  resources.Log - ****************************************************************************************
+17:45:06.345 [main] ERROR resources.Log - onTestSKipped
+17:45:06.345 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:45:06.345 [main] INFO  resources.Log - X
+17:45:06.345 [main] INFO  resources.Log - X
+17:45:06.345 [main] INFO  resources.Log - X
+17:45:06.345 [main] INFO  resources.Log - X
+17:45:06.357 [main] INFO  resources.Log - came to flush
+17:52:08.949 [main] INFO  resources.Log - Onstart
+17:52:08.978 [main] INFO  resources.Log - Reading JSON to String
+17:52:09.169 [main] INFO  resources.Log - Converting String to HashMap
+17:52:09.183 [main] INFO  resources.Log - Reading the Property file
+17:52:09.183 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: firefox
+17:52:09.183 [main] INFO  resources.Log - Fetching the Browser value as firefox
+17:52:09.183 [main] INFO  resources.Log - Invoking the firefox Browser
+17:52:11.237 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:52:11.237 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.237 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.237 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:52:11.237 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.237 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.238 [main] ERROR resources.Log - onTestSKipped
+17:52:11.238 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:52:11.238 [main] INFO  resources.Log - X
+17:52:11.238 [main] INFO  resources.Log - X
+17:52:11.238 [main] INFO  resources.Log - X
+17:52:11.238 [main] INFO  resources.Log - X
+17:52:11.241 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:52:11.241 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.241 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.241 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:52:11.241 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.242 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.242 [main] ERROR resources.Log - onTestSKipped
+17:52:11.242 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:52:11.242 [main] INFO  resources.Log - X
+17:52:11.242 [main] INFO  resources.Log - X
+17:52:11.242 [main] INFO  resources.Log - X
+17:52:11.242 [main] INFO  resources.Log - X
+17:52:11.244 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:52:11.244 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.244 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.244 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:52:11.245 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.245 [main] INFO  resources.Log - ****************************************************************************************
+17:52:11.245 [main] ERROR resources.Log - onTestSKipped
+17:52:11.245 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:52:11.245 [main] INFO  resources.Log - X
+17:52:11.245 [main] INFO  resources.Log - X
+17:52:11.245 [main] INFO  resources.Log - X
+17:52:11.245 [main] INFO  resources.Log - X
+17:52:11.247 [main] INFO  resources.Log - came to flush
+17:54:05.209 [main] INFO  resources.Log - Onstart
+17:54:05.237 [main] INFO  resources.Log - Reading JSON to String
+17:54:05.398 [main] INFO  resources.Log - Converting String to HashMap
+17:54:05.415 [main] INFO  resources.Log - Reading the Property file
+17:54:05.415 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: firefox
+17:54:05.415 [main] INFO  resources.Log - Fetching the Browser value as firefox
+17:54:05.415 [main] INFO  resources.Log - Invoking the firefox Browser
+17:54:07.090 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:54:07.090 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.090 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.090 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:54:07.090 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.090 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.091 [main] ERROR resources.Log - onTestSKipped
+17:54:07.091 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:54:07.091 [main] INFO  resources.Log - X
+17:54:07.091 [main] INFO  resources.Log - X
+17:54:07.091 [main] INFO  resources.Log - X
+17:54:07.091 [main] INFO  resources.Log - X
+17:54:07.093 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:54:07.094 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.094 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.094 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:54:07.094 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.094 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.094 [main] ERROR resources.Log - onTestSKipped
+17:54:07.094 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:54:07.094 [main] INFO  resources.Log - X
+17:54:07.094 [main] INFO  resources.Log - X
+17:54:07.094 [main] INFO  resources.Log - X
+17:54:07.094 [main] INFO  resources.Log - X
+17:54:07.096 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:54:07.096 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.097 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.097 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:54:07.097 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.097 [main] INFO  resources.Log - ****************************************************************************************
+17:54:07.097 [main] ERROR resources.Log - onTestSKipped
+17:54:07.097 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:54:07.097 [main] INFO  resources.Log - X
+17:54:07.097 [main] INFO  resources.Log - X
+17:54:07.097 [main] INFO  resources.Log - X
+17:54:07.097 [main] INFO  resources.Log - X
+17:54:07.100 [main] INFO  resources.Log - came to flush
+17:55:15.498 [main] INFO  resources.Log - Onstart
+17:55:15.526 [main] INFO  resources.Log - Reading JSON to String
+17:55:15.753 [main] INFO  resources.Log - Converting String to HashMap
+17:55:15.772 [main] INFO  resources.Log - Reading the Property file
+17:55:15.772 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: firefox
+17:55:15.772 [main] INFO  resources.Log - Fetching the Browser value as firefox
+17:55:15.772 [main] INFO  resources.Log - Invoking the firefox Browser
+17:55:17.714 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:55:17.714 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.714 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.714 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:55:17.714 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.714 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.714 [main] ERROR resources.Log - onTestSKipped
+17:55:17.714 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:55:17.714 [main] INFO  resources.Log - X
+17:55:17.714 [main] INFO  resources.Log - X
+17:55:17.714 [main] INFO  resources.Log - X
+17:55:17.714 [main] INFO  resources.Log - X
+17:55:17.717 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:55:17.717 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.717 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.717 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:55:17.717 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.717 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.718 [main] ERROR resources.Log - onTestSKipped
+17:55:17.718 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:55:17.718 [main] INFO  resources.Log - X
+17:55:17.718 [main] INFO  resources.Log - X
+17:55:17.718 [main] INFO  resources.Log - X
+17:55:17.718 [main] INFO  resources.Log - X
+17:55:17.721 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:55:17.721 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.721 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.721 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:55:17.721 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.721 [main] INFO  resources.Log - ****************************************************************************************
+17:55:17.721 [main] ERROR resources.Log - onTestSKipped
+17:55:17.721 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:55:17.721 [main] INFO  resources.Log - X
+17:55:17.722 [main] INFO  resources.Log - X
+17:55:17.722 [main] INFO  resources.Log - X
+17:55:17.722 [main] INFO  resources.Log - X
+17:55:17.725 [main] INFO  resources.Log - came to flush
+17:57:24.374 [main] INFO  resources.Log - Onstart
+17:57:24.401 [main] INFO  resources.Log - Reading JSON to String
+17:57:24.583 [main] INFO  resources.Log - Converting String to HashMap
+17:57:24.593 [main] INFO  resources.Log - Reading the Property file
+17:57:24.594 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: firefox
+17:57:24.594 [main] INFO  resources.Log - Fetching the Browser value as firefox
+17:57:24.594 [main] INFO  resources.Log - Invoking the firefox Browser
+17:57:26.656 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:57:26.656 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.656 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.656 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:57:26.656 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.656 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.656 [main] ERROR resources.Log - onTestSKipped
+17:57:26.656 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:57:26.656 [main] INFO  resources.Log - X
+17:57:26.656 [main] INFO  resources.Log - X
+17:57:26.656 [main] INFO  resources.Log - X
+17:57:26.656 [main] INFO  resources.Log - X
+17:57:26.660 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:57:26.660 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.660 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.660 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:57:26.660 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.660 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.660 [main] ERROR resources.Log - onTestSKipped
+17:57:26.660 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:57:26.660 [main] INFO  resources.Log - X
+17:57:26.660 [main] INFO  resources.Log - X
+17:57:26.660 [main] INFO  resources.Log - X
+17:57:26.660 [main] INFO  resources.Log - X
+17:57:26.662 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+17:57:26.662 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.662 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.662 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+17:57:26.662 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.662 [main] INFO  resources.Log - ****************************************************************************************
+17:57:26.663 [main] ERROR resources.Log - onTestSKipped
+17:57:26.663 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+17:57:26.663 [main] INFO  resources.Log - X
+17:57:26.663 [main] INFO  resources.Log - X
+17:57:26.663 [main] INFO  resources.Log - X
+17:57:26.663 [main] INFO  resources.Log - X
+17:57:26.666 [main] INFO  resources.Log - came to flush
+18:03:57.444 [main] INFO  resources.Log - Onstart
+18:03:57.498 [main] INFO  resources.Log - Reading JSON to String
+18:03:57.765 [main] INFO  resources.Log - Converting String to HashMap
+18:03:57.789 [main] INFO  resources.Log - Reading the Property file
+18:03:57.789 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: firefox
+18:03:57.789 [main] INFO  resources.Log - Fetching the Browser value as firefox
+18:03:57.789 [main] INFO  resources.Log - Invoking the firefox Browser
+18:03:59.882 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+18:03:59.882 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.882 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.883 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+18:03:59.883 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.883 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.883 [main] ERROR resources.Log - onTestSKipped
+18:03:59.883 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+18:03:59.883 [main] INFO  resources.Log - X
+18:03:59.883 [main] INFO  resources.Log - X
+18:03:59.883 [main] INFO  resources.Log - X
+18:03:59.883 [main] INFO  resources.Log - X
+18:03:59.885 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+18:03:59.885 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.885 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.885 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+18:03:59.885 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.885 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.885 [main] ERROR resources.Log - onTestSKipped
+18:03:59.886 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+18:03:59.886 [main] INFO  resources.Log - X
+18:03:59.886 [main] INFO  resources.Log - X
+18:03:59.886 [main] INFO  resources.Log - X
+18:03:59.886 [main] INFO  resources.Log - X
+18:03:59.887 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+18:03:59.887 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.887 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.887 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+18:03:59.888 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.888 [main] INFO  resources.Log - ****************************************************************************************
+18:03:59.888 [main] ERROR resources.Log - onTestSKipped
+18:03:59.888 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+18:03:59.888 [main] INFO  resources.Log - X
+18:03:59.888 [main] INFO  resources.Log - X
+18:03:59.888 [main] INFO  resources.Log - X
+18:03:59.888 [main] INFO  resources.Log - X
+18:03:59.891 [main] INFO  resources.Log - came to flush
+18:04:42.528 [main] INFO  resources.Log - Onstart
+18:04:42.558 [main] INFO  resources.Log - Reading JSON to String
+18:04:42.772 [main] INFO  resources.Log - Converting String to HashMap
+18:04:42.783 [main] INFO  resources.Log - Reading the Property file
+18:04:42.783 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+18:04:42.783 [main] INFO  resources.Log - Fetching the Browser value as chrome
+18:04:42.783 [main] INFO  resources.Log - Invoking the chrome Browser
+18:04:44.252 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+18:04:44.253 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.253 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.253 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+18:04:44.253 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.253 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.254 [main] ERROR resources.Log - onTestSKipped
+18:04:44.254 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+18:04:44.254 [main] INFO  resources.Log - X
+18:04:44.254 [main] INFO  resources.Log - X
+18:04:44.254 [main] INFO  resources.Log - X
+18:04:44.254 [main] INFO  resources.Log - X
+18:04:44.257 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+18:04:44.257 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.257 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.257 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+18:04:44.257 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.257 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.258 [main] ERROR resources.Log - onTestSKipped
+18:04:44.258 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+18:04:44.258 [main] INFO  resources.Log - X
+18:04:44.258 [main] INFO  resources.Log - X
+18:04:44.258 [main] INFO  resources.Log - X
+18:04:44.258 [main] INFO  resources.Log - X
+18:04:44.260 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+18:04:44.261 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.261 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.261 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+18:04:44.261 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.261 [main] INFO  resources.Log - ****************************************************************************************
+18:04:44.261 [main] ERROR resources.Log - onTestSKipped
+18:04:44.261 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+18:04:44.261 [main] INFO  resources.Log - X
+18:04:44.261 [main] INFO  resources.Log - X
+18:04:44.261 [main] INFO  resources.Log - X
+18:04:44.261 [main] INFO  resources.Log - X
+18:04:44.263 [main] INFO  resources.Log - came to flush
+18:08:49.655 [main] INFO  resources.Log - Onstart
+18:08:49.682 [main] INFO  resources.Log - Reading JSON to String
+18:08:49.914 [main] INFO  resources.Log - Converting String to HashMap
+18:08:49.926 [main] INFO  resources.Log - Reading the Property file
+18:08:49.926 [main] INFO  resources.Log - The Value of the Browser Fetched from the Properties: chrome
+18:08:49.926 [main] INFO  resources.Log - Fetching the Browser value as chrome
+18:08:49.926 [main] INFO  resources.Log - Invoking the chrome Browser
+18:08:51.184 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+18:08:51.184 [main] INFO  resources.Log - ****************************************************************************************
+18:08:51.184 [main] INFO  resources.Log - ****************************************************************************************
+18:08:51.184 [main] INFO  resources.Log - $$$$$$$$$$$$$$$$$$$$$                 loginPageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+18:08:51.184 [main] INFO  resources.Log - ****************************************************************************************
+18:08:51.184 [main] INFO  resources.Log - ****************************************************************************************
+18:08:51.185 [main] ERROR resources.Log - onTestSKipped
+18:08:51.185 [main] INFO  resources.Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+18:08:51.185 [main] INFO  resources.Log - X
+18:08:51.185 [main] INFO  resources.Log - X
+18:08:51.185 [main] INFO  resources.Log - X
+18:08:51.185 [main] INFO  resources.Log - X
+18:08:51.188 [main] INFO  resources.Log - Listener OnTestStart method loginPageTest
+18:08:51.188 [main] INFO  resources.Log - ****************************************************************************************
